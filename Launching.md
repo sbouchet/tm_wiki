@@ -3,7 +3,7 @@
 TM/Launching
 ============
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Lead: Martin Oberhuber (Wind River)  
 Members: Nokia, Freescale
@@ -18,5 +18,7 @@ Examples of ILaunchAction could be a RunShellCommandLaunchAction, or a DownloadF
 
 Proposed design by Robert Norton:
 
-[Media:LaunchActions.png](/images/7/77/LaunchActions.png "LaunchActions.png") [Media:LaunchActionUI.png](/images/7/73/LaunchActionUI.png "LaunchActionUI.png")
+![Media:LaunchActions.png](./images/LaunchActions.png)
+
+![Media:LaunchActionUI.png](./images/LaunchActionUI.png)
 

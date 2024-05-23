@@ -3,7 +3,7 @@
 TM/Inter-Debugger Communications
 ================================
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Lead: TBD (Freescale)  
 Members:
@@ -14,5 +14,5 @@ We want to create a framework that supports communication between any tools regi
 *   Drop into Hardware Debugging from an OS-aware debugger
 *   Events between TM-aware tools (e.g. start profiling / stop profiling)
 
-This initiative is related to the [Hardware Descriptions](/DSDP/DD/Spirit "DSDP/DD/Spirit") initiative.
+This initiative is related to the [Hardware Descriptions](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") initiative.
 
