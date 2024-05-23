@@ -1,9 +1,9 @@
 
 
-DSDP/TM/Face-to-face Toronto 23-Feb-2006
+TM/Face-to-face Toronto 23-Feb-2006
 ========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [TM](./TM)
 
 Contents
 --------
@@ -24,8 +24,8 @@ Contents
 Agenda & Attendee List
 ----------------------
 
-*   [Agenda](/DSDP/TM/Toronto_23-Feb-2006_Agenda "DSDP/TM/Toronto 23-Feb-2006 Agenda")
-*   [Photos from the Meeting](/DSDP/TM/Toronto_23-Feb-2006_Photos "DSDP/TM/Toronto 23-Feb-2006 Photos")
+*   [Agenda](./Toronto_23-Feb-2006_Agenda "DSDP/TM/Toronto 23-Feb-2006 Agenda")
+*   [Photos from the Meeting](./Toronto_23-Feb-2006_Photos "DSDP/TM/Toronto 23-Feb-2006 Photos")
 
 Presentations
 -------------
@@ -37,7 +37,7 @@ Presentations
 Minutes - Thursday TM session
 -----------------------------
 
-See [DD Meeting Notes](/DSDP/DD/Face-to-face_Toronto_22-Feb-2006 "DSDP/DD/Face-to-face Toronto 22-Feb-2006") for the Joint Session:
+See [DD Meeting Notes](https://wiki.eclipse.org/DSDP/DD/Face-to-face_Toronto_22-Feb-2006 "DSDP/DD/Face-to-face Toronto 22-Feb-2006") for the Joint Session:
 
 *   Doug G - Update on DSDP, Plans for EclipseCon
 *   Hobson Bullman - Introduction to SPIRIT
