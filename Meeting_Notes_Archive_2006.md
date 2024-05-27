@@ -28,7 +28,7 @@ The face-to-face meetings are our instrument for getting to know each other, col
 
 *   [Face-to-Face Meeting Toronto 23-Feb-2006](./Face-to-face_Toronto_23-Feb-2006 "DSDP/TM/Face-to-face Toronto 23-Feb-2006")
 *   [Connector Meeting Salzburg 14-Nov-2005](./DSDP-TM_Connector_Meeting_Salzburg_2005x11x14 "DSDP-TM Connector Meeting Salzburg 2005x11x14")
-*   [Face-to-Face Meeting Chicago 12-Oct-2005](https://www.eclipse.org./doc/index.php)
+*   [Face-to-Face Meeting Chicago 12-Oct-2005](https://www.eclipse.org/dsdp/tm/doc/index.php)
 
 Monthly Phone Meetings
 ----------------------
