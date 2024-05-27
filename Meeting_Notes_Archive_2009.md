@@ -14,17 +14,17 @@ Monthly Phone Meetings
 
 The monthly phone meetings are open for everyone to attend (and we actually encourage participation). We talk about the current state of the project, and make collaborative decisions on next steps.
 
-*   [DSDP/TM/Meetings/9-Dec-2009](./Meetings/9-Dec-2009 "DSDP/TM/Meetings/9-Dec-2009")
-*   [DSDP/TM/Meetings/4-Nov-2009](./Meetings/4-Nov-2009 "DSDP/TM/Meetings/4-Nov-2009")
-*   [DSDP/TM/Meetings/7-Oct-2009](./Meetings/7-Oct-2009 "DSDP/TM/Meetings/7-Oct-2009")
-*   [DSDP/TM/Meetings/2-Sep-2009](./Meetings/2-Sep-2009 "DSDP/TM/Meetings/2-Sep-2009")
-*   [DSDP/TM/Meetings/5-Aug-2009](./Meetings/5-Aug-2009 "DSDP/TM/Meetings/5-Aug-2009")
-*   [DSDP/TM/Meetings/3-Jun-2009](./Meetings/3-Jun-2009 "DSDP/TM/Meetings/3-Jun-2009")
-*   [DSDP/TM/Meetings/6-May-2009](./Meetings/6-May-2009 "DSDP/TM/Meetings/6-May-2009")
-*   [DSDP/TM/Meetings/1-Apr-2009](./Meetings/1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
+*   [DSDP/TM/Meetings/9-Dec-2009](./9-Dec-2009 "DSDP/TM/Meetings/9-Dec-2009")
+*   [DSDP/TM/Meetings/4-Nov-2009](./4-Nov-2009 "DSDP/TM/Meetings/4-Nov-2009")
+*   [DSDP/TM/Meetings/7-Oct-2009](./7-Oct-2009 "DSDP/TM/Meetings/7-Oct-2009")
+*   [DSDP/TM/Meetings/2-Sep-2009](./2-Sep-2009 "DSDP/TM/Meetings/2-Sep-2009")
+*   [DSDP/TM/Meetings/5-Aug-2009](./5-Aug-2009 "DSDP/TM/Meetings/5-Aug-2009")
+*   [DSDP/TM/Meetings/3-Jun-2009](./3-Jun-2009 "DSDP/TM/Meetings/3-Jun-2009")
+*   [DSDP/TM/Meetings/6-May-2009](./6-May-2009 "DSDP/TM/Meetings/6-May-2009")
+*   [DSDP/TM/Meetings/1-Apr-2009](./1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
 *   No BOF planned at Eclipsecon
-*   [DSDP/TM/Meetings/4-Mar-2009](./Meetings/4-Mar-2009 "DSDP/TM/Meetings/4-Mar-2009")
-*   ~~[DSDP/TM/Meetings/4-Feb-2009](./Meetings/4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009")~~ This meeting is canceled.
+*   [DSDP/TM/Meetings/4-Mar-2009](./4-Mar-2009 "DSDP/TM/Meetings/4-Mar-2009")
+*   ~~[DSDP/TM/Meetings/4-Feb-2009](./4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009")~~ This meeting is canceled.
 *   [Phone Meeting 7-Jan-2009](./Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009")
 
 Committer Phone Meetings
@@ -32,12 +32,12 @@ Committer Phone Meetings
 
 Committer phone meetings are about technical issues of daily committer work. The meetings are open so anybody may attend, though the content will mostly be interesting for committers only.
 
-*   [DSDP/TM/Meetings/17-Jun-2009 Committer](./Meetings/17-Jun-2009_Committer "DSDP/TM/Meetings/17-Jun-2009 Committer")
-*   [DSDP/TM/Meetings/20-May-2009 Committer](./Meetings/20-May-2009_Committer "DSDP/TM/Meetings/20-May-2009 Committer")
-*   [DSDP/TM/Meetings/16-Apr-2009 Committer](./Meetings/16-Apr-2009_Committer "DSDP/TM/Meetings/16-Apr-2009 Committer")
-*   [DSDP/TM/Meetings/18-Mar-2009 Committer](./Meetings/18-Mar-2009_Committer "DSDP/TM/Meetings/18-Mar-2009 Committer")
-*   [DSDP/TM/Meetings/18-Feb-2009 Committer](./Meetings/18-Feb-2009_Committer "DSDP/TM/Meetings/18-Feb-2009 Committer")
-*   [DSDP/TM/Meetings/21-Jan-2009 Committer](./Meetings/21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer")
+*   [DSDP/TM/Meetings/17-Jun-2009 Committer](./17-Jun-2009_Committer "DSDP/TM/Meetings/17-Jun-2009 Committer")
+*   [DSDP/TM/Meetings/20-May-2009 Committer](./20-May-2009_Committer "DSDP/TM/Meetings/20-May-2009 Committer")
+*   [DSDP/TM/Meetings/16-Apr-2009 Committer](./16-Apr-2009_Committer "DSDP/TM/Meetings/16-Apr-2009 Committer")
+*   [DSDP/TM/Meetings/18-Mar-2009 Committer](./18-Mar-2009_Committer "DSDP/TM/Meetings/18-Mar-2009 Committer")
+*   [DSDP/TM/Meetings/18-Feb-2009 Committer](./18-Feb-2009_Committer "DSDP/TM/Meetings/18-Feb-2009 Committer")
+*   [DSDP/TM/Meetings/21-Jan-2009 Committer](./21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer")
 
 Meeting Notes Archive
 ---------------------
