@@ -5,7 +5,7 @@ DSDP-TM Connector Meeting Salzburg 2005x11x14
 
 | Meeting Title: | **Meeting to continue discussion on Target Connection Adapter proposal** |
 | --- | --- |
-| Date & Time: | Monday [November 14, 2005](/index.php?title=November_14,_2005&action=edit&redlink=1 "November 14, 2005 (page does not exist)") at 3pm CET |
+| Date & Time: | Monday November 14, 2005 at 3pm CET |
 | Location: | WR Office, Salzburg, Austria |
 
 Attendants

@@ -21,7 +21,7 @@ The pages below were created to contain the activity of several small sub-groups
 
 | **Technology** | **Lead** | **Members** | **Comments** |
 | --- | --- | --- | --- |
-| [Hardware Descriptions](./Spirit) | Aaron Spear (ATI/Mentor) |  | Shared with DD SPIRIT group |
+| [Hardware Descriptions](https://wiki.eclipse.org/DSDP/DD/Spirit) | Aaron Spear (ATI/Mentor) |  | Shared with DD SPIRIT group |
 | [Launching](./Launching) | Martin Oberhuber (WR) | Nokia, Freescale | Related to [DD Launching Group](https://wiki.eclipse.org/DSDP/DD/Launch) |
 | [Associations](./Target_Associations) | TBD | WR, Mentor | Associate connection with Project or Build |
 | [Flexible Target Connection Adaptors](./Flexible_Target_Connection_Adaptors) | Peter Lachner (Intel) | Paul Gingrich (TI), Felix Burton (WR), Tom Hochstein (Freescale), Aaron Spear (Mentor) |  |

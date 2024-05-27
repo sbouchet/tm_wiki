@@ -3,7 +3,7 @@
 TM/Connection Groups
 ====================
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Lead: TBD  
 Members: Mentor, Freescale, Curtiss-Wright, WindRiver
@@ -12,8 +12,8 @@ We want to define groups of connections, and groups of components (cores) on a c
 
 *   Synchronous Run-Control (lowest level; synchronous)
 *   Downloads to multiple targets (not synchronous; parallel; sequential)
-*   Multi-Language Debugging (coordinated Java / JNI debuggers; related to [Inter-Debugger Communications](/DSDP/TM/Inter-Debugger_Communications "DSDP/TM/Inter-Debugger Communications"))
-*   Reservation from a [Shared Board Lab](/DSDP/TM/Shared_Board_Labs "DSDP/TM/Shared Board Labs")
+*   Multi-Language Debugging (coordinated Java / JNI debuggers; related to [Inter-Debugger Communications](./Inter-Debugger_Communications "DSDP/TM/Inter-Debugger Communications"))
+*   Reservation from a [Shared Board Lab](./Shared_Board_Labs "DSDP/TM/Shared Board Labs")
 
 Related bugs: [159164](https://bugs.eclipse.org/bugs/show_bug.cgi?id=159164)
 
