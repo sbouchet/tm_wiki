@@ -3,9 +3,9 @@
 TM/Meetings
 ===========
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
-Nav: [TM](/TM "TM") | TM/Meetings
+Nav: [TM](./TM "TM") | TM/Meetings
 
 Contents
 --------
@@ -20,20 +20,20 @@ Face-to-Face and Special Meetings
 
 The face-to-face meetings are our instrument for getting to know each other, collecting requirements, and planning big steps. The face-to-face meeting minutes hold important information on major decisions we've made.
 
-*   [Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   [Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
 
 TCF Meetings
 ------------
 
-*   See [TCF/Meetings](/TCF/Meetings "TCF/Meetings")
+*   See [TCF/Meetings](https://wiki.eclipse.org/TCF/Meetings "TCF/Meetings")
 
 Monthly Phone Meetings
 ----------------------
 
 The monthly phone meetings are open for everyone to attend (and we actually encourage participation). We talk about the current state of the project, and make collaborative decisions on next steps.
 
-*   [TM/Meetings/03-Dec-2013](/TM/Meetings/03-Dec-2013 "TM/Meetings/03-Dec-2013")
-*   [TM/Meetings/05-Nov-2013](/TM/Meetings/05-Nov-2013 "TM/Meetings/05-Nov-2013")
+*   [TM/Meetings/03-Dec-2013](./03-Dec-2013 "TM/Meetings/03-Dec-2013")
+*   [TM/Meetings/05-Nov-2013](./05-Nov-2013 "TM/Meetings/05-Nov-2013")
 *   [TM/Meetings/8-October-2013](/TM/Meetings/8-October-2013 "TM/Meetings/8-October-2013")
 *   [TM/Meetings/10-September-2013](/TM/Meetings/10-September-2013 "TM/Meetings/10-September-2013")
 *   [TM/Meetings/9-July-2013](/TM/Meetings/9-July-2013 "TM/Meetings/9-July-2013")
