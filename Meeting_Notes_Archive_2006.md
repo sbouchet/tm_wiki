@@ -84,5 +84,5 @@ Committer phone meetings are about technical issues of daily committer work. The
 Meeting Notes Archive
 ---------------------
 
-*   See the [DSDP-TM Website](https://www.eclipse.org./doc/) for older phone meeting notes.
+*   See the [DSDP-TM Website](https://www.eclipse.org/dsdp/tm/doc/) for older phone meeting notes.
 

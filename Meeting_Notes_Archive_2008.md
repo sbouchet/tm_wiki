@@ -77,5 +77,5 @@ Meeting Notes Archive
 
 *   [DSDP/TM/Meeting Notes Archive 2007](./Meeting_Notes_Archive_2007 "DSDP/TM/Meeting Notes Archive 2007")
 *   [DSDP/TM/Meeting Notes Archive 2006](./Meeting_Notes_Archive_2006 "DSDP/TM/Meeting Notes Archive 2006")
-*   See the [DSDP-TM Website](https://www.eclipse.org./doc/) for older phone meeting notes.
+*   See the [DSDP-TM Website](https://www.eclipse.org/dsdp/tm/doc/) for older phone meeting notes.
 
