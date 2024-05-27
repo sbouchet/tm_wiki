@@ -25,7 +25,7 @@ We want to
 *   Autodetect boards on the local network or in a lab
 *   Autodetect services on a remote system
 *   Autodetect connection mechanisms to a board (connectors)
-*   Autodetect remote board registries (related to [Shared Board Labs](/DSDP/TM/Shared_Board_Labs "DSDP/TM/Shared Board Labs"))
+*   Autodetect remote board registries (related to [Shared Board Labs](./Shared_Board_Labs "DSDP/TM/Shared Board Labs"))
 
 in order to simplify setup of remote system connections for a user.
 
