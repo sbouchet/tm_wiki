@@ -3,7 +3,7 @@
 TM/Terminal
 ===========
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 The eclipse terminal.
 

@@ -3,7 +3,7 @@
 TM/Autodetect
 =============
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Lead: Javier Montalvo-Orús (Symbian)  
 Members: Symbian, Freescale, WR
