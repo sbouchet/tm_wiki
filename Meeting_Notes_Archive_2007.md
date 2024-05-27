@@ -5,7 +5,7 @@ DSDP/TM/Meeting Notes Archive 2007
 
 < [TM](./TM "DSDP/TM")
 
-Nav: [DSDP/TM](./TM "DSDP/TM") | [DSDP/TM/Meeting Notes](./Meeting_Notes "DSDP/TM/Meeting Notes") | DSDP/TM/Meeting Notes Archive 2007
+Nav: [DSDP/TM](./TM "DSDP/TM") | [DSDP/TM/Meeting Notes](./Meetings "DSDP/TM/Meeting Notes") | DSDP/TM/Meeting Notes Archive 2007
 
 Contents
 --------
@@ -19,7 +19,7 @@ Contents
 Archive
 =======
 
-*   See [DSDP/TM/Meeting Notes](./Meeting_Notes "DSDP/TM/Meeting Notes") for current notes.
+*   See [DSDP/TM/Meeting Notes](./Meetings "DSDP/TM/Meeting Notes") for current notes.
 
 Face-to-Face and Special Meetings
 ---------------------------------

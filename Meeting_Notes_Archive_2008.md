@@ -5,7 +5,7 @@ DSDP/TM/Meeting Notes Archive 2008
 
 < [TM](./TM "DSDP/TM")
 
-Nav: [DSDP/TM](./TM "DSDP/TM") | [DSDP/TM/Meeting Notes](./Meeting_Notes "DSDP/TM/Meeting Notes")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [DSDP/TM/Meeting Notes](./Meetings "DSDP/TM/Meeting Notes")
 
 Contents
 --------

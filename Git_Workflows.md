@@ -3,7 +3,7 @@
 TM/Git Workflows
 ================
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Contents
 --------
@@ -30,7 +30,7 @@ Windows Install
         *   For me, the default %HOMEDRIVE%%HOMEPATH% pointed to a non-existing remote folder, making everything dead slow
         *   So I've set HOME=D:/Workspaces/git -- all your git repos will be below there by default, and your user config too
     *   Re-start Git Bash to verify it is fast and HOME is accurate
-4.  Set up your user ID on git bash as per [Git#Committers\_new\_to_Git](/Git#Committers_new_to_Git "Git").
+4.  Set up your user ID on git bash as per [Git#Committers\_new\_to_Git](https://wiki.eclipse.org/Git#Committers_new_to_Git "Git").
     *   Eclipse Committers who don't want to expose their E-Mail Address can use their committerid instead of the E-Mail address.
 
   git config --global user.email my\_committer\_email@address.com
@@ -41,12 +41,12 @@ Windows Install
     *   Check **Preferences > Team > Git > Configuration** whether it picked up your commandline settings
         *   May need to specify Location of Msysgit install in System Settings
         *   May want to update Default Repository Folder in Git : Cloning Repositories
-        *   In user settings, verify **branch.autosetuprebase = always** as per [Platform-releng/Git\_Workflows#Configure\_the_workspace](/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows")
+        *   In user settings, verify **branch.autosetuprebase = always** as per [Platform-releng/Git\_Workflows#Configure\_the_workspace](https://wiki.eclipse.org/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows")
         *   In Preferences > **General > Workspace**, set **New text file line delimiter** to **Unix**
     *   Check **Preferences > General > Network > SSH2** home directory
         *   Set to your $HOME/.ssh in order to share with Msysgit - or copy the $HOME/.ssh folder
         *   Generate a private/public key pair if necessary (in the UI, or on Git Bash as per below link)
-        *   Upload your [Gerrit#SSH_Keys](/Gerrit#SSH_Keys "Gerrit") \- using a passphrase is recommended
+        *   Upload your [Gerrit#SSH_Keys](https://wiki.eclipse.org/Gerrit#SSH_Keys "Gerrit") \- using a passphrase is recommended
 2.  Set up SSH private key for Tortoise Git (this is re-used by Egit)
     *   Launch **C:\\Program Files\\TortoiseGit\\bin\\puttygen.exe** to load your openssh private key and convert into a putty private key in your home/.ssh
     *   Launch **C:\\Program Files\\TortoiseGit\\bin\\pageant.exe** ; right-click the icon in taskbar and load your putty private key (agent will serve Egit, Msysgit and Tortoisegit)
@@ -58,22 +58,22 @@ Linux Install
 
 This is a subset of the Windows install since more settings will be appropriate by default.
 
-1.  Set up your user ID on git commandline as per [Git#Committers\_new\_to_Git](/Git#Committers_new_to_Git "Git")
+1.  Set up your user ID on git commandline as per [Git#Committers\_new\_to_Git](https://wiki.eclipse.org/Git#Committers_new_to_Git "Git")
 
   git config --global user.email my\_committer\_email@address.com
   git config --global user.name "John Doe"
   git config --global branch.autosetuprebase always
 
 1.  Launch Eclipse SDK and install latest [Egit](https://www.eclipse.org/egit) from [http://download.eclipse.org/egit/updates](http://download.eclipse.org/egit/updates)
-    *   *   In user settings, set **branch.autosetuprebase = always** as per [Platform-releng/Git\_Workflows#Configure\_the_workspace](/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows")
-    *   Upload your [Gerrit#SSH_Keys](/Gerrit#SSH_Keys "Gerrit")
+    *   *   In user settings, set **branch.autosetuprebase = always** as per [Platform-releng/Git\_Workflows#Configure\_the_workspace](https://wiki.eclipse.org/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows")
+    *   Upload your [Gerrit#SSH_Keys](https://wiki.eclipse.org/Gerrit#SSH_Keys "Gerrit")
 
   
 
 Cloning the Repo
 ================
 
-*   **Optiona A (Recommended)**: Using [EGit](/EGit "EGit") and **File > Import > Team > Team Project Set**:
+*   **Optiona A (Recommended)**: Using [EGit](https://wiki.eclipse.org/EGit "EGit") and **File > Import > Team > Team Project Set**:
     *   Committers import [tm-all-committer.psf](http://eclipse.org/tm/development/tm-all-committer.psf)
     *   Users/Contributors import [tm-all-anonymous.psf](http://eclipse.org/tm/development/tm-all-anonymous.psf)
 
@@ -85,18 +85,18 @@ Cloning the Repo
  git clone [ssh://committer_id@git.eclipse.org/gitroot/www.eclipse.org/tm.git](ssh://committer_id@git.eclipse.org/gitroot/www.eclipse.org/tm.git)
  #readonly:# git clone [http://git.eclipse.org/gitroot/www.eclipse.org/tm.git](http://git.eclipse.org/gitroot/www.eclipse.org/tm.git)
 
-*   **Option C - Plain Egit UI** \- Refer to [EGit/User Guide](/EGit/User_Guide "EGit/User Guide") for more detailed instructions
+*   **Option C - Plain Egit UI** \- Refer to [EGit/User Guide](https://wiki.eclipse.org/EGit/User_Guide "EGit/User Guide") for more detailed instructions
     *   File > Import > Git : Projects from Git
         *   URI, Next, Paste URL: **[ssh://userid@git.eclipse.org:29418/tm/org.eclipse.tm.git](ssh://userid@git.eclipse.org:29418/tm/org.eclipse.tm.git)**, Edit userid, Next
             *   Read-only contributors paste **[git://git.eclipse.org/gitroot/tm/org.eclipse.tm.git](git://git.eclipse.org/gitroot/tm/org.eclipse.tm.git)**
         *   Import projects from file system as needed, next
     *   If desired, import the website repository the same way
-*   For contributing to the Simultaneous Release, see [Simrel/Contributing\_to\_Simrel\_Aggregation\_Build#Get\_the\_simrel.build_project](/Simrel/Contributing_to_Simrel_Aggregation_Build#Get_the_simrel.build_project "Simrel/Contributing to Simrel Aggregation Build")
+*   For contributing to the Simultaneous Release, see [Simrel/Contributing\_to\_Simrel\_Aggregation\_Build#Get\_the\_simrel.build_project](https://wiki.eclipse.org/Simrel/Contributing_to_Simrel_Aggregation_Build#Get_the_simrel.build_project "Simrel/Contributing to Simrel Aggregation Build")
 
 Configure the workspace
 -----------------------
 
-\[This section originally copied from [Platform-releng/Git\_Workflows#Configure\_the_workspace](/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows").
+\[This section originally copied from [Platform-releng/Git\_Workflows#Configure\_the_workspace](https://wiki.eclipse.org/Platform-releng/Git_Workflows#Configure_the_workspace "Platform-releng/Git Workflows").
 
 Open the **Team > Git > Configuration** preference page and select the **User Settings** tab.
 
@@ -105,12 +105,12 @@ Open the **Team > Git > Configuration** preference page and select the **User Se
 
 On the **General > Workspace** preference page, set **New text file line delimiter** to **Unix**.
 
-Set up JRE's, Target Platform and API Baseline as per [TM/Code Streams](/TM/Code_Streams "TM/Code Streams")
+Set up JRE's, Target Platform and API Baseline as per [TM/Code Streams](./Code_Streams "TM/Code Streams")
 
 Configuring the repo
 --------------------
 
-This section originally copied from [Platform-releng/Git\_Workflows#Configuring\_the_repo](/Platform-releng/Git_Workflows#Configuring_the_repo "Platform-releng/Git Workflows").
+This section originally copied from [Platform-releng/Git\_Workflows#Configuring\_the_repo](https://wiki.eclipse.org/Platform-releng/Git_Workflows#Configuring_the_repo "Platform-releng/Git Workflows").
 
 Make sure that you set **core.autocrlf = false** and on Windows **core.filemode = false**. If you use EGit to clone the repository then the latter is done automatically for you.
 
@@ -118,20 +118,20 @@ Unless you are working on topic branches, we work in a fairly linear history. Pl
 
 Otherwise, once you've cloned a repository, you can go to the **Preferences > Team > Git > Configuration** page. Select your repository, select the branch you picked when you cloned the repository, and click **New Entry...**. Append "rebase" to the text in the 'Key' field and enter "true" as value.
 
-![RepositoryConfigurationSettings.png](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/RepositoryConfigurationSettings.png)
+![RepositoryConfigurationSettings.png](./images/RepositoryConfigurationSettings.png)
 
 TODO
 ====
 
-*   Git Workflows - for commandline see also [TM/Meetings/30-Oct-2012#Git_Migration](/TM/Meetings/30-Oct-2012#Git_Migration "TM/Meetings/30-Oct-2012")
-*   Git Workflows - see [Platform-releng/Git_Workflows](/Platform-releng/Git_Workflows "Platform-releng/Git Workflows") for now
+*   Git Workflows - for commandline see also [TM/Meetings/30-Oct-2012#Git_Migration](./30-Oct-2012#Git_Migration "TM/Meetings/30-Oct-2012")
+*   Git Workflows - see [Platform-releng/Git_Workflows](https://wiki.eclipse.org/Platform-releng/Git_Workflows "Platform-releng/Git Workflows") for now
 
 Nice-to-have additions
 ----------------------
 
 *   Tortoise Git User Setting - synchronized with Git Bash ?!?
 *   Convert .cvsignore files into .gitignore
-*   Add [Gerrit](/Gerrit "Gerrit") setup info for egit (changeset, push for review)
+*   Add [Gerrit](https://wiki.eclipse.org/Gerrit "Gerrit") setup info for egit (changeset, push for review)
 *   Reduce cdt dependency for tm-terminal-local
 *   Terminal ESC-K addition
 *   CQ Terminal trim addition
