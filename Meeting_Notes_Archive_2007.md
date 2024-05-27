@@ -82,7 +82,7 @@ Committer phone meetings are about technical issues of daily committer work. The
 *   [Committer Phone Meeting 24-Apr-2007](./Committer_Phone_Meeting_24-Apr-2007 "DSDP/TM/Committer Phone Meeting 24-Apr-2007")
 *   [Committer Phone Meeting 17-Apr-2007](./Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007")
 *   [Committer Phone Meeting 10-Apr-2007](./Committer_Phone_Meeting_10-Apr-2007 "DSDP/TM/Committer Phone Meeting 10-Apr-2007")
-*   [Committer Phone Meeting 3-Apr-2007](./Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007"), [TM 2.0 M6 Testing](/TM_2.0_M6_Testing "TM 2.0 M6 Testing")
+*   [Committer Phone Meeting 3-Apr-2007](./Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007"), [TM 2.0 M6 Testing](./TM_2.0_M6_Testing "TM 2.0 M6 Testing")
 *   [Committer Phone Meeting 29-Mar-2007](./Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007")
 *   [Committer Phone Meeting 20-Mar-2007](./Committer_Phone_Meeting_20-Mar-2007 "DSDP/TM/Committer Phone Meeting 20-Mar-2007")
 *   [Committer Phone Meeting 13-Mar-2007](./Committer_Phone_Meeting_13-Mar-2007 "DSDP/TM/Committer Phone Meeting 13-Mar-2007")

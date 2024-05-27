@@ -27,7 +27,7 @@ Face-to-Face and Special Meetings
 The face-to-face meetings are our instrument for getting to know each other, collecting requirements, and planning big steps. The face-to-face meeting minutes hold important information on major decisions we've made.
 
 *   [Face-to-Face Meeting Toronto 23-Feb-2006](./Face-to-face_Toronto_23-Feb-2006 "DSDP/TM/Face-to-face Toronto 23-Feb-2006")
-*   [Connector Meeting Salzburg 14-Nov-2005](/DSDP-TM_Connector_Meeting_Salzburg_2005x11x14 "DSDP-TM Connector Meeting Salzburg 2005x11x14")
+*   [Connector Meeting Salzburg 14-Nov-2005](./DSDP-TM_Connector_Meeting_Salzburg_2005x11x14 "DSDP-TM Connector Meeting Salzburg 2005x11x14")
 *   [Face-to-Face Meeting Chicago 12-Oct-2005](https://www.eclipse.org./doc/index.php)
 
 Monthly Phone Meetings
@@ -44,10 +44,10 @@ The monthly phone meetings are open for everyone to attend (and we actually enco
 *   [Phone Meeting 7-Jun-2006](./Phone_Meeting_7-Jun-2006 "DSDP/TM/Phone Meeting 7-Jun-2006")
 *   [Phone Meeting 3-May-2006](./Phone_Meeting_3-May-2006 "DSDP/TM/Phone Meeting 3-May-2006")
 *   [Phone Meeting 10-Apr-2006](./Phone_Meeting_10-Apr-2006 "DSDP/TM/Phone Meeting 10-Apr-2006")
-*   [Phone Meeting 6-Feb-2006](/DSDP-TM_Notes_2006x02x06 "DSDP-TM Notes 2006x02x06")
-*   [Phone Meeting 23-Jan-2006](/DSDP-TM_Notes_2006x01x23 "DSDP-TM Notes 2006x01x23")
-*   [Phone Meeting 19-Dec-2005](/DSDP_TM_Notes_2005x12x19 "DSDP TM Notes 2005x12x19")
-*   [Phone Meeting 28-Nov-2005](/DSDP_TM_Notes_2005x11x28 "DSDP TM Notes 2005x11x28")
+*   [Phone Meeting 6-Feb-2006](./DSDP-TM_Notes_2006x02x06 "DSDP-TM Notes 2006x02x06")
+*   [Phone Meeting 23-Jan-2006](./DSDP-TM_Notes_2006x01x23 "DSDP-TM Notes 2006x01x23")
+*   [Phone Meeting 19-Dec-2005](./DSDP_TM_Notes_2005x12x19 "DSDP TM Notes 2005x12x19")
+*   [Phone Meeting 28-Nov-2005](./DSDP_TM_Notes_2005x11x28 "DSDP TM Notes 2005x11x28")
 
 Committer Phone Meetings
 ------------------------

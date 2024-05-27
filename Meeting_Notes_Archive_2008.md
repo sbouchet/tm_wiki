@@ -26,7 +26,7 @@ The face-to-face meetings are our instrument for getting to know each other, col
 TCF Meetings
 ------------
 
-*   See [DSDP/TCF/Meetings](/DSDP/TCF/Meetings "DSDP/TCF/Meetings")
+*   See [DSDP/TCF/Meetings](https://wiki.eclipse.org/DSDP/TCF/Meetings "DSDP/TCF/Meetings")
 
 Monthly Phone Meetings
 ----------------------
