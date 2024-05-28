@@ -47,7 +47,7 @@ Agenda
     *   All: Plans for EclipseCon – who's attending, Tutorials/Talks, BOF's
     *   Standardized Hardware Descriptions
         *   Hobson Bullman: Introduction to [SPIRIT](http://www.spiritconsortium.com/) for hardware descriptions
-        *   Aaron Spear: [Hardware Descriptions at ATI/Mentor](./DSDP-TM_Hardware_Descriptions_at_ATI/Mentor_2006x02x17 "DSDP-TM Hardware Descriptions at ATI/Mentor 2006x02x17")
+        *   Aaron Spear: [Hardware Descriptions at ATI/Mentor](./Mentor_2006x02x17 "DSDP-TM Hardware Descriptions at ATI/Mentor 2006x02x17")
         *   Doug Gaff: [Boardfile Descriptions at Windriver](./DSDP-TM_Boardfile_Descriptions_at_Windriver_2005x12x19 "DSDP-TM Boardfile Descriptions at Windriver 2005x12x19")
         *   TBD: [SkyEye](http://www.skyeye.org) \- a mutil-architecure simulator that can run linux. It has a config file that maybe meet the definition of various embedded hadrwares.
 *   TM session
