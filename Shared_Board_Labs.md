@@ -17,3 +17,5 @@ We want to create frameworks that support connecting to remote databases maintai
 
 This initiative is related to the [DSDP/TM/Target Associations](./Target_Associations "DSDP/TM/Target Associations") initiative.
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Shared_Board_Labs](https://wiki.eclipse.org/DSDP/TM/Shared_Board_Labs))

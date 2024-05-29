@@ -13,3 +13,5 @@ As a first step, I'm attching a [sample and description of the board file specif
 
 I'd hope that other companies could follow and put their samples or descriptions to the table, such that we can get a feeling of what features are required from a "unified" format, and find out future steps to take.
 
+
+(Migrated from [https://wiki.eclipse.org//DSDP-TM_Boardfile_Descriptions_at_Windriver_2005x12x19](https://wiki.eclipse.org//DSDP-TM_Boardfile_Descriptions_at_Windriver_2005x12x19))

@@ -25,3 +25,5 @@ Some customers have some hardware setup where different Data Collection Units (D
 
 By being grouped under a host in the RSE tree, software components could programatically derive many settings (Core, etc...) required to the configuration of the DCU and configuration of the target.
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Connection_Groups](https://wiki.eclipse.org/DSDP/TM/Connection_Groups))

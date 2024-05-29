@@ -64,3 +64,5 @@ Agenda
     *   Martin O: Review [Project plan](https://www.eclipse.org/dsdp/tm/development/plan.php), and work-sub-items
         *   Create Working Groups for the main TM areas of work: Hardware Descriptions, Data Models, Connectivity, Services
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Toronto_23-Feb-2006_Agenda](https://wiki.eclipse.org/DSDP/TM/Toronto_23-Feb-2006_Agenda))

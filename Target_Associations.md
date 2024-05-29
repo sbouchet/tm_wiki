@@ -17,3 +17,5 @@ This should help developers who open a certain project or perform a certain buil
 
 This initiative is related to the [DSDP/TM/Shared Board Labs](./Shared_Board_Labs) initiative.
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Target_Associations](https://wiki.eclipse.org/DSDP/TM/Target_Associations))

@@ -140,3 +140,5 @@ Nice-to-have additions
 *   Review .api_description in Tycho
 *   Get rid of cvs references from the tm website
 
+
+(Migrated from [https://wiki.eclipse.org/TM/Git_Workflows](https://wiki.eclipse.org/TM/Git_Workflows))

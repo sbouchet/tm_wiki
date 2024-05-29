@@ -37,3 +37,5 @@ Notes
 *   Martin: TM should **only hold the meta-information** for connectors (that can also be programs outside Eclipse): provided-protocol, required-protocol. Example: Wind River chain of servers (Eclipse - dfwserver - tgtsvr - target agent) is mostly not Java
 *   Felix Burton worked on "Receptacles" 1980 -- showcase that composition and configuration of connection chains can actually work
 
+
+(Migrated from [https://wiki.eclipse.org//DSDP-TM_Connector_Meeting_Salzburg_2005x11x14](https://wiki.eclipse.org//DSDP-TM_Connector_Meeting_Salzburg_2005x11x14))

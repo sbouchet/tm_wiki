@@ -61,3 +61,5 @@ To test and evaluate the service discovery functionality in RSE 2.0, follow the 
 
 *   Bugzilla [bug 140320](https://bugs.eclipse.org/bugs/show_bug.cgi?id=140320)
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Autodetect](https://wiki.eclipse.org/DSDP/TM/Autodetect))

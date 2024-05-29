@@ -22,3 +22,5 @@ Proposed design by Robert Norton:
 
 ![Media:LaunchActionUI.png](./images/LaunchActionUI.png)
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Launching](https://wiki.eclipse.org/DSDP/TM/Launching))

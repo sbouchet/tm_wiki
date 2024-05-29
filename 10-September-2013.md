@@ -31,7 +31,7 @@ When
 ----
 
 10 September 2013 (Tuesday) at [1100 Rochester MN](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Eclipse+TM+September+Committer+Call&iso=20130910T11&p1=159&am=30)  
-![Html.gif](./images/Html.gif)[calendar](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) ![Ical.gif](./images/Ical.gif)[calendar](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics)
+![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[calendar](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[calendar](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics)
 
 **Skype:** david\_dykstal to call martin.oberhuber, david-k-mcknight, uwe.stieber, and anna\_dushistova. All TM committers and interested parties are invited. Interested parties ping **david_dykstal** on Skype chat to be added to the call.
 
@@ -43,7 +43,7 @@ Participant Code: 8703125#
 Agenda
 ------
 
-### Action items from [TM/Meetings/9-July-2013](./9-July-2013 "TM/Meetings/9-July-2013")
+### Action items from [TM/Meetings/9-July-2013](/TM/Meetings/9-July-2013 "TM/Meetings/9-July-2013")
 
 *   Review bug backlogs (Fix target milestones; review / triage incoming high-severity issues)
     *   AI All
@@ -82,7 +82,7 @@ Agenda
 
 ### Next Meeting
 
-*   Tuesday [TM/Meetings/8-October-2013](./8-October-2013 "TM/Meetings/8-October-2013")
+*   Tuesday [TM/Meetings/8-October-2013](/TM/Meetings/8-October-2013 "TM/Meetings/8-October-2013")
 
 Minutes
 -------
@@ -104,8 +104,8 @@ Info
 
 *   Use this URL for committing: **[ssh://userid@git.eclipse.org:29418/tm/org.eclipse.tm.git](ssh://userid@git.eclipse.org:29418/tm/org.eclipse.tm.git)**
 *   The Gerrit web UI is here: [https://git.eclipse.org/r/p/tm/org.eclipse.tm.git](https://git.eclipse.org/r/p/tm/org.eclipse.tm.git)
-*   Docs for using Gerrit are here: [Gerrit](https://wiki.eclipse.org/Gerrit "Gerrit")
-*   Cmdline (See [Git#Committers\_new\_to_Git](https://wiki.eclipse.org/Git#Committers_new_to_Git "Git")):
+*   Docs for using Gerrit are here: [Gerrit](/Gerrit "Gerrit")
+*   Cmdline (See [Git#Committers\_new\_to_Git](/Git#Committers_new_to_Git "Git")):
 
   git config --global --list
   git config --global user.email my\_committer\_email@address.com
@@ -120,5 +120,7 @@ Info
   then git commit -m"message" --to commit into your local repo
   git push -- to push to the remote repository
 
-*   [TM/Git_Workflows](./Git_Workflows "TM/Git Workflows") cheatsheet on Wiki: Get egit, **Setup egit**, Clone Repo (website / code), Update, Edit, Push, Switch branch
+*   [TM/Git_Workflows](/TM/Git_Workflows "TM/Git Workflows") cheatsheet on Wiki: Get egit, **Setup egit**, Clone Repo (website / code), Update, Edit, Push, Switch branch
 
+
+(Migrated from [https://wiki.eclipse.org/TM/Meetings/10-September-2013](https://wiki.eclipse.org/TM/Meetings/10-September-2013))

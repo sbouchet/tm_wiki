@@ -13,6 +13,7 @@ Contents
 *   [1 Technology Sub-Groups](#Technology-Sub-Groups)
 *   [2 Ongoing Discussions](#Ongoing-Discussions)
 *   [3 Documents](#Documents)
+*   [4 TM Calendar](#TM-Calendar)
 
 Technology Sub-Groups
 ---------------------
@@ -71,3 +72,10 @@ Documents
 
 See the [TM Website](https://www.eclipse.org/tm/doc/) for other documents, slides and meeting notes.
 
+TM Calendar
+-----------
+
+The calendar is available in the following formats: ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics),![Xml.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Xml.gif)[ATOM News Feed](http://www.google.com/calendar/feeds/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic),![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto)
+
+
+(Migrated from [https://wiki.eclipse.org//TM](https://wiki.eclipse.org//TM))

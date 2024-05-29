@@ -1,6 +1,6 @@
 
 
-TM/Face-to-face Toronto 23-Feb-2006
+DSDP/TM/Face-to-face Toronto 23-Feb-2006
 ========================================
 
 < [TM](./TM)
@@ -268,3 +268,5 @@ Action Items
 *   Doug Gaff: Contribute WR's cleanroom telnet implementation
 *   Everybody: Get RSE, prototyping, bugzilla's
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Face-to-face_Toronto_23-Feb-2006](https://wiki.eclipse.org/DSDP/TM/Face-to-face_Toronto_23-Feb-2006))

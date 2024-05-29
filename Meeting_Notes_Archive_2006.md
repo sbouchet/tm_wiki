@@ -86,3 +86,5 @@ Meeting Notes Archive
 
 *   See the [DSDP-TM Website](https://www.eclipse.org/dsdp/tm/doc/) for older phone meeting notes.
 
+
+(Migrated from [https://wiki.eclipse.org/DSDP/TM/Meeting_Notes_Archive_2006](https://wiki.eclipse.org/DSDP/TM/Meeting_Notes_Archive_2006))
