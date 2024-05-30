@@ -370,7 +370,7 @@ Experimental Add-Ons
 
 *   The only available and selected protocol and transport are DNS-SD and UDP. Those should be selected by default. A timeout of 500 ms is also set by default, increase it if necessary, but it should be engouh. As address, specify the mDNS multicast address **224.0.0.251** or the target IP address or server name (that will be resolved) if preferred.
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Discovery.png)
+![](./images/300px-Discovery.png)
 
 [](/File:Discovery.png "Enlarge")
 
@@ -378,7 +378,7 @@ Service Discovery form
 
 *   Press next and the discovered services should appear in an expandable tree, showing the service names and attributes grouped by host and service type. The remote service attributes will be shown in a table when selected. The discovered attributes can be overwritten in the table. Initially, only supported servers will appear, if you want to show also the non-supported ones (if any available), select the "Show all services" check box. Only supported services will be created in RSE.
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-List.png)
+![](./images/300px-List.png)
 
 [](/File:List.png "Enlarge")
 

@@ -5,7 +5,7 @@ DSDP/TM/Toronto 23-Feb-2006 Photos
 
 < [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Toronto_Feb06_015.jpg)
+![](./images/300px-Toronto_Feb06_015.jpg)
 
 [](/File:Toronto_Feb06_015.jpg "Enlarge")
 
@@ -16,7 +16,7 @@ Toronto IBM Labs
 
 * * *
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Toronto_Feb06_003.jpg)
+![](./images/300px-Toronto_Feb06_003.jpg)
 
 [](/File:Toronto_Feb06_003.jpg "Enlarge")
 
@@ -27,7 +27,7 @@ Overview of the Meeting Room. A big Thank You to Pete Nicholls and IBM for hosti
 
 * * *
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Toronto_Feb06_001_small.jpg)
+![](./images/300px-Toronto_Feb06_001_small.jpg)
 
 [](/File:Toronto_Feb06_001_small.jpg "Enlarge")
 
@@ -45,7 +45,7 @@ Meeting Attendees - from left to right:
 
 * * *
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Toronto_Feb06_002_small.jpg)
+![](./images/300px-Toronto_Feb06_002_small.jpg)
 
 [](/File:Toronto_Feb06_002_small.jpg "Enlarge")
 
@@ -63,7 +63,7 @@ Meeting Attendees - from left to right:
 
 * * *
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Toronto_Feb06_024.jpg)
+![](./images/300px-Toronto_Feb06_024.jpg)
 
 [](/File:Toronto_Feb06_024.jpg "Enlarge")
 
