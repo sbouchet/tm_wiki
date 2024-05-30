@@ -75,7 +75,7 @@ See the [TM Website](https://www.eclipse.org/tm/doc/) for other documents, slide
 TM Calendar
 -----------
 
-The calendar is available in the following formats: ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics),![Xml.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Xml.gif)[ATOM News Feed](http://www.google.com/calendar/feeds/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic),![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto)
+The calendar is available in the following formats: ![Ical.gif](./images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics),![Xml.gif](./images/Xml.gif)[ATOM News Feed](http://www.google.com/calendar/feeds/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic),![Html.gif](./images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto)
 
 
-(Migrated from [https://wiki.eclipse.org//TM](https://wiki.eclipse.org//TM))
+(Migrated from [https://wiki.eclipse.org/TM](https://wiki.eclipse.org/TM))
