@@ -8,4 +8,4 @@ TM/Terminal
 The eclipse terminal.
 
 
-(Migrated from [https://wiki.eclipse.org/DSDP/TM/Terminal](https://wiki.eclipse.org/DSDP/TM/Terminal))
+(Migrated from [https://wiki.eclipse.org/TM/Terminal](https://wiki.eclipse.org/TM/Terminal))
