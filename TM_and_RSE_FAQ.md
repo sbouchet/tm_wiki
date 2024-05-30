@@ -3,7 +3,7 @@
 TM and RSE FAQ
 ==============
 
-Nav: [TM](/TM "TM") | TM and RSE FAQ | [RSE 1.0 Known Issues and Workarounds](/RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM/3.0 Known Issues and Workarounds](/TM/3.0_Known_Issues_and_Workarounds "TM/3.0 Known Issues and Workarounds")
+Nav: [TM](./TM "TM") | TM and RSE FAQ | [RSE 1.0 Known Issues and Workarounds](./RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM/3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "TM/3.0 Known Issues and Workarounds")
 
 Contents
 --------
@@ -60,7 +60,7 @@ Simply edit this page and add content. You can now use your [bugzilla](https://b
 
 #### How can I get notified of additions to that FAQ?
 
-Log in to the Wiki. On your personal [Preferences](/Special:Preferences "Special:Preferences") page, enable E-Mail notification. Then, click the **watch** tab of this page.
+Log in to the Wiki. On your personal [Preferences](https://wiki.eclipse.org/Special:Preferences "Special:Preferences") page, enable E-Mail notification. Then, click the **watch** tab of this page.
 
 #### Is it really that easy?
 
@@ -110,9 +110,9 @@ If you wish to contribute to the development of RSE, we welcome the opportunity 
 
 #### Is the TM Project also working on a lightweight Open Source Agent framework in C?
 
-*   Yes! An initial contribution of the [Target Communication Framework (TCF)](/TCF "TCF") has been made by Wind River and is currently pending Eclipse Legal IP Review via [bug 210751](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210751). While dstore will remain the Java-based agent framework for large, powerful targets, TCF is a small footprint, very lightweight agent framework for less powerful embedded systems.
+*   Yes! An initial contribution of the [Target Communication Framework (TCF)](https://wiki.eclipse.org/TCF "TCF") has been made by Wind River and is currently pending Eclipse Legal IP Review via [bug 210751](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210751). While dstore will remain the Java-based agent framework for large, powerful targets, TCF is a small footprint, very lightweight agent framework for less powerful embedded systems.
 *   A [PPT presentation on TCF Concepts and Requirements](https://www.eclipse.org/downloads/download.php?file=/tm/presentations/Target_Communication_Framework_Vision_v4.ppt) is now available (PPT, 500K)
-*   For more details, see the [TCF](/TCF "TCF") FAQ.
+*   For more details, see the [TCF](https://wiki.eclipse.org/TCF "TCF") FAQ.
 
 Download, Installation and Bug Reports
 --------------------------------------
@@ -189,7 +189,7 @@ _Note:_ Version 3.2.1 apparently subsumes a lot of the components shown below in
 
 The update site shows multiple version branches. For each component, try to install the latest version. You can mix components of different versions:
 
-![Rse-update-manager.png](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Rse-update-manager.png)
+![Rse-update-manager.png](./images/Rse-update-manager.png)
 
 #### Which operating systems does TM / RSE support?
 
@@ -201,7 +201,7 @@ For the remote side, we are testing the following combinations:
 *   FTP is being tested against many public available servers including Windows, Linux, FileZilla, ProFTPD, and VxWorks. VMS based servers are known to have problems [bug 161238](https://bugs.eclipse.org/bugs/show_bug.cgi?id=161238).
 *   Ssh works against any ssh2 compliant server.
 
-See also the test matrix on the [TM 2.0 Testing](/TM_2.0_Testing "TM 2.0 Testing") pages and below.
+See also the test matrix on the [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") pages and below.
 
 If you are using on a platform not mentioned here, please make yourself heard on the [tm-dev](http://dev.eclipse.org/mailman/listinfo/tm-dev) developer mailing list. You can contribute test results there.
 
@@ -209,7 +209,7 @@ If you have a favorite platform we highly encourage you to get involved and volu
 
 #### How do I ask questions?
 
-Target Management and RSE related questions that are not answered in this FAQ or the documentation should be posted to the [TM public forum](https://www.eclipse.org/forums/eclipse.tm). Instead of the web interface, you can also use the forums via NNTP - then you will need a [newsreader and a password](/Webmaster_FAQ#Getting_the_news.2C_reading_the_mail "Webmaster FAQ").
+Target Management and RSE related questions that are not answered in this FAQ or the documentation should be posted to the [TM public forum](https://www.eclipse.org/forums/eclipse.tm). Instead of the web interface, you can also use the forums via NNTP - then you will need a [newsreader and a password](https://wiki.eclipse.org/Webmaster_FAQ#Getting_the_news.2C_reading_the_mail "Webmaster FAQ").
 
 General Questions about the Eclipse SDK which includes the [Eclipse Platform](https://www.eclipse.org/platform), [JDT](https://www.eclipse.org/jdt) (Java Development Tools), or [PDE](https://www.eclipse.org/pde) (Plugin Development Environment) should be posted to the respective [Eclipse forum](https://www.eclipse.org/forums/) (consider the Newcomer forum).
 
@@ -261,7 +261,7 @@ When you report a bug, including backtraces or error info from your .log is trem
 
 #### How do I report a deadlock or product hang-up?
 
-The most important thing in case of a product hang-up is getting a **thread dump** of Eclipse while it is unresponsive. There are several tools available that help you creating one, see [How to report a deadlock](/How_to_report_a_deadlock "How to report a deadlock").
+The most important thing in case of a product hang-up is getting a **thread dump** of Eclipse while it is unresponsive. There are several tools available that help you creating one, see [How to report a deadlock](https://wiki.eclipse.org/How_to_report_a_deadlock "How to report a deadlock").
 
 When you have the thread dump, [file a bug](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Target%20Management&version=unspecified&component=RSE) against Target Management with high severity, and attach the thread dump.
 
@@ -304,7 +304,7 @@ There are multiple possibilities:
 *   **Disadvantages**:
     *   Very slow refresh when the remote file tree is huge on a slow connection. Since EFS maps the entire remote file tree into the workspace, and the Eclipse Workspace wants to do a "deep refresh" on all remote resources on startup, refresh can easily take in the range of hours on a slow connection. [bug 219164](https://bugs.eclipse.org/bugs/show_bug.cgi?id=219164) is open to track this situation, but it's unlikely this can be improved unless some APIs are broken in the way the Resources system works.
     *   Not all Eclipse tools support EFS yet (see [this newsgroup posting](http://dev.eclipse.org/newslists/news.eclipse.dsdp.tm/msg00307.html) for some background). Currently, Eclipse Platform, PDT and WST should work fine while CDT is still struggling, see [bug 177994](https://bugs.eclipse.org/bugs/show_bug.cgi?id=177994).
-    *   On fully remote projects (when the .project file is remote), the RSE EFS provider currently cannot automatically re-open the project on Eclipse startup. [bug 181460](https://bugs.eclipse.org/bugs/show_bug.cgi?id=181460) is open against RSE for this problem, but it's hard to fix; [alternative EFS providers](/EFS "EFS") could be used to overcome this problem. The [PTP/planning/remote](/PTP/planning/remote "PTP/planning/remote") Wiki summarizes the PTP project's efforts in this area.
+    *   On fully remote projects (when the .project file is remote), the RSE EFS provider currently cannot automatically re-open the project on Eclipse startup. [bug 181460](https://bugs.eclipse.org/bugs/show_bug.cgi?id=181460) is open against RSE for this problem, but it's hard to fix; [alternative EFS providers](https://wiki.eclipse.org/EFS "EFS") could be used to overcome this problem. The [PTP/planning/remote](https://wiki.eclipse.org/PTP/planning/remote "PTP/planning/remote") Wiki summarizes the PTP project's efforts in this area.
 
 6\. **Use Remote file synchronization with PTP Synchronized Projects or Aptana Studio**
 
@@ -341,7 +341,7 @@ For PHPEclipse update to version 1.2.0 or greater.
 *   Click browse and select a existing RSE location or create a new one.
 *   Click finish
 
-As of Eclipse Europa, only few tooling projects support EFS, but support is growing. For more details, see the [EFS](/EFS "EFS") Wiki page. CDT, particularly, does not yet support remote EFS resources properly, see [bug 177994](https://bugs.eclipse.org/bugs/show_bug.cgi?id=177994). We suggest filing similar bug reports against other Eclipse based tools to make them more aware of EFS and external files without project context.
+As of Eclipse Europa, only few tooling projects support EFS, but support is growing. For more details, see the [EFS](https://wiki.eclipse.org/EFS "EFS") Wiki page. CDT, particularly, does not yet support remote EFS resources properly, see [bug 177994](https://bugs.eclipse.org/bugs/show_bug.cgi?id=177994). We suggest filing similar bug reports against other Eclipse based tools to make them more aware of EFS and external files without project context.
 
 An [update on the EFS situation](http://dev.eclipse.org/newslists/news.eclipse.dsdp.tm/msg00307.html) has been posted on the eclipse.tm newsgroup.
 
@@ -361,11 +361,11 @@ When you have your cross toolchain set up (and tested on the commandline), you c
 
 1\. Use the [Target Management](https://www.eclipse.org/tm) / RSE Remote CDT Launch. It uses any RSE file subsystem and shell subsystem, so it works with SSH, Telnet, FTP or whatever communication mechanism you have plugged into RSE. It requires a gdbserver executable installed on the remote, and is capable of uploading your executable to debug to the remote. Here is a [mailing list entry](http://dev.eclipse.org/mhonarc/lists/dsdp-tm-dev/msg01431.html) that should help you get started.
 
-2\. Use the [Device Debugging](https://www.eclipse.org/dsdp/dd) / DSF gdb/mi integration's remote launch capabilities. Here is a [mailing list entry](http://dev.eclipse.org/mhonarc/lists/dsdp-dd-dev/msg01126.html). The [DSDP/DD/GDB](/DSDP/DD/GDB "DSDP/DD/GDB") Wiki gives more information about this component.
+2\. Use the [Device Debugging](https://www.eclipse.org/dsdp/dd) / DSF gdb/mi integration's remote launch capabilities. Here is a [mailing list entry](http://dev.eclipse.org/mhonarc/lists/dsdp-dd-dev/msg01126.html). The [DSDP/DD/GDB](https://wiki.eclipse.org/DSDP/DD/GDB "DSDP/DD/GDB") Wiki gives more information about this component.
 
-3\. Use the [Target Communication Framework (TCF)](/TCF "TCF") component of Target Management. TCF provides a thin plain-C agent that runs out of the box on Linux and uses ptrace for debugging. There are two separate debugger integrations for Platform/Debug and DD-DSF available. TCF is still incubating, so from a User's perspective the debugging capabilities are still very limited. But if you want to integrate your own debugger or cannot use gdbserver for any reason, you should be looking at TCF.
+3\. Use the [Target Communication Framework (TCF)](https://wiki.eclipse.org/TCF "TCF") component of Target Management. TCF provides a thin plain-C agent that runs out of the box on Linux and uses ptrace for debugging. There are two separate debugger integrations for Platform/Debug and DD-DSF available. TCF is still incubating, so from a User's perspective the debugging capabilities are still very limited. But if you want to integrate your own debugger or cannot use gdbserver for any reason, you should be looking at TCF.
 
-For a general summary about CDT Remote Development, see [this mailing list entry](http://dev.eclipse.org/mhonarc/lists/dsdp-tm-dev/msg01369.html) which has some more pointers into bugzilla, as well as the [PTP/planning/remote](/PTP/planning/remote "PTP/planning/remote") Wiki. There was also a [CDT Remote / RDT Presentation](http://www.eclipsecon.org/2008/?page=sub/&id=323) at EclipseCon 2008, which suggests even forming a new Eclipse project for remote development in general.
+For a general summary about CDT Remote Development, see [this mailing list entry](http://dev.eclipse.org/mhonarc/lists/dsdp-tm-dev/msg01369.html) which has some more pointers into bugzilla, as well as the [PTP/planning/remote](https://wiki.eclipse.org/PTP/planning/remote "PTP/planning/remote") Wiki. There was also a [CDT Remote / RDT Presentation](http://www.eclipsecon.org/2008/?page=sub/&id=323) at EclipseCon 2008, which suggests even forming a new Eclipse project for remote development in general.
 
 #### Why can't I connect to the dstore server? I get disconnected after entering my user and password
 
@@ -528,8 +528,8 @@ TM and RSE Architecture
 *   RSE API supports multi-list and multi-file queries to reduce the number of roundtrips for high-latency connections
 *   RSE API has some **hi-level getters** like `IFileService.getUserHome()`, `IFileService.getRoots()`
 *   RSE is geared towards **persistent caching**: for downloads, IFileService gets a File instance where the remote file should be stored; EFS deals with Streams only.
-*   Since TM 2.0M6a, RSE also includes a well-working EFS provider that builds a bridge between services registered as RSE IFileService and EFS. The benefit of having RSE the provider is that it handles all credential storage and connection properties. The little drawback is that these services require a UI and the Core Resources plugin, so remote projects shown through RSE are not automatically re-opened on startup. For more details, see [bug 185921 comment 3](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185921#c3), the [EFS](/EFS "EFS") Wiki page and the [Blog about TM 2.0M6a](http://tmober.blogspot.com/2007/04/target-management-m6-efs-and-webinar.html).
-*   See also [Eclipse File Service APIs Compared](/Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared"), as well as the [EFS](/EFS "EFS") Wiki
+*   Since TM 2.0M6a, RSE also includes a well-working EFS provider that builds a bridge between services registered as RSE IFileService and EFS. The benefit of having RSE the provider is that it handles all credential storage and connection properties. The little drawback is that these services require a UI and the Core Resources plugin, so remote projects shown through RSE are not automatically re-opened on startup. For more details, see [bug 185921 comment 3](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185921#c3), the [EFS](https://wiki.eclipse.org/EFS "EFS") Wiki page and the [Blog about TM 2.0M6a](http://tmober.blogspot.com/2007/04/target-management-m6-efs-and-webinar.html).
+*   See also [Eclipse File Service APIs Compared](https://wiki.eclipse.org/Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared"), as well as the [EFS](https://wiki.eclipse.org/EFS "EFS") Wiki
 
 
 (Migrated from [https://wiki.eclipse.org//TM_and_RSE_FAQ](https://wiki.eclipse.org//TM_and_RSE_FAQ))
