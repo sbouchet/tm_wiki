@@ -3,9 +3,9 @@
 TM/Testing
 ==========
 
-< [TM](/TM "TM")(Redirected from [DSDP/TM/Testing](/index.php?title=DSDP/TM/Testing&redirect=no "DSDP/TM/Testing"))
+< [TM](./TM "TM")
 
-Nav: [TM](/TM "TM") | TM/Testing | [TM 2.0 Test Instructions](/TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](/TM_Manual_Test_Plan "TM Manual Test Plan")
+Nav: [TM](./TM "TM") | TM/Testing | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 * * *
 
@@ -18,19 +18,19 @@ This is the toplevel page for DSDP-TM testing efforts. It is important for all o
 Test Instructions
 -----------------
 
-*   [TM 2.0 Test Instructions](/TM_2.0_Test_Instructions "TM 2.0 Test Instructions")
-*   [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds")
-*   [TM Manual Test Plan](/TM_Manual_Test_Plan "TM Manual Test Plan")
+*   [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions")
+*   [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds")
+*   [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 Test Signup and Archive
 -----------------------
 
-*   [DSDP/TM/Testing/3.1m5](/DSDP/TM/Testing/3.1m5 "DSDP/TM/Testing/3.1m5")
-*   [TM 3.0 Testing](/TM_3.0_Testing "TM 3.0 Testing")
-*   [TM 2.0.1 Testing](/TM_2.0.1_Testing "TM 2.0.1 Testing")
-*   [TM 2.0 Testing](/TM_2.0_Testing "TM 2.0 Testing")
-*   [RSE 1.0.1 Testing](/RSE_1.0.1_Testing "RSE 1.0.1 Testing")
-*   [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing")
+*   [DSDP/TM/Testing/3.1m5](./3.1m5 "DSDP/TM/Testing/3.1m5")
+*   [TM 3.0 Testing](./TM_3.0_Testing "TM 3.0 Testing")
+*   [TM 2.0.1 Testing](./TM_2.0.1_Testing "TM 2.0.1 Testing")
+*   [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing")
+*   [RSE 1.0.1 Testing](./RSE_1.0.1_Testing "RSE 1.0.1 Testing")
+*   [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing")
 
 
-(Migrated from [https://wiki.eclipse.org/DSDP/TM/Testing](https://wiki.eclipse.org/DSDP/TM/Testing))
+(Migrated from [https://wiki.eclipse.org/TM/Testing](https://wiki.eclipse.org/TM/Testing))

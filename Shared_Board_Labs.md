@@ -12,7 +12,7 @@ We want to create frameworks that support connecting to remote databases maintai
 
 *   search target boards given on a set of properties
 *   match properties against requirements given by project or build spec
-*   do resource allocations on remote systems (e.g. check-in / check-out target boards
+*   do resource allocations on remote systems (e.g. check-in / check-out target boards)
 *   do access control on remote systems (allow certain users only)
 
 This initiative is related to the [DSDP/TM/Target Associations](./Target_Associations "DSDP/TM/Target Associations") initiative.
