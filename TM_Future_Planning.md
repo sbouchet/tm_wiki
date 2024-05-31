@@ -62,7 +62,7 @@ TM 3.0 (Ganymede) Planning
 ### Planning and Priorities
 
 *   We have consensus to work towards TM 3.0 for Ganymede (rather than 2.1) so we'll allow API changes but keep them as small as possible. However, "getting things right" is agreed to be more important than being backward compatible.
-*   Discussion and finalization of priorities into plan items will be at the [DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./index.php?title=DSDP/TM/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007&action=edit&redlink=1 "DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007 (page does not exist)").
+*   Discussion and finalization of priorities into plan items will be at the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007).
 *   **Top 10 Priorities:**
     *   1 - (All) **Quality**, Maintenance, Reduce bug backlog. Add unit tests. Clean up old implementations, get rid of obsolete code.
         *   1a - (WR, IBM) **Improve UI**, Adhere to Guidelines, Better Wizard UI, Componentize connection/subsystem/services

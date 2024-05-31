@@ -7,7 +7,7 @@ TCF/Meetings/Dec 4 2007 TCF-ECF Sync-up and Integration
 
 | Meeting Title: | **TCF / ECF Sync-up and Integration Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Dec 4, 2007](./index.php?title=Dec_4,_2007&action=edit&redlink=1 "Dec 4, 2007 (page does not exist)") at [1700 UTC / 1200 Eastern / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=4&year=2007&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Tuesday Dec 4, 2007 at [1700 UTC / 1200 Eastern / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=4&year=2007&hour=17&min=00&sec=0&p1=0) |
 | Dial-in: | International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713**   Passcode: **0587322148 #** |
 
 Contents

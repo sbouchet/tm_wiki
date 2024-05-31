@@ -7,7 +7,7 @@ DSDP/TM/Phone Meeting 4-Apr-2007
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [April 4, 2007](./index.php?title=April_4,_2007&action=edit&redlink=1 "April 4, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=4&year=2007&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday April 4, 2007 at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=4&year=2007&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -60,7 +60,7 @@ Agenda
     *   [Project plan](https://www.eclipse.org/dsdp/tm/development/tm_project_plan_2_0.html) \- Reference Platforms: getting rid of Solaris-Motif, upgrading JVM versions (Sun 1.4.2\_14, 1.5.0\_11. 1.6.0_01; IBM; no BEA JRockit)
     *   Good progress on plan items, but some API stuff not complete by M6
     *   [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") updated - how to contribute, how to write programs - reference the EclipseCon tutorial
-    *   [TM Webinar](https://www.eclipse.org/community/webinars.php) on [12-Apr-2007](./index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
+    *   [TM Webinar](https://www.eclipse.org/community/webinars.php) on 12-Apr-2007
 
 *   **Collaborations** with other projects (Platform/Team, PTP, CDT, TPTP, WTP, ECF, Aperi, g-Eclipse)
     *   jsch to be upgraded and moved to Orbit; SSH Preferences as Platform API now

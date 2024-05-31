@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 3-Jul-2007
 ==========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Jul 3, 2007](./index.php?title=Jul_3,_2007&action=edit&redlink=1 "Jul 3, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday Jul 3, 2007 at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -41,7 +41,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 26-Jun-2007](./DSDP/TM/Committer_Phone_Meeting_26-Jun-2007 "DSDP/TM/Committer Phone Meeting 26-Jun-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 26-Jun-2007](./Committer_Phone_Meeting_26-Jun-2007 "DSDP/TM/Committer Phone Meeting 26-Jun-2007")
 
 ### News & Review Action Items
 
@@ -109,7 +109,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_26-Jun-2007#Action_Items "DSDP/TM/Committer Phone Meeting 26-Jun-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_26-Jun-2007#Action_Items "DSDP/TM/Committer Phone Meeting 26-Jun-2007") Action Items
 *   **DaveD**: 2.0.1 important fixes, then Doc bugs (Tutorial)
 *   **DaveM**: 2.0.1 fixes, Check whether mountPathMappers can workaround [193858](https://bugs.eclipse.org/bugs/show_bug.cgi?id=193858), comment on the bug about reason and possible workarounds
 *   **Kushal**:
@@ -120,8 +120,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 4-Jul-2007](./DSDP/TM/Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=4&year=2007&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 10-Jul-2007](./DSDP/TM/Committer_Phone_Meeting_10-Jul-2007 "DSDP/TM/Committer Phone Meeting 10-Jul-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 4-Jul-2007](./Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=4&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 10-Jul-2007](./Committer_Phone_Meeting_10-Jul-2007 "DSDP/TM/Committer Phone Meeting 10-Jul-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_3-Jul-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_3-Jul-2007))

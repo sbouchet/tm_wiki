@@ -7,7 +7,7 @@ DSDP/TM/Phone Meeting 2-May-2007
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [May 2, 2007](./index.php?title=May_2,_2007&action=edit&redlink=1 "May 2, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday May 2, 2007 at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
