@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 6-Sep-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [September 6, 2006](/index.php?title=September_6,_2006&action=edit&redlink=1 "September 6, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday [September 6, 2006](./index.php?title=September_6,_2006&action=edit&redlink=1 "September 6, 2006 (page does not exist)") at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -68,36 +68,36 @@ Meeting Notes
 *   **Sign up for testing!**
     *   After M5, we need people to walk through the test plans on various different host/target combinations
     *   Official test period will start with M5 as RC0 candidate; RC1 will be 2 weeks after, RC2 1 week after
-    *   Please sign up in the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page
+    *   Please sign up in the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page
     *   Testing M5 early just takes 2 hour or so -- we need those bugs early!
 *   Communications
-    *   Please fill in [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning")
+    *   Please fill in [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning")
     *   Collaborations with other projects (Platform/Team, PTP, CDT, TPTP, WTP, ECF, Aperi, g-Eclipse)
         *   Greg (PTP) has some loose connection, the focus is quite different; EFS
 *   **Technology sub-groups**
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](/DSDP/DD/Spirit "DSDP/DD/Spirit") (Anthony)
+    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Anthony)
         *   [Spirit DWG Kick-off Meeting](http://dev.eclipse.org/mhonarc/lists/dsdp-dd-dev/msg00395.html) \- [Sept 13, 4-6pm UK, 11-1pm EDT](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=13&hour=15&min=0&sec=0&p1=224&p2=43&p3=223&p4=136)
         *   Anthony is doing some work on an Eclipse-based SPIRIT editor that they intend to open source. Both are experimental and not ready for contribution.
-    *   Update on [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+    *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
         *   To be committed tomorrow into org.eclipse.tm.core/discovery
 
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 2-Aug-2006](/DSDP/TM/Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006")
+*   Last meeting: [DSDP/TM/Phone Meeting 2-Aug-2006](./Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006")
 
 New Action Items
 ----------------
 
-*   Everybody - Sign up on the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page
-*   Everybody - Review and edit the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   Everybody - Sign up on the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page
+*   Everybody - Review and edit the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 
 Next Meeting
 ------------
 
 *   Release Review on [27-Sep-2006, 8:00 PST](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=15&min=0&sec=0&p1=224&p2=421&p3=250&p4=136&p5=223) (wednesday, 3 weeks)
-*   Next [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") (wednesday, 4 weeks)
+*   Next [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") (wednesday, 4 weeks)
 *   Michael Scharf is doing a [Talk on TM/RSE](http://www.eclipsecon.org/summiteurope2006/index.php?page=detail/&id=25) on Wednesday, Oct. 11 at [Eclipse Summit Europe](http://www.eclipsecon.org/summiteurope2006)
 
 

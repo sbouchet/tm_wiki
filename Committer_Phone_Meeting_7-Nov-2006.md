@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 7-Nov-2006
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Nov 7, 2006](/index.php?title=Nov_7,_2006&action=edit&redlink=1 "Nov 7, 2006 (page does not exist)") at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Nov 7, 2006](./index.php?title=Nov_7,_2006&action=edit&redlink=1 "Nov 7, 2006 (page does not exist)") at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -74,11 +74,11 @@ Agenda
     *   Continue bug fixing on HEAD (All)
     *   Fix compiler warnings, prepare for FinBugs (Kushal)
     *   Add ISV Javadoc where it is still missing or incorrect; review, and improve all docs (DaveM)
-    *   [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") \- Finalize the 2.0 Project Plan
+    *   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") \- Finalize the 2.0 Project Plan
 *   Communications
     *   F2F meeting Toronto, Jan.17-18 (tentative)? - Use as brainstorming / architecture / planning meeting for upcoming "larger" 2.0 changes. Is January too late for that? Do we need it?
         *   DaveD probably not available
-    *   [DSDP/TM/Code_Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+    *   [DSDP/TM/Code_Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
     *   API changes: we'll not introduce any api changes between 1.0 and 1.0.1
         *   But prepare for API changes soon after 1.0.1
 *   Change Requests
@@ -90,7 +90,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_31-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_31-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2006") Action Items
 *   **DaveD** \- Edit Code Ownership. Submit UDA and Import/Export for review; JUnit tests; Hi-Pri bugs. New bug for moving DTD.
 *   **DaveM** \- Enter Resume into www.eclipsecon.org; Bugs
 *   **Kushal** \- Bugs
@@ -101,8 +101,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
-*   [DSDP/TM/Committer Phone Meeting 14-Nov-2006](/DSDP/TM/Committer_Phone_Meeting_14-Nov-2006 "DSDP/TM/Committer Phone Meeting 14-Nov-2006") at [8am SFO / 10.00am Rochester / 12.00pm Toronto / 4pm London / 5pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=14hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 14-Nov-2006](./Committer_Phone_Meeting_14-Nov-2006 "DSDP/TM/Committer Phone Meeting 14-Nov-2006") at [8am SFO / 10.00am Rochester / 12.00pm Toronto / 4pm London / 5pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=14hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_7-Nov-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_7-Nov-2006))

@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 3-May-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [May 3, 2006](/index.php?title=May_3,_2006&action=edit&redlink=1 "May 3, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday [May 3, 2006](./index.php?title=May_3,_2006&action=edit&redlink=1 "May 3, 2006 (page does not exist)") at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -118,8 +118,8 @@ Meeting Notes
 
 ### Other Technology Sub-Groups
 
-*   [Connectors](/DSDP/TM/Flexible_Target_Connection_Adaptors "DSDP/TM/Flexible Target Connection Adaptors"): Peter L been busy lately, will start on Connectors in 1 week
-*   [Shared Board Labs](/DSDP/TM/Shared_Board_Labs "DSDP/TM/Shared Board Labs"): Interest by Windriver, Freescale, Mentor; probably no deliverables till M1, but start planning / design in time (we should make plans for next year just before 1.0 is released)
+*   [Connectors](./Flexible_Target_Connection_Adaptors "DSDP/TM/Flexible Target Connection Adaptors"): Peter L been busy lately, will start on Connectors in 1 week
+*   [Shared Board Labs](./Shared_Board_Labs "DSDP/TM/Shared Board Labs"): Interest by Windriver, Freescale, Mentor; probably no deliverables till M1, but start planning / design in time (we should make plans for next year just before 1.0 is released)
 
 Action Items still open from last meetings
 ------------------------------------------
@@ -150,7 +150,7 @@ Next Meeting
 ------------
 
 *   Keep the schedule (1st wednesday of the month)
-*   Next [DSDP/TM/Phone Meeting 7-Jun-2006](/DSDP/TM/Phone_Meeting_7-Jun-2006 "DSDP/TM/Phone Meeting 7-Jun-2006") (wednesday, 5 weeks)
+*   Next [DSDP/TM/Phone Meeting 7-Jun-2006](./Phone_Meeting_7-Jun-2006 "DSDP/TM/Phone Meeting 7-Jun-2006") (wednesday, 5 weeks)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_3-May-2006](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_3-May-2006))

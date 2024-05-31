@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 9-Aug-2006
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 9, 2006](/index.php?title=Aug_9,_2006&action=edit&redlink=1 "Aug 9, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=9&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday [Aug 9, 2006](./index.php?title=Aug_9,_2006&action=edit&redlink=1 "Aug 9, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=9&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Skype Dial-in: | **+99008275601400** (this call is **free** from Skype) |
 | Fixed-line Dial-in: | US, call **1-712-432-4000** (long distance charges)    Austria: **0820 400 01562** (national call charges)   In UK: **0870 119 2350** (national call charges)   |
 | Passcode: | **5601400** |
@@ -63,7 +63,7 @@ Agenda
             *   Like most Eclipse projects: after M4, we'll need to vote among committers before making API changes
             *   API changes will not be impossible, but they will be harder
             *   With M5, the API will be finally frozen (including scripts to check for API changes).
-        *   Parallel Services --> see [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion"), [Meeting 19-Jul-2006 Notes](/DSDP/TM/Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006"). We might need to support parallel access in the services, because clients can request the service UI-Less and make requests in arbitrary parallel threads
+        *   Parallel Services --> see [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion"), [Meeting 19-Jul-2006 Notes](./Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006"). We might need to support parallel access in the services, because clients can request the service UI-Less and make requests in arbitrary parallel threads
             *   Javier: use java 1.5 util.concurrent? - Better **stay with 1.4** for now.
             *   Here's a [How to set up a plugin to force using Java 1.4 even if 1.5 is available](http://michaelscharf.blogspot.com/2006/07/how-to-setup-some-plugins-to-use-java.html)
             *   MOB to implement a queue for ssh
@@ -73,7 +73,7 @@ Agenda
             *   Make all framework external, all implementation internal. It doesnt make sense to derive from an implementation in order to create a modified implementation. Make FTP, ssh, local internal; Have a closer look at dstore since it is designed to be extendible.
         *   What about things in the Platform? E.g. Extension-point **rseConfigDefaults** vs. **plugin_customization.ini**
             *   Kushal to review, remove if possible.
-            *   Create a list of potentially obsolete things on the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page.
+            *   Create a list of potentially obsolete things on the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page.
     *   Legal: JUnit (Some IBM signoffs needed, but not too hard); Jakarta-commons (TBD aug.24 latest)
         *   Windriver has submitted the terminalview; to be refactored and hooked up with IShellService
         *   DKM: are IShellService streams sufficient? Its a tty after all
@@ -106,19 +106,19 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_2-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 2-Aug-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_2-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 2-Aug-2006") Action Items
 *   **DaveD** \- JUnit legal, No-Password-API, Service Error Reporting API, SystemRegistry API. Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- bug fixing (download-upload P1); get rid of Service calls on UI thread; hygiene changes
 *   **Kushal** \- refactoring checkin, BUG TRIAGE, bug fixing; review & get rid of rseConfigDefaults
 *   **Martin** \- Move pattern parsing to core, Service queue for ssh, EFS & Examples features, build scripts, Manual test plan, API Review, Jakarta-commons, WR-terminalview; Review if IShellService is sufficient for terminal
 *   **Javier** \- vacation; hook up with Scott Lewis once SD is committed
-*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page; Mark hygiene changes as \[cleanup\] in commit comment, subscribe dsdp-tm-cvs-commit@eclipse.org
+*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page; Mark hygiene changes as \[cleanup\] in commit comment, subscribe dsdp-tm-cvs-commit@eclipse.org
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 16-Aug-2006](/DSDP/TM/Committer_Phone_Meeting_16-Aug-2006 "DSDP/TM/Committer Phone Meeting 16-Aug-2006") at 9.30am Toronto
-*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](/DSDP/TM/Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 16-Aug-2006](./Committer_Phone_Meeting_16-Aug-2006 "DSDP/TM/Committer Phone Meeting 16-Aug-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](./Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Aug-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Aug-2006))

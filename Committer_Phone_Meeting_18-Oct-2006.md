@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 18-Oct-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Oct 18, 2006](/index.php?title=Oct_18,_2006&action=edit&redlink=1 "Oct 18, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=18&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Oct 18, 2006](./index.php?title=Oct_18,_2006&action=edit&redlink=1 "Oct 18, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=18&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+1 314-655-1411**   North America **+1 877-422-0035** (toll free)   Passcode: **764918** |
 
 DaveD to start conference call - please dial in using the numbers above. Skype fallback dial-in - only if less than 5 participants: **martin.oberhuber**, ddykstal (or david_dykstal), david-k-mcknight, kushal.munir, javier.montalvoorus, tedatteddotnet, and uwe.stieber. DaveD will start Skype chat just prior to call.
@@ -35,7 +35,7 @@ Agenda
     *   **Get the APIs Right** --\> enable public API discussion --> ISV docs, Wiki API discussion, \[api\] bugzilla's
     *   Get our **Processes** in place --> JUnit, nightly builds, infocenter, update site
 *   Latest News
-    *   Martin -- [RSE 1.0 Testing round 2](/RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2")
+    *   Martin -- [RSE 1.0 Testing round 2](./RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2")
     *   DaveD -- Fixing bugs - concentrating on migrating fixes from IBM previous release
     *   DaveM -- bug queue is large, but perhaps can manage
     *   Kushal -- ditto, fixed several bugs
@@ -59,7 +59,7 @@ Agenda
         *   Events/Updates/Refresh; Dirty Editors
 *   Communications
     *   Missing / Incomplete **Copyrights** \- fixes look good, please use UTF-8 as character set for projects
-    *   **Code Ownership** \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit (for self).
+    *   **Code Ownership** \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit (for self).
     *   **Questions from ESE RSE Demo** \- DaveM to comment on these at some point
         *   File locking? No locking mechanism yet. May include synchronize perspective in future releases. RSE will detect remote file changes, though.
         *   How do you write agents?
@@ -78,7 +78,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_11-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 11-Oct-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_11-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 11-Oct-2006") Action Items
 *   **DaveD** \- Edit Code Ownership. Hi-Pri bugs.
 *   **DaveM** \- Meet Kushal for Dirty Editors. Hi-pri bugs
 *   **Kushal** \- Meet DaveM for Dirty Editors; Hi-pri bugs; Encoding bugs?
@@ -89,8 +89,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 25-Oct-2006](/DSDP/TM/Committer_Phone_Meeting_25-Oct-2006 "DSDP/TM/Committer Phone Meeting 25-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
-*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 25-Oct-2006](./Committer_Phone_Meeting_25-Oct-2006 "DSDP/TM/Committer Phone Meeting 25-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
+*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_18-Oct-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_18-Oct-2006))

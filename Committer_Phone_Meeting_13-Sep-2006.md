@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 13-Sep-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Sep 13, 2006](/index.php?title=Sep_13,_2006&action=edit&redlink=1 "Sep 13, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=13&hour=13&min=30&sec=0&p1=159&p2=250&p3=136&p4=223&iv=1800) |
+| Date & Time: | Wednesday [Sep 13, 2006](./index.php?title=Sep_13,_2006&action=edit&redlink=1 "Sep 13, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=13&hour=13&min=30&sec=0&p1=159&p2=250&p3=136&p4=223&iv=1800) |
 | Dial-in: | Martin to start a Skype conference - you'll be called:   Skype **martin.oberhuber**, ddykstal (or david\_dykstal), david-k-mcknight, kushal\_munir, javier.montalvoorus |
 
 Fixed-line fallback dial-in:
@@ -39,7 +39,7 @@ Agenda
     *   **Get the APIs Right** --\> enable public API discussion --> ISV docs, Wiki API discussion, \[api\] bugzilla's
     *   Get our **Processes** in place --> JUnit, nightly builds, infocenter, update site
 *   Latest News
-    *   Martin -- Set up [Test Planning page](/RSE_1.0_Testing "RSE 1.0 Testing"), Finished Release Review Draft
+    *   Martin -- Set up [Test Planning page](./RSE_1.0_Testing "RSE 1.0 Testing"), Finished Release Review Draft
     *   DaveD -- Spent some time on automating tests; problem is that the Framework tries to do everything in the background; Reviewed M4 bugs; Finished IBM work, full time for openRSE now
     *   DaveM -- Drag&Drop / Filetransfer: will look at Navigator PluginTransfer next; might mark it as missing feature for 1.0; will have full time openRSE now
     *   Kushal -- got the code for removing rseConfigDefaults, will attach a migration guide to a bug; passwordPersistence: an IBM team wants the Preference Page - They have customers that have other tooling which makes use of this - bug are OK with removing the extension point as long as the page remains the same.
@@ -55,7 +55,7 @@ Agenda
     *   Source Code Style & Cleanness
         *   Missing / Incomplete Copyrights: Please use the Releng tool from the bottom of the [Eclipse 3.2 Download Page](http://download.eclipse.org/eclipse/downloads/drops/R-3.2-200606291905/index.php) \- See "6. Fix Copyrights"
         *   **Compiler Warnings**: See [Committer Howto](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php)
-        *   **Code Ownership** \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   **Code Ownership** \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
             *   DaveD would prefer to have clear ownership
             *   Goal: Encourage integrity of the design, the owner is responsible for a solid extendible design
             *   Even non-owners can make bug fixes, but please let the owner know
@@ -102,22 +102,22 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_6-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 6-Sep-2006") Action Items
-*   **DaveD** \- Sign up on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page, Hi-Pri bugs. Edit Code Ownership. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
-*   **DaveM** \- Sign up on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page, Hi-pri bugs; get rid of Service calls on UI thread; hygiene changes
+*   [Last Meeting](./Committer_Phone_Meeting_6-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 6-Sep-2006") Action Items
+*   **DaveD** \- Sign up on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page, Hi-Pri bugs. Edit Code Ownership. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
+*   **DaveM** \- Sign up on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page, Hi-pri bugs; get rid of Service calls on UI thread; hygiene changes
 *   **Kushal** \- Hi-pri bugs; refactoring IConnectorService; send file encoding test resources to martin; review & get rid of rseConfigDefaults; talk to Don about passwordPersistence
 *   **Martin** \- Manual test plan, Hi-pri bugs; EFS feature, Build scripts for CDT and Discovery, API Review, Jakarta-commons, WR-terminalview; Review if IShellService is sufficient for terminal
 *   **Javier** \- Hook up with Scott Lewis once SD is committed
-*   **Ted** \- Sign up on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page; Report about Build Symposion
+*   **Ted** \- Sign up on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page; Report about Build Symposion
 
   
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 20-Sep-2006](/DSDP/TM/Committer_Phone_Meeting_20-Sep-2006 "DSDP/TM/Committer Phone Meeting 20-Sep-2006") at 8am PST/10am Rochester/11am Toronto/4pm London/5pm Salzburg - NEW TIME TO HELP TED JOIN
+*   [DSDP/TM/Committer Phone Meeting 20-Sep-2006](./Committer_Phone_Meeting_20-Sep-2006 "DSDP/TM/Committer Phone Meeting 20-Sep-2006") at 8am PST/10am Rochester/11am Toronto/4pm London/5pm Salzburg - NEW TIME TO HELP TED JOIN
 *   Release Review Meeting on [27-Sep-2006 at 8am PDT](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=15&min=0&sec=0&p1=224&p2=421&p3=250&p4=136&p5=223)
-*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
+*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Sep-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Sep-2006))

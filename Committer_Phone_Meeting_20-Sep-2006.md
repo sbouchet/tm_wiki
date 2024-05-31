@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 20-Sep-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Sep 20, 2006](/index.php?title=Sep_20,_2006&action=edit&redlink=1 "Sep 20, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=20&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Sep 20, 2006](./index.php?title=Sep_20,_2006&action=edit&redlink=1 "Sep 20, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=20&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Primary Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -52,7 +52,7 @@ Agenda
     *   Other News --
 *   Upcoming Work
     *   **Testing** and Bug Work are top priorities this week.
-        *   Sign up on the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page!
+        *   Sign up on the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page!
         *   Sanity testing I-builds towards M5/RC0: install + 30 minutes
             *   Test Update Site at [http://download.eclipse.org/dsdp/tm/testUpdates/](http://download.eclipse.org/dsdp/tm/testUpdates/)
             *   Martin: Windows XP, Sun j2sdk1.4.2_12, Dstore-Linux, Dstore-unix; normal download minimal install
@@ -67,12 +67,12 @@ Agenda
         *   DaveD: [150128](https://bugs.eclipse.org/bugs/show_bug.cgi?id=150168) harder than expected, would like to defer: bugfix to persist each of 3 persist-jobs in a row is easier than adding the API for persist on demand
         *   DaveM: [153652](https://bugs.eclipse.org/bugs/show_bug.cgi?id=153652) copy&paste - drag&drop works always, copy&past fails from remote FS to windows explorer
         *   How to defer bugs - lowering priority vs. RESOLUTION=LATER: See the [Bug Process Page](https://www.eclipse.org/dsdp/tm/development/bug_process.php) available from the [Committer Howto](https://www.eclipse.org/dsdp/tm/development/committer_howto.php)
-    *   **Test Signup** on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing")
+    *   **Test Signup** on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing")
     *   Source Code Style & Cleanness
         *   Missing / Incomplete Copyrights: Please use the Releng tool from the bottom of the [Eclipse 3.2 Download Page](http://download.eclipse.org/eclipse/downloads/drops/R-3.2-200606291905/index.php) \- See "6. Fix Copyrights"
         *   Component owners please run the tool
         *   **Compiler Warnings**: See [Committer Howto](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php)
-        *   **Code Ownership** \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   **Code Ownership** \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
         *   **Code Style and Format** \- defer once more :-)
     *   **Change Requests**
         *   SystemRegistry.getTheSystemRegistry() vs. RSEUIPlugin.getSystemRegistry() -- due to pragmatic refactoring, not possible to fix rightnow
@@ -93,9 +93,9 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_13-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 13-Sep-2006") Action Items
-*   **DaveD** \- Sign up on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page, Edit Code Ownership. Fix Copyrights. Sanity-check I-build, Hi-Pri bugs. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
-*   **DaveM** \- ASSIGN or reassign your NEW bugs; Sign up on [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page, meet Kushal for Dirty Editors. Fix Copyrights. Sanity-check I-build, Hi-pri bugs, Safe bugs; hygiene changes
+*   [Last Meeting](./Committer_Phone_Meeting_13-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 13-Sep-2006") Action Items
+*   **DaveD** \- Sign up on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page, Edit Code Ownership. Fix Copyrights. Sanity-check I-build, Hi-Pri bugs. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
+*   **DaveM** \- ASSIGN or reassign your NEW bugs; Sign up on [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page, meet Kushal for Dirty Editors. Fix Copyrights. Sanity-check I-build, Hi-pri bugs, Safe bugs; hygiene changes
 *   **Kushal** \- ASSIGN or reassign your NEW bugs; Meet DaveM for Dirty Editors; Fix Copyrights. Sanity-check I-build, Hi-pri bugs, Safe bugs; refactoring IConnectorService; send file encoding test resources to martin; review & get rid of rseConfigDefaults; talk to Don about passwordPersistence
 *   **Martin** \- Verify [153652](https://bugs.eclipse.org/bugs/show_bug.cgi?id=153652); Manual test plan, Create I-build; Bugfixes; EFS feature, Build scripts for CDT and Discovery, API Review, Jakarta-commons; Review if IShellService is sufficient for terminal
 *   **Javier** \- Hook up with Scott Lewis once SD is committed
@@ -107,8 +107,8 @@ Next Meeting
 ------------
 
 *   Release Review Meeting on [27-Sep-2006 at 8am PDT/11am Toronto/4pm London/5pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=15&min=0&sec=0&p1=224&p2=421&p3=250&p4=136&p5=223)
-*   [DSDP/TM/Committer Phone Meeting 27-Sep-2006](/DSDP/TM/Committer_Phone_Meeting_27-Sep-2006 "DSDP/TM/Committer Phone Meeting 27-Sep-2006") at 9am SFO/11.00am Rochester/12.00pm Toronto/5pm London/6pm Salzburg : 1 HOUR LATER DUE TO RELEASE REVIEW
-*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 27-Sep-2006](./Committer_Phone_Meeting_27-Sep-2006 "DSDP/TM/Committer Phone Meeting 27-Sep-2006") at 9am SFO/11.00am Rochester/12.00pm Toronto/5pm London/6pm Salzburg : 1 HOUR LATER DUE TO RELEASE REVIEW
+*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Sep-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Sep-2006))

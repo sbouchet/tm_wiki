@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 21-Nov-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Nov 21, 2006](/index.php?title=Nov_21,_2006&action=edit&redlink=1 "Nov 21, 2006 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=21&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Nov 21, 2006](./index.php?title=Nov_21,_2006&action=edit&redlink=1 "Nov 21, 2006 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=21&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -80,13 +80,13 @@ Notes
     *   Fix compiler warnings (Kushal) - prepare for running FindBugs
         *   There is also the TPTP StaticAnalysis thing
     *   Add ISV Javadoc where it is still missing or incorrect; review, and improve all docs
-    *   1.0.1 non-breaking API changes: See [Evolving Java-based APIs](/Evolving_Java-based_APIs "Evolving Java-based APIs")
+    *   1.0.1 non-breaking API changes: See [Evolving Java-based APIs](./Evolving_Java-based_APIs "Evolving Java-based APIs")
 *   Work towards RSE 2.0
-    *   [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") \- Finalize the 2.0 Project Plan
+    *   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") \- Finalize the 2.0 Project Plan
 
 ### Communications
 
-*   [DSDP/TM/Code_Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") \- is it complete now?
+*   [DSDP/TM/Code_Ownership](./Code_Ownership "DSDP/TM/Code Ownership") \- is it complete now?
 *   [bug 160783](https://bugs.eclipse.org/bugs/show_bug.cgi?id=160783): "Remote Commands View" vs. "Remote Shell View"
     *   What was the IBM Rationale behind renaming it to "Remote Shell"?
     *   A Shell is something long-running, interactive whereas a command is something run only once
@@ -101,11 +101,11 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_14-Nov-2006#Action_Items "DSDP/TM/Committer Phone Meeting 14-Nov-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_14-Nov-2006#Action_Items "DSDP/TM/Committer Phone Meeting 14-Nov-2006") Action Items
 *   **DaveD** \- CQ for Internal Communications Server Userdocs; Edit Code Ownership. Submit UDA and Import/Export for IBM internal review; JUnit tests; Hi-Pri bugs. New bug for moving DTD.
 *   **DaveM** \- Bugs
 *   **Kushal** \- Assign Target Milestones; Bugs
-*   **Martin** \- Personal Interviews via Skype; Work on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning"); [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute); Hi-pri bugs;
+*   **Martin** \- Personal Interviews via Skype; Work on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning"); [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute); Hi-pri bugs;
 *   **Javier** \- Bugs
 *   **Ted** \- Document the build process (DD project), prepare for Europa build
 *   **Michael** \- Terminalview
@@ -114,8 +114,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 28-Nov-2006](/DSDP/TM/Committer_Phone_Meeting_28-Nov-2006 "DSDP/TM/Committer Phone Meeting 28-Nov-2006") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=28hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Open [DSDP/TM/Phone Meeting 6-Dec-2006](/DSDP/TM/Phone_Meeting_6-Dec-2006 "DSDP/TM/Phone Meeting 6-Dec-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 28-Nov-2006](./Committer_Phone_Meeting_28-Nov-2006 "DSDP/TM/Committer Phone Meeting 28-Nov-2006") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=28hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Open [DSDP/TM/Phone Meeting 6-Dec-2006](./Phone_Meeting_6-Dec-2006 "DSDP/TM/Phone Meeting 6-Dec-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_21-Nov-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_21-Nov-2006))

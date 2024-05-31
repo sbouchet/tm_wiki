@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 23-Aug-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 23, 2006](/index.php?title=Aug_23,_2006&action=edit&redlink=1 "Aug 23, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday [Aug 23, 2006](./index.php?title=Aug_23,_2006&action=edit&redlink=1 "Aug 23, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Skype Dial-in: | **+99008275601400** (this call is **free** from Skype) |
 | Fixed-line Dial-in: | US, call **1-712-432-4000** (long distance charges)    Austria: **0820 400 01562** (national call charges)   In UK: **0870 119 2350** (national call charges)   |
 | Passcode: | **5601400** |
@@ -49,7 +49,7 @@ Agenda
     *   Other News --
 *   Looking back on [M4](http://download.eclipse.org/dsdp/tm/downloads/drops/S-1.0M4-200608182355/index.php)
     *   Downloads to-date: 42 (SDK), 10 (win-server), 6 (examples), 5 (linux-server); plus 16 from the update site
-    *   Advertisments: What will be our next steps? - [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+    *   Advertisments: What will be our next steps? - [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
         *   Probably build RSE 1.1 in december, probably out of the HEAD stream.
     *   [Bugs assigned to M4 milestone](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&component=RSE&target_milestone=1.0+M4&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit)
     *   Comments?
@@ -72,7 +72,7 @@ Agenda
             *   [bug 150265](https://bugs.eclipse.org/bugs/show_bug.cgi?id=150265) allow specifying subsystem types - DaveM - wait for Javier to return
         *   Making stuff **internal** \- ssh, ftp: Martin; Core: List of candidates from DaveD?
         *   Simple API enhancements from bugzilla? - Most can be deferred to later; Martin to review and update priority if needed.
-        *   Obsolete API that's in the Platform now --> See [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+        *   Obsolete API that's in the Platform now --> See [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
             *   Martin wants to get rid of obsolete code for 1.0 if possible
             *   Kushal to investigate rseConfigDefaults
             *   popupMenus extension point - because we are not dealing with Eclipse Resources; makes it a bit easier to define filters; to be reviewed again for 2.0
@@ -92,19 +92,19 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_16-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 16-Aug-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_16-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 16-Aug-2006") Action Items
 *   **DaveD** \- JUnit, Review bugs assigned to M4, Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- bug fixing by priority; look at Kushal's bugs and assign yourself; get rid of Service calls on UI thread; hygiene changes
 *   **Kushal** \- Review bugs assigned to M4, refactoring IConnectorService / Persistence provider (send out proposal); send file encoding test resources to martin; review & get rid of rseConfigDefaults; talk to Don about persistenceProvider; bug fixing
 *   **Martin** \- EFS feature, Add Discovery, Build scripts, Manual test plan, API Review, Jakarta-commons, WR-terminalview; Review if IShellService is sufficient for terminal
 *   **Javier** \- vacation; hook up with Scott Lewis once SD is committed
-*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 30-Aug-2006](/DSDP/TM/Committer_Phone_Meeting_30-Aug-2006 "DSDP/TM/Committer Phone Meeting 30-Aug-2006") at 9.30am Toronto
-*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](/DSDP/TM/Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 30-Aug-2006](./Committer_Phone_Meeting_30-Aug-2006 "DSDP/TM/Committer Phone Meeting 30-Aug-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](./Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-Aug-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-Aug-2006))

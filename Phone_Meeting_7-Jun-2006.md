@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 7-Jun-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [June 7, 2006](/index.php?title=June_7,_2006&action=edit&redlink=1 "June 7, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday [June 7, 2006](./index.php?title=June_7,_2006&action=edit&redlink=1 "June 7, 2006 (page does not exist)") at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -51,7 +51,7 @@ Notes
 *   Interesting Recent RSE Changes
     *   New persistence provider added; going to hide implementation
     *   All "resolve" operations are now non-UI jobs; This allows to get rid of UI dependency in the Services; affects Files and Processes subsystems
-*   RSE and EFS - See [Eclipse File Service APIs Compared](/Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared")
+*   RSE and EFS - See [Eclipse File Service APIs Compared](./Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared")
     *   Found problems, because RSE stores downloaded TempFiles in an Eclipse Project. This needs Platform APIs (Property Manager) which lead to a race condition when a .project file is accessed through EFS for project creation, or when Eclipse is shut down.
         *   Fixes might be possible but need experimentation. No resources to address this soon, also since EFS still has bugs in the Platform, CDT and JDT implementations are lacking. Therefore RSE EFS support will remain experimental and not go into the 1.0 release (no plan item).
         *   OK for PTP - Resources on Remote Support have to be cut down anyway, though PTP will continue try to help out.
@@ -66,14 +66,14 @@ Notes
 ### Communications
 
 *   Goal of the monthly meetings is to inform, but also collect feedback from the larger community
-*   [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion") \- Wiki page to serve as directory into API discussions held on Bugzilla
+*   [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion") \- Wiki page to serve as directory into API discussions held on Bugzilla
     *   Please file Enhancement Requests for API changes, put \[api\] in the subject
-*   [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") for next year
+*   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") for next year
     *   For now, this page is a container & directory for (bugzilla) feature requests that are not going to make it into RSE 1.0
     *   Shall serve as the input for planning 2.0
     *   Want to have a face-to-face meeting (september?) for planning 2.0
 *   Wiki notifications
-    *   You can turn on "watch" for a Wiki page. The Wiki will collect changes to watched pages on the [my watchlist](/Special:Watchlist "Special:Watchlist") page.
+    *   You can turn on "watch" for a Wiki page. The Wiki will collect changes to watched pages on the [my watchlist](./Special:Watchlist "Special:Watchlist") page.
 *   [TM Development Homepage](https://www.eclipse.org/dsdp/tm/development/index.php) \- a nice collection of links and tools
     *   Reachable from the [TM Homepage](https://www.eclipse.org/dsdp/tm), Navigation bar, last item "Development Tools"
     *   Includes CVS information like *.psf Project Sets and the link to the [CVS Changelog](http://download.eclipse.org/dsdp/tm/downloads/drops/N-changelog/index.html)
@@ -96,9 +96,9 @@ Notes
 
 *   Not covered:
     *   CDT Launching -- Ewa did not show up
-    *   [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") \-\- Javier dropped off early
-    *   [Connectors](/DSDP/TM/Flexible_Target_Connection_Adaptors "DSDP/TM/Flexible Target Connection Adaptors") \-\- Peter L did not show up
-*   Update on [SPIRIT](/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   [Autodetect](./Autodetect "DSDP/TM/Autodetect") \-\- Javier dropped off early
+    *   [Connectors](./Flexible_Target_Connection_Adaptors "DSDP/TM/Flexible Target Connection Adaptors") \-\- Peter L did not show up
+*   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
     *   Lots of discussions held on DD mailinglist (partly embedded in other subjects)
     *   Debug specific needs been added to the SPIRIT roadmap, but lots of action items are still open
     *   What do people perceive as the ways they want to use the information? C++ debugger back-ends?
@@ -112,7 +112,7 @@ Notes
 
 ### Closed Action Items
 
-*   Last meeting: [DSDP/TM/Phone Meeting 3-May-2006](/DSDP/TM/Phone_Meeting_3-May-2006 "DSDP/TM/Phone Meeting 3-May-2006")
+*   Last meeting: [DSDP/TM/Phone Meeting 3-May-2006](./Phone_Meeting_3-May-2006 "DSDP/TM/Phone Meeting 3-May-2006")
 *   Symbian -- Write up interface description for "Service" as understood by Symbian -- no longer needed
 *   MartinO -- EFS discussion started, Jakarta Commons submitted to EMO, Wiki notifications explained
 
@@ -129,7 +129,7 @@ New Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 5-Jul-2006](/DSDP/TM/Phone_Meeting_5-Jul-2006 "DSDP/TM/Phone Meeting 5-Jul-2006") (wednesday, 4 weeks)
+*   Next [DSDP/TM/Phone Meeting 5-Jul-2006](./Phone_Meeting_5-Jul-2006 "DSDP/TM/Phone Meeting 5-Jul-2006") (wednesday, 4 weeks)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_7-Jun-2006](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_7-Jun-2006))

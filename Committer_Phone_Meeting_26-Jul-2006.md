@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 26-Jul-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Jul 26, 2006](/index.php?title=Jul_26,_2006&action=edit&redlink=1 "Jul 26, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=7&day=19&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
+| Date & Time: | Wednesday [Jul 26, 2006](./index.php?title=Jul_26,_2006&action=edit&redlink=1 "Jul 26, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=7&day=19&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
 | Dial-in: | Skype **martin.oberhuber**, ddykstal, david-k-mcknight, kushal_munir |
 
 Fixed-line fallback dial-in:
@@ -46,7 +46,7 @@ Agenda
         *   Mike Berger left, replacement probably starts in August
 *   Urgent work to do
     *   Legal - JUnit, Jakarta-commons
-    *   "Big Rock" API issues --> see [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion"), [Last Meeting Notes](/DSDP/TM/Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006")
+    *   "Big Rock" API issues --> see [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion"), [Last Meeting Notes](./Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006")
     *   Bring ISV docs up-to-date -- needed for API discussions [bug 149331](https://bugs.eclipse.org/bugs/show_bug.cgi?id=149331) but more work to do.
         *   Do a search&Replace for "com.ibm.etools" first, use a broken-link-tool then (e.g. download the site from [http://dsdp.eclipse.org/help/latest/](http://dsdp.eclipse.org/help/latest/) with firefox; or just expand the jar)
         *   Tutorial docs: DaveD or Kushal
@@ -66,7 +66,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_19-Jul-2006#Action_Items "DSDP/TM/Committer Phone Meeting 19-Jul-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_19-Jul-2006#Action_Items "DSDP/TM/Committer Phone Meeting 19-Jul-2006") Action Items
 *   **DaveD** \- Review Patches, JUnit legal, Service Error Reporting API, No-Password-API, SystemRegistry API, docs (with Kushal), bug fixing (persistency)
 *   **DaveM** \- Parallel Services API, bug fixing, hygiene changes
 *   **Kushal** \- refactoring, doc review (DaveD), bug fixing
@@ -75,8 +75,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 2-Aug-2006](/DSDP/TM/Committer_Phone_Meeting_2-Aug-2006 "DSDP/TM/Committer Phone Meeting 2-Aug-2006") at 9.30am Toronto
-*   Open [DSDP/TM/Phone Meeting 2-Aug-2006](/DSDP/TM/Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 2-Aug-2006](./Committer_Phone_Meeting_2-Aug-2006 "DSDP/TM/Committer Phone Meeting 2-Aug-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 2-Aug-2006](./Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Jul-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Jul-2006))

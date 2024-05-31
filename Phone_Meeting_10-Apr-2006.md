@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 10-Apr-2006
 =================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Monday [April 10, 2006](/index.php?title=April_10,_2006&action=edit&redlink=1 "April 10, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Monday [April 10, 2006](./index.php?title=April_10,_2006&action=edit&redlink=1 "April 10, 2006 (page does not exist)") at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -51,7 +51,7 @@ Agenda
     *   ECF filesharing plugin - in work; want technology hooked up, not for M1
     *   CDT Remote Launch - Ewa Matejska agreed to work on it, no current status available
 *   Technology sub-groups
-    *   [Console View](/DSDP/DD/ConsoleView "DSDP/DD/ConsoleView")
+    *   [Console View](./DD/ConsoleView "DSDP/DD/ConsoleView")
         *   Aaron Spear started discussion; Darin and Debug Group seems to be open to enhancements from DD;
         *   Overlap between TM's terminal and a debugger specific terminal is mostly the Terminal Emulation
         *   Aaron seeking a framework where even non-text-based (graphical) output can be rendered in a contributed terminal view, based on the data the comes through a console stream
@@ -83,7 +83,7 @@ Agenda
 
 ### Next Meeting
 
-*   Next [DSDP/TM/Phone Meeting 3-May-2006](/DSDP/TM/Phone_Meeting_3-May-2006 "DSDP/TM/Phone Meeting 3-May-2006") (4 weeks)
+*   Next [DSDP/TM/Phone Meeting 3-May-2006](./Phone_Meeting_3-May-2006 "DSDP/TM/Phone Meeting 3-May-2006") (4 weeks)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_10-Apr-2006](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_10-Apr-2006))

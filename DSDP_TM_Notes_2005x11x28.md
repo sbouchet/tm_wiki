@@ -5,7 +5,7 @@ DSDP TM Notes 2005x11x28
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Monday [November 28, 2005](/index.php?title=November_28,_2005&action=edit&redlink=1 "November 28, 2005 (page does not exist)") at 9am PST |
+| Date & Time: | Monday [November 28, 2005](./index.php?title=November_28,_2005&action=edit&redlink=1 "November 28, 2005 (page does not exist)") at 9am PST |
 | Primary Dial-in: | +1 (866) 278-2164 |
 | Alternate Dial-In: | +1 (630) 424-7895 |
 | Passcode: | 5585626# |
@@ -58,7 +58,7 @@ Meeting Notes
 
 ### Discussions regarding TM Design
 
-*   [Connector Meeting in Salzburg - Notes](/DSDP-TM_Connector_Meeting_Salzburg_2005x11x14 "DSDP-TM Connector Meeting Salzburg 2005x11x14") ([November 14, 2005](/index.php?title=November_14,_2005&action=edit&redlink=1 "November 14, 2005 (page does not exist)"))
+*   [Connector Meeting in Salzburg - Notes](./DSDP-TM_Connector_Meeting_Salzburg_2005x11x14 "DSDP-TM Connector Meeting Salzburg 2005x11x14") ([November 14, 2005](./index.php?title=November_14,_2005&action=edit&redlink=1 "November 14, 2005 (page does not exist)"))
     *   Hard to think about the generic connector concept
     *   The hardest thing is to define interfaces for services that are not yet known -- idea:
         *   TM should only understand very basic interfaces (e.g. for service discovery), rest to be provided by plug-ins - leave as little intelligence as possible to the connector boxes, they should focus on doing their special task
@@ -109,8 +109,8 @@ Next Steps
     *   Scenarios for YOUR most important TM use-case
     *   Bring schema / example for Register Files & Boardfiles
 
-*   **Next Meeting** on Monday, [December 19, 2005](/index.php?title=December_19,_2005&action=edit&redlink=1 "December 19, 2005 (page does not exist)") at 9am PST
-    *   [Agenda / Meeting Notes](/DSDP_TM_Notes_2005x12x19 "DSDP TM Notes 2005x12x19")
+*   **Next Meeting** on Monday, [December 19, 2005](./index.php?title=December_19,_2005&action=edit&redlink=1 "December 19, 2005 (page does not exist)") at 9am PST
+    *   [Agenda / Meeting Notes](./DSDP_TM_Notes_2005x12x19 "DSDP TM Notes 2005x12x19")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP_TM_Notes_2005x11x28](https://wiki.eclipse.org//DSDP_TM_Notes_2005x11x28))

@@ -3,13 +3,13 @@
 DSDP/TM/Phone Meeting 8-Nov-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 Dial-in numbers and passcodes have changed for this call only. We'll revert to our regular numbers next month.
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [November 8, 2006](/index.php?title=November_8,_2006&action=edit&redlink=1 "November 8, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=8&year=2006&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [November 8, 2006](./index.php?title=November_8,_2006&action=edit&redlink=1 "November 8, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=8&year=2006&hour=17&min=00&sec=0&p1=0) |
 | International Dial-in | **+1 314 655 1411** |
 | North American Dial-In | **+1 877 422 0035** |
 | Passcode: | **764918#** |
@@ -65,7 +65,7 @@ RSE 1.0 Download statistics as per 7-Nov-2006
 ### Update on RSE Status
 
 *   All blockers towards RSE 1.0 resolved finally - about files review finally done by emo
-*   New TM FAQ on [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ")
+*   New TM FAQ on [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ")
 *   [Project Plan](https://www.eclipse.org/dsdp/tm/development/plan.php) status
     *   CDT Launcher now works on dstore as well
     *   Jakarta commons-net - working fine for FTP
@@ -106,13 +106,13 @@ RSE 1.0 Download statistics as per 7-Nov-2006
 ### Communications
 
 *   After 1.0, committers will have a 6-week phase of maintenance, doc update, polishing etc. culminating in RSE 1.0.1 mid december; gives time to work on themes and priorities for RSE 2.0
-*   Please fill in [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") \- your "wishlist"
+*   Please fill in [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") \- your "wishlist"
 *   Collaborations with other projects (Platform/Team, PTP, CDT, TPTP, WTP, ECF, Aperi, g-Eclipse)
     *   Martin wants Platform/Team to get ssh2 preference page under category "Connections"
     *   Javier in contact with ECF for service discovery
     *   Michael: DD project has new views for async updates of trees; might be a better view for the RSE tree
 *   Technology sub-groups
-    *   Update on [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+    *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
         *   Currently no plans to extend discovery beyond what's already there; waiting for community input
 *   What's the preferred way of communicating - newsgroup or dev-mailing list?
     *   The newsgroup is not very active, we are using the [dsdp-tm-dev list](https://dev.eclipse.org/mailman/listinfo/dsdp-tm-dev) for most communications (probably because most users are also interested in contributing)
@@ -120,13 +120,13 @@ RSE 1.0 Download statistics as per 7-Nov-2006
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006")
+*   Last meeting: [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006")
 
 New Action Items
 ----------------
 
-*   Everybody - Get latest RSE I-builds ([download page](http://download.eclipse.org/dsdp/tm/)), sanity-check ([RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") page) and verify late bug fixes ([Bugzilla: RSE bugs fixed last week](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=RESOLVED&resolution=FIXED&resolution=INVALID&resolution=WONTFIX&resolution=DUPLICATE&resolution=WORKSFORME&chfieldfrom=7d&chfieldto=Now&chfield=resolution&cmdtype=doit))
-*   Everybody - Review and edit the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   Everybody - Get latest RSE I-builds ([download page](http://download.eclipse.org/dsdp/tm/)), sanity-check ([RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") page) and verify late bug fixes ([Bugzilla: RSE bugs fixed last week](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=RESOLVED&resolution=FIXED&resolution=INVALID&resolution=WONTFIX&resolution=DUPLICATE&resolution=WORKSFORME&chfieldfrom=7d&chfieldto=Now&chfield=resolution&cmdtype=doit))
+*   Everybody - Review and edit the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 *   Maureen to try RSE, review docs, and get in contact with the [dsdp-tm-dev list](https://dev.eclipse.org/mailman/listinfo/dsdp-tm-dev) (probably setup a 1-on-1 talk)
 *   Christian to look at options for Open Remote Agents (TPTP and others)
 *   Martin - add FAQ items for Commandview vs. Terminal, Remote Native Agents
@@ -135,7 +135,7 @@ New Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 6-Dec-2006](/DSDP/TM/Phone_Meeting_6-Dec-2006 "DSDP/TM/Phone Meeting 6-Dec-2006") (Wednesday, 4 weeks)
+*   Next [DSDP/TM/Phone Meeting 6-Dec-2006](./Phone_Meeting_6-Dec-2006 "DSDP/TM/Phone Meeting 6-Dec-2006") (Wednesday, 4 weeks)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_8-Nov-2006](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_8-Nov-2006))

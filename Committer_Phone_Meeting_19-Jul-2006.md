@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 19-Jul-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Jul 19, 2006](/index.php?title=Jul_19,_2006&action=edit&redlink=1 "Jul 19, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=7&day=19&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
+| Date & Time: | Wednesday [Jul 19, 2006](./index.php?title=Jul_19,_2006&action=edit&redlink=1 "Jul 19, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=7&day=19&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
 | Dial-in: | Skype **martin.oberhuber**, ddykstal, david-k-mcknight, kushal_munir |
 
 Fixed-line fallback dial-in:
@@ -45,7 +45,7 @@ Agenda
     *   Kushal -- Met with Mike; legal work on test framework (Legal representative at IBM passed away!); WizardSelectionPage
 *   Urgent work to do
     *   DaveD will continue the Legal process from Kushal for the **JUnit test framework** \- [bug 149080](https://bugs.eclipse.org/bugs/show_bug.cgi?id=149080)
-    *   "Big Rock" API issues --> [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion")
+    *   "Big Rock" API issues --> [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion")
         *   Clarify and implement **"No password" API** \- [bug 142471](https://bugs.eclipse.org/bugs/show_bug.cgi?id=142471), [bug 147532](https://bugs.eclipse.org/bugs/show_bug.cgi?id=147532)
             *   DaveD to look at this; review martin's patch on [bug 150929](https://bugs.eclipse.org/bugs/show_bug.cgi?id=150929)
         *   Clarify **Service Error Reporting** \- [bug 149472](https://bugs.eclipse.org/bugs/show_bug.cgi?id=149472)
@@ -76,7 +76,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_28-Jun-2006#Action_Items "DSDP/TM/Committer Phone Meeting 28-Jun-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_28-Jun-2006#Action_Items "DSDP/TM/Committer Phone Meeting 28-Jun-2006") Action Items
 *   **DaveD** \- Review Patches, JUnit legal, No-Password-API, Service Error Reporting API, SystemRegistry API, bug fixing (persistency)
 *   **DaveM** \- Parallel Services API, bug fixing, hygiene changes, drive API discussion
 *   **Kushal** \- follow-up with Mike; bug fixing, refactoring, doc review
@@ -85,8 +85,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 26-Jul-2006](/DSDP/TM/Committer_Phone_Meeting_26-Jul-2006 "DSDP/TM/Committer Phone Meeting 26-Jul-2006") at 9.30am Toronto
-*   Open [DSDP/TM/Phone Meeting 2-Aug-2006](/DSDP/TM/Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 26-Jul-2006](./Committer_Phone_Meeting_26-Jul-2006 "DSDP/TM/Committer Phone Meeting 26-Jul-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 2-Aug-2006](./Phone_Meeting_2-Aug-2006 "DSDP/TM/Phone Meeting 2-Aug-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_19-Jul-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_19-Jul-2006))

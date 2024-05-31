@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 6-Sep-2006
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Sep 6, 2006](/index.php?title=Sep_6,_2006&action=edit&redlink=1 "Sep 6, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=6&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday [Sep 6, 2006](./index.php?title=Sep_6,_2006&action=edit&redlink=1 "Sep 6, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=6&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Dial-in: | Martin to start a Skype conference - you'll be called:   Skype **martin.oberhuber**, ddykstal (or david\_dykstal), david-k-mcknight, kushal\_munir, javier.montalvoorus |
 
 Fixed-line fallback dial-in:
@@ -55,7 +55,7 @@ Agenda
         *   **Compiler Warnings**: See [Committer Howto](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php)
             *   When you change a code, please make it warning-free before checkin (but dont go and chase compilerwarnings yet)
             *   Target VM is Java-1.4 with the satandard settings (i.e. no assert unless set up in build.properties)
-        *   **Code Ownership** \-\- See (and edit) [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   **Code Ownership** \-\- See (and edit) [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
         *   **Code Style and Format** \-\- defer to next week
     *   **Change Requests** \-\- defer to next week
     *   **Features**: Jakarta-commons, JUnit-framework, Discovery, EFS-Experimental, WR-Terminal ([bug 152826](https://bugs.eclipse.org/bugs/show_bug.cgi?id=152826))
@@ -92,20 +92,20 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_30-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 30-Aug-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_30-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 30-Aug-2006") Action Items
 *   **DaveD** \- Edit Code Ownership; JUnit, Review bugs assigned to M4, Hi-Pri bugs. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- Edit Code Ownership; Hi-pri bugs; get rid of Service calls on UI thread; hygiene changes
 *   **Kushal** \- Hi-pri bugs; send file encoding test resources to martin; review & get rid of rseConfigDefaults; talk to Don about persistenceProvider
 *   **Martin** \- Fixup & document refactorings; Release Review Slides, Manual test plan, Hi-pri bugs; Hook up with WickedShell; EFS feature, Add Discovery, Build scripts for CDT and Discovery, API Review, Jakarta-commons, WR-terminalview; Review if IShellService is sufficient for terminal
 *   **Javier** \- Discovery initial checkin; hook up with Scott Lewis once SD is committed
-*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 13-Sep-2006](/DSDP/TM/Committer_Phone_Meeting_13-Sep-2006 "DSDP/TM/Committer Phone Meeting 13-Sep-2006") at 9.30am Toronto
+*   [DSDP/TM/Committer Phone Meeting 13-Sep-2006](./Committer_Phone_Meeting_13-Sep-2006 "DSDP/TM/Committer Phone Meeting 13-Sep-2006") at 9.30am Toronto
 *   Release Review Meeting on [27-Sep-2006 at 8am PDT](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=15&min=0&sec=0&p1=224&p2=421&p3=250&p4=136&p5=223)
-*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
+*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_6-Sep-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_6-Sep-2006))

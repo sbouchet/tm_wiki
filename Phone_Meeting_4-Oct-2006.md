@@ -3,13 +3,13 @@
 DSDP/TM/Phone Meeting 4-Oct-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 Dial-in numbers and passcodes have changed for this call only. We'll revert to our regular numbers next month.
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [October 4, 2006](/index.php?title=October_4,_2006&action=edit&redlink=1 "October 4, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday [October 4, 2006](./index.php?title=October_4,_2006&action=edit&redlink=1 "October 4, 2006 (page does not exist)") at 9am PST |
 | International Dial-in | **+1 314 655 1411** |
 | North American Dial-In | **+1 877 422 0035** |
 | Passcode: | **764918#** |
@@ -77,15 +77,15 @@ Agenda
         *   Montavista - ssh processes subsystem - patch submitted
         *   Questions? Requests?
 *   Sign up for testing!
-    *   Please sign up in the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page
+    *   Please sign up in the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page
     *   Testing RC1 will take 2 hour or so -- we want any bugs early!
 *   Communications
-    *   Please fill in [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning")
+    *   Please fill in [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning")
     *   Collaborations with other projects (Platform/Team, PTP, CDT, TPTP, WTP, ECF, Aperi, g-Eclipse)
 *   Technology sub-groups
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
-    *   Update on [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
 *   Next Meeting
     *   Suggest 25-Oct or 8-Nov instead of 1-Nov because this is a public holiday in Europe
     *   Lets celebrate our 1.0 Release
@@ -93,21 +93,21 @@ Agenda
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 6-Sep-2006](/DSDP/TM/Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006")
-*   Everybody - Sign up on the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page
-*   Everybody - Review and edit the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   Last meeting: [DSDP/TM/Phone Meeting 6-Sep-2006](./Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006")
+*   Everybody - Sign up on the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page
+*   Everybody - Review and edit the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 
 New Action Items
 ----------------
 
 *   DaveD - begin EMO review submission for SSH/Processes patch from MontaVista
-*   Everybody - Sign up for [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") page for our RC1 test pass
+*   Everybody - Sign up for [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") page for our RC1 test pass
 
 Next Meeting
 ------------
 
 *   Michael Scharf is doing a [Talk on TM/RSE](http://www.eclipsecon.org/summiteurope2006/index.php?page=detail/&id=26) on Wednesday, Oct. 11 at [Eclipse Summit Europe](http://www.eclipsecon.org/summiteurope2006)
-*   Next [DSDP/TM/Phone Meeting 8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") (Wednesday, 5 weeks)
+*   Next [DSDP/TM/Phone Meeting 8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") (Wednesday, 5 weeks)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_4-Oct-2006](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_4-Oct-2006))

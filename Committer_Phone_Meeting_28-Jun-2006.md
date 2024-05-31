@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 28-Jun-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Jun 28, 2006](/index.php?title=Jun_28,_2006&action=edit&redlink=1 "Jun 28, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=6&day=28&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
+| Date & Time: | Wednesday [Jun 28, 2006](./index.php?title=Jun_28,_2006&action=edit&redlink=1 "Jun 28, 2006 (page does not exist)") at [6.30am PDT / 8.30am CDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=6&day=28&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
 | Dial-in: | Skype **martin.oberhuber**, ddykstal, david-k-mcknight, kushal\_munir, mikey\_yo |
 
 Fixed-line fallback dial-in:
@@ -68,13 +68,13 @@ Agenda
             *   **Mike** could do a first pass (catalog things to be fixed), **Kushal** can do a second one after some more refactoring
     *   More unit tests; server infrastrucure for automated testing
     *   **Kushal** \- More refactoring (until end of july -- to be finished before M4)
-    *   Drive the community [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion") \-\- API bug entries -- **DaveM**
+    *   Drive the community [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion") \-\- API bug entries -- **DaveM**
     *   Remove references to "IBM", "etools" and similar strings -- **DaveM**
     *   Build warnings, usage of Platform Internal packages / classes
         *   DaveD already removed "deprecated" stuff and tried to find alternatives to "internal" stuff
         *   Some areas might not be easy (or even impossible) to remove -- most of them show up as warnings in PDE (currently 600)
         *   "hygiene" changes -- make changes as we go along for now: fix build warnings when a file is edited anyway; everybody to use default warnings; have a separate task for remaining the rest after M4
-    *   Drive [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning")
+    *   Drive [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning")
         *   Want Requirements for 2.0 by the Release Review (1 week after M5, end of september)
         *   Shall we have another F2F meeting? - Probably helpful if architectural things are to be discussed
         *   CDT developer summit will be end of september
@@ -86,7 +86,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_23-May-2006#Action_Items "DSDP/TM/Committer Phone Meeting 23-May-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_23-May-2006#Action_Items "DSDP/TM/Committer Phone Meeting 23-May-2006") Action Items
 *   **DaveD** \- Doc build, presistency bugs
 *   **DaveM** \- bug fixing, hygiene changes, drive API discussion
 *   **Kushal** \- bug fixing, refactoring, doc review
@@ -99,8 +99,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Open [DSDP/TM/Phone Meeting 5-Jul-2006](/DSDP/TM/Phone_Meeting_5-Jul-2006 "DSDP/TM/Phone Meeting 5-Jul-2006") at 9am PST
-*   [DSDP/TM/Committer Phone Meeting 19-Jul-2006](/DSDP/TM/Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 5-Jul-2006](./Phone_Meeting_5-Jul-2006 "DSDP/TM/Phone Meeting 5-Jul-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 19-Jul-2006](./Committer_Phone_Meeting_19-Jul-2006 "DSDP/TM/Committer Phone Meeting 19-Jul-2006") at 9.30am Toronto
 *   Dave D on vacation Jul 1-15
 
 

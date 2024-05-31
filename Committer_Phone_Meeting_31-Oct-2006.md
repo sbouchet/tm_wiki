@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 31-Oct-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Oct 31, 2006](/index.php?title=Oct_31,_2006&action=edit&redlink=1 "Oct 31, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=31&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Oct 31, 2006](./index.php?title=Oct_31,_2006&action=edit&redlink=1 "Oct 31, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=31&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -38,7 +38,7 @@ Agenda
     *   **Get the APIs Right** --\> enable public API discussion --> ISV docs, Wiki API discussion, \[api\] bugzilla's
     *   Get our **Processes** in place --> JUnit, nightly builds, infocenter, update site
 *   Latest News
-    *   Martin -- [RSE 1.0 Testing round 3](/RSE_1.0_Testing_round_3 "RSE 1.0 Testing round 3"); bugfixes; releasing RC3; about files still pending!
+    *   Martin -- [RSE 1.0 Testing round 3](./RSE_1.0_Testing_round_3 "RSE 1.0 Testing round 3"); bugfixes; releasing RC3; about files still pending!
     *   DaveD -- bugfixing, verification; some lo-pri filter bugs still pending
     *   DaveM -- testing & verification
     *   Kushal -- testing & verification
@@ -50,7 +50,7 @@ Agenda
 *   Top Priorities this week:
     *   **#1 - Hi-priority bugfixing** \- please observe the priorities.
     *   **#2 - Being responsive**
-*   Looking back on [RSE 1.0 Testing round 3](/RSE_1.0_Testing_round_3 "RSE 1.0 Testing round 3")
+*   Looking back on [RSE 1.0 Testing round 3](./RSE_1.0_Testing_round_3 "RSE 1.0 Testing round 3")
     *   committers can set to CLOSED right away instead of setting VERIFIED
     *   Filter questions by LotharW
         *   Programmatically use the remote file selection dialog to restrict it to some filter
@@ -88,7 +88,7 @@ Agenda
     *   Shall we get rid of commented out source code ?
         *   too late for 1.0 but want to get rid of both soon after
 *   Change Requests
-*   [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") \- First tasks after 1.0 is completed:
+*   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") \- First tasks after 1.0 is completed:
     *   Start IBM and EMO review process for User Actions and Import/Export (DaveD)
     *   Start creating Unit Tests, Testing feature (DaveD, Uwe)
     *   Continue bug fixing on HEAD (All)
@@ -99,14 +99,14 @@ Agenda
     *   US Thanksgiving - End of November
     *   Kushal - Business trip Nov 9 and 10
 *   Free discussion -- feelings, comments, critics
-    *   [DSDP/TM/Code_Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+    *   [DSDP/TM/Code_Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
     *   **Can we move next weeks meeting 1 hour earlier in order to accomodate the Orbit call?**
     *   EclipseCon 2007 coming in March. Call for Papers has been issued. Martin and DaveM will submit proposal for 2 hour tutorial.
 
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_25-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 25-Oct-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_25-Oct-2006#Action_Items "DSDP/TM/Committer Phone Meeting 25-Oct-2006") Action Items
 *   **DaveD** \- Edit Code Ownership. Hi-Pri bugs. New bug for moving DTD.
 *   **DaveM** \- Hi-pri bugs
 *   **Kushal** \- Hi-pri bugs; Encoding bugs?
@@ -117,8 +117,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 7-Nov-2006](/DSDP/TM/Committer_Phone_Meeting_7-Nov-2006 "DSDP/TM/Committer Phone Meeting 7-Nov-2006") at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 7-Nov-2006](./Committer_Phone_Meeting_7-Nov-2006 "DSDP/TM/Committer Phone Meeting 7-Nov-2006") at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Open [DSDP/TM/Phone Meeting 8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Oct-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Oct-2006))

@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 27-Sep-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Sep 27, 2006](/index.php?title=Sep_27,_2006&action=edit&redlink=1 "Sep 27, 2006 (page does not exist)") at [9.00am San Francisco / 11.00am Rochester / 12.00am Toronto / 5.00pm London / 6.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Sep 27, 2006](./index.php?title=Sep_27,_2006&action=edit&redlink=1 "Sep 27, 2006 (page does not exist)") at [9.00am San Francisco / 11.00am Rochester / 12.00am Toronto / 5.00pm London / 6.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to start a Skype conference - you'll be called:   Skype **martin.oberhuber**, ddykstal (or david_dykstal), david-k-mcknight, kushal.munir, javier.montalvoorus, tedatteddotnet |
 
 Fixed-line fallback dial-in:
@@ -39,7 +39,7 @@ Agenda
     *   **Get the APIs Right** --\> enable public API discussion --> ISV docs, Wiki API discussion, \[api\] bugzilla's
     *   Get our **Processes** in place --> JUnit, nightly builds, infocenter, update site
 *   Latest News
-    *   Martin -- Prepared & released M5 - lots of new features (Commons_Net,Remotecdt,EFS,Discovery); Prepared, organized and joined the [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") effort; Release Review (passed!);
+    *   Martin -- Prepared & released M5 - lots of new features (Commons_Net,Remotecdt,EFS,Discovery); Prepared, organized and joined the [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") effort; Release Review (passed!);
     *   DaveD -- Bug reporting & fixing
     *   DaveM -- Bug reporting & fixing
     *   Kushal -- Bug reporting & fixing
@@ -54,7 +54,7 @@ Agenda
         *   Javier will implement the glue from RSE File Service -> Commons_Net
         *   Martin needs to fix the unattended builds
 *   Top Priorities this week:
-    *   **#1 - Fulfill the testing assignments** (4h each; but not more) - [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing")
+    *   **#1 - Fulfill the testing assignments** (4h each; but not more) - [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing")
     *   **#2 - Bookkeeping**: Bugzilla M5 bugs status, Bugzilla NEW->ASSIGNED, Code Ownership, Copyright Checks
     *   **#3 - Hi-priority bugfixing**
 *   Upcoming Work
@@ -65,7 +65,7 @@ Agenda
             *   Dave & Kushal could not reproduce problems with Drag&Drop files when folders worked
             *   --\> Martin to re-test once Commons_Net builds ok
     *   Communications
-        *   We need a **RSE 2.0 Project Plan!** \- Work on the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+        *   We need a **RSE 2.0 Project Plan!** \- Work on the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
             *   Martin to create an empty Milestone Plan in a hidden area of the webserver; DaveD to fill in features for dates
         *   Should we reduce noise on the dsdp-tm-dev list?
             *   **Decision: No - it's a developer list**, so we're going to keep everything public.
@@ -77,7 +77,7 @@ Agenda
             *   Please use the Releng tool from the bottom of the [Eclipse 3.2 Download Page](http://download.eclipse.org/eclipse/downloads/drops/R-3.2-200606291905/index.php) \- See the description there: "6. Fix Copyrights"
             *   Martin to post instructions here and in committer HOWTO
         *   **Compiler Warnings**: See [Committer Howto](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php)
-        *   **Code Ownership** \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit
+        *   **Code Ownership** \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit
         *   **Code Style and Format**
             *   Not been a focus so far
             *   RSE itself is inconsistent - e.g. if... without {} block is problematic
@@ -100,7 +100,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_20-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 20-Sep-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_20-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 20-Sep-2006") Action Items
 *   **DaveD** \- Testing, Bookkeeping; Edit Code Ownership. Fix Copyrights. Hi-Pri bugs. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- Testing, Bookkeeping; meet Kushal for Dirty Editors. Fix Copyrights. Hi-pri bugs
 *   **Kushal** \- Testing, Bookkeeping; Meet DaveM for Dirty Editors; Fix Copyrights. Hi-pri bugs; refactoring IConnectorService; send file encoding test resources to martin;
@@ -111,8 +111,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 4-Oct-2006](/DSDP/TM/Committer_Phone_Meeting_4-Oct-2006 "DSDP/TM/Committer Phone Meeting 4-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
-*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 4-Oct-2006](./Committer_Phone_Meeting_4-Oct-2006 "DSDP/TM/Committer Phone Meeting 4-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
+*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_27-Sep-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_27-Sep-2006))

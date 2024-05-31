@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 16-Aug-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 16, 2006](/index.php?title=Aug_16,_2006&action=edit&redlink=1 "Aug 16, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday [Aug 16, 2006](./index.php?title=Aug_16,_2006&action=edit&redlink=1 "Aug 16, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Skype Dial-in: | **+99008275601400** (this call is **free** from Skype) |
 | Fixed-line Dial-in: | US, call **1-712-432-4000** (long distance charges)    Austria: **0820 400 01562** (national call charges)   In UK: **0870 119 2350** (national call charges)   |
 | Passcode: | **5601400** |
@@ -66,7 +66,7 @@ Agenda
         *   bugfix rate to-date is 1 "hard" one or 3 "easy" ones per day
         *   What do we expect from M4? -> Growing community by a stable release available through Update Manager
         *   What do we expect from 1.0? -> Growing community by something reliable to base on
-            *   Will need to communicate intended refactorings between 1.0 and 2.0 early --> Keep the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page up-to-date
+            *   Will need to communicate intended refactorings between 1.0 and 2.0 early --> Keep the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page up-to-date
             *   For Refactorings after 1.0, we'll need migration docs
         *   **Kushal will continue refactoring, others focus on bug work**
             *   Please document on the mailing list what's about to change, we'll vote for the change.
@@ -101,7 +101,7 @@ Agenda
             *   [bug 150168](https://bugs.eclipse.org/bugs/show_bug.cgi?id=150168) dont commit immediately - DaveD
             *   [bug 150265](https://bugs.eclipse.org/bugs/show_bug.cgi?id=150265) allow specifying subsystem types - DaveM
         *   Making stuff **internal** \- ssh, ftp: Martin
-        *   Obsolete API that's in the Platform now (ActionSets, rseConfigDefaults) --> See [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+        *   Obsolete API that's in the Platform now (ActionSets, rseConfigDefaults) --> See [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
     *   **Bug Work - please observe priorities**
         *   Open bugs: [P1, P2 bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&component=RSE&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&priority=P1&priority=P2&cmdtype=doit), [API bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bapi&classification=DSDP&product=Target+Management&component=RSE&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit), [Open with Patch](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&component=RSE&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=attachments.ispatch&type0-0-0=equals&value0-0-0=1),
         *   [bug 153253](https://bugs.eclipse.org/bugs/show_bug.cgi?id=153253) \- Persistence of local filters - to be addressed by DaveD for M4
@@ -115,20 +115,20 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_9-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 9-Aug-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_9-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 9-Aug-2006") Action Items
 *   **DaveD** \- JUnit legal, Service Error Reporting API, Persistence bug 153253, Checkin mappings.csv, SystemRegistry API. Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- bug fixing by priority; look at Kushal's bugs and assign yourself; get rid of Service calls on UI thread; hygiene changes
 *   **Kushal** \- bug fixing, refactoring IConnectorService with help from DaveD; send file encoding test resources to martin; review & get rid of rseConfigDefaults
 *   **Martin** \- EFS & Examples features, build scripts, Manual test plan, API Review, Jakarta-commons, WR-terminalview; Review if IShellService is sufficient for terminal
 *   **Javier** \- vacation; hook up with Scott Lewis once SD is committed
-*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page; Mark hygiene changes as \[cleanup\] in commit comment
+*   **Everyone** \- List obsolete API on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page; Mark hygiene changes as \[cleanup\] in commit comment
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 23-Aug-2006](/DSDP/TM/Committer_Phone_Meeting_23-Aug-2006 "DSDP/TM/Committer Phone Meeting 23-Aug-2006") at 9.30am Toronto
+*   [DSDP/TM/Committer Phone Meeting 23-Aug-2006](./Committer_Phone_Meeting_23-Aug-2006 "DSDP/TM/Committer Phone Meeting 23-Aug-2006") at 9.30am Toronto
     *   Continue using the Skype/Fixed-line bridge, fallback to plain Skype during the call if possible
-*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](/DSDP/TM/Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
+*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](./Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_16-Aug-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_16-Aug-2006))

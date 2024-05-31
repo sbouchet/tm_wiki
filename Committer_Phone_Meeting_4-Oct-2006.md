@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 4-Oct-2006
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Oct 4, 2006](/index.php?title=Oct_4,_2006&action=edit&redlink=1 "Oct 4, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=4&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Oct 4, 2006](./index.php?title=Oct_4,_2006&action=edit&redlink=1 "Oct 4, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=4&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+1 314-655-1411**   North America **+1 877-422-0035** (toll free)   Passcode: **764918** |
 
 Skype fallback dial-in - only if less than 5 participants:  
@@ -60,12 +60,12 @@ Agenda
             *   Dave & Kushal could not reproduce problems with Drag&Drop files when folders worked
             *   --\> Martin to re-test once Commons_Net builds ok
     *   Communications
-        *   We need a **RSE 2.0 Project Plan!** \- Work on the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+        *   We need a **RSE 2.0 Project Plan!** \- Work on the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
             *   Martin to create an empty Milestone Plan in a hidden area of the webserver; DaveD to fill in features for dates
     *   Source Code Style & Cleanness
         *   Missing / Incomplete Copyrights - **PLEASE FIX NOW**
         *   **Compiler Warnings**: See [Committer Howto](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php)
-        *   **Code Ownership** \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit (for self).
+        *   **Code Ownership** \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") \- DaveD to edit (for self).
             *   Propose FTP to be transferred from Martin to Javier (OK)
             *   Propose CDT Launcer to be transferred from Martin to Ewa (OK with committers, DaveD to clear with Ewa)
     *   **Change Requests**
@@ -105,7 +105,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_27-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 27-Sep-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_27-Sep-2006#Action_Items "DSDP/TM/Committer Phone Meeting 27-Sep-2006") Action Items
 *   **DaveD** \- Testing, Bookkeeping; Edit Code Ownership. Fix Copyrights. Hi-Pri bugs. JUnit. Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal. Help Michael with RSE demo. Check with Ewa regarding CDT Remote Launch
 *   **DaveM** \- Testing, Bookkeeping; meet Kushal for Dirty Editors. Fix Copyrights. Hi-pri bugs
 *   **Kushal** \- Testing, Bookkeeping; Meet DaveM for Dirty Editors; Fix Copyrights. Hi-pri bugs; refactoring IConnectorService; send file encoding test resources to martin;
@@ -116,8 +116,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](/DSDP/TM/Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
-*   [DSDP/TM/Committer Phone Meeting 11-Oct-2006](/DSDP/TM/Committer_Phone_Meeting_11-Oct-2006 "DSDP/TM/Committer Phone Meeting 11-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
+*   Open [DSDP/TM/Phone Meeting 4-Oct-2006](./Phone_Meeting_4-Oct-2006 "DSDP/TM/Phone Meeting 4-Oct-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 11-Oct-2006](./Committer_Phone_Meeting_11-Oct-2006 "DSDP/TM/Committer Phone Meeting 11-Oct-2006") at 8am SFO/10.00am Rochester/11.00pm Toronto/4pm London/5pm Salzburg
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_4-Oct-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_4-Oct-2006))

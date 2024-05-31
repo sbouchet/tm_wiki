@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 30-Aug-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 30, 2006](/index.php?title=Aug_30,_2006&action=edit&redlink=1 "Aug 30, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=30&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday [Aug 30, 2006](./index.php?title=Aug_30,_2006&action=edit&redlink=1 "Aug 30, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=30&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Dial-in: | Martin to start a Skype conference - you'll be called:   Skype **martin.oberhuber**, ddykstal (or david\_dykstal), david-k-mcknight, kushal\_munir, javier.montalvoorus |
 
 Fixed-line fallback dial-in:
@@ -69,7 +69,7 @@ Agenda
         *   **Code Ownership**:
             *   It is beneficial to have clear ownership and responsibility
             *   External contributors can also be owners, but have an associated committer as well
-            *   See (and edit) [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+            *   See (and edit) [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
             *   Martin to take Ssh, Releng; Examples; FTP, Local, Contentassist for now
         *   **Code Style and Format** \- deferred to next meeting
     *   **Change Requests**
@@ -94,7 +94,7 @@ Agenda
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_23-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 23-Aug-2006") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_23-Aug-2006#Action_Items "DSDP/TM/Committer Phone Meeting 23-Aug-2006") Action Items
 *   **DaveD** \- JUnit, Review bugs assigned to M4, Checkin mappings.csv, New bug for moving DTD, Send "Team" test plans to Martin. SystemRegistry API for Javier. Team fixes: Check collapsing persistence Properties nodes to fewer files. Compile a list of suggestions for making classes / packages internal.
 *   **DaveM** \- Refactoring Interfaces on Thursday; bug fixing by priority
 *   **Kushal** \- implement rseConfigDefaults changes; ask TPF regarding passwordPersistence changes; Review bugs assigned to M4, refactoring together with DaveM; send file encoding test resources to martin; bug fixing
@@ -102,15 +102,15 @@ Action Items
 *   **Javier** \- vacation; hook up with Scott Lewis once SD is committed
 *   **Everyone** -
     *   **Setup [Compiler Warnings](https://www.eclipse.org/dsdp/tm/development/compiler_warnings.php) in your Workspaces**
-    *   **Update [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")**;
+    *   **Update [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")**;
     *   **NO CHECKINS ON THURSDAY**;
-    *   List obsolete API on [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+    *   List obsolete API on [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 6-Sep-2006](/DSDP/TM/Committer_Phone_Meeting_6-Sep-2006 "DSDP/TM/Committer Phone Meeting 6-Sep-2006") at 9.30am Toronto
-*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](/DSDP/TM/Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 6-Sep-2006](./Committer_Phone_Meeting_6-Sep-2006 "DSDP/TM/Committer Phone Meeting 6-Sep-2006") at 9.30am Toronto
+*   Open [DSDP/TM/Phone Meeting 6-Sep-2006](./Phone_Meeting_6-Sep-2006 "DSDP/TM/Phone Meeting 6-Sep-2006") at 9am PST
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_30-Aug-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_30-Aug-2006))

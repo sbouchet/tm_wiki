@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 23-May-2006
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [May 23, 2006](/index.php?title=May_23,_2006&action=edit&redlink=1 "May 23, 2006 (page does not exist)") at [6.30am PDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=5&day=23&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
+| Date & Time: | Tuesday [May 23, 2006](./index.php?title=May_23,_2006&action=edit&redlink=1 "May 23, 2006 (page does not exist)") at [6.30am PDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=5&day=23&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
 | Dial-in: | Skype **martin.oberhuber**, ddykstal (works better than david_dykstal), david-k-mcknight |
 
 Fixed-line fallback dial-in:
@@ -89,8 +89,8 @@ Agenda
         *   The framework that DaveD has just makes it possible to ship them to customers
         *   Suggestion: go ahead and write Unit Tests where it makes sense to have them
         *   Will add them to the framework later
-    *   [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion")
-    *   [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning")
+    *   [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion")
+    *   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning")
 *   Want regular committer meetings?
     *   IBM people have a weekly meeting currently; could piggypack on that; wednesday 11am
     *   Move to 9.30; try doing with Skype; starting next week.
@@ -106,14 +106,14 @@ Action Items
 *   DaveD to prepare contributions on bugzilla: Docs, Unittest-driver, User-commands, Import/Export (in this order)
     *   We want to have at least one unit test for something in the repository soon, so we can use it as template for new ones
 *   DaveM to create bugzilla entry and tm-log.csv entry for Mike Berger's Spirit patch
-*   DaveM and DaveD to review and correct [RSE API Discussion](/RSE_API_Discussion "RSE API Discussion") where necessary
+*   DaveM and DaveD to review and correct [RSE API Discussion](./RSE_API_Discussion "RSE API Discussion") where necessary
 *   DaveM to work on fixing major and critical bugs
 *   Kushal to make Wizard completely replacable and continue UI/Non-UI refactoring
 
 Next Meeting
 ------------
 
-*   Wed 31-May-2006 at 9.30am Toronto time: [DSDP/TM/Committer Phone Meeting 31-May-2006](/DSDP/TM/Committer_Phone_Meeting_31-May-2006 "DSDP/TM/Committer Phone Meeting 31-May-2006")
+*   Wed 31-May-2006 at 9.30am Toronto time: [DSDP/TM/Committer Phone Meeting 31-May-2006](./Committer_Phone_Meeting_31-May-2006 "DSDP/TM/Committer Phone Meeting 31-May-2006")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-May-2006](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-May-2006))

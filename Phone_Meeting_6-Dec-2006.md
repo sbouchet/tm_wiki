@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 6-Dec-2006
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [December 6, 2006](/index.php?title=December_6,_2006&action=edit&redlink=1 "December 6, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=6&year=2006&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [December 6, 2006](./index.php?title=December_6,_2006&action=edit&redlink=1 "December 6, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=6&year=2006&hour=17&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -33,7 +33,7 @@ Attendees
 Notes
 -----
 
-*   Recent Download Statistics (for analysis, see also the [last meeting](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006"))
+*   Recent Download Statistics (for analysis, see also the [last meeting](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006"))
     *   Download stats currently disabled on eclipse.org servers due to database problems
 
 *   **Update on RSE Status**
@@ -41,7 +41,7 @@ Notes
     *   Terminal 0.9.0 checked in, need some Legal cleanup to go to TM downloads and update site, hopfully for 1.0.1
     *   Test suites being finished, will be available as download for 1.0.1
     *   2.0 Planning not yet really started
-    *   Need testers for [RSE 1.0.1 Testing](/RSE_1.0.1_Testing "RSE 1.0.1 Testing")
+    *   Need testers for [RSE 1.0.1 Testing](./RSE_1.0.1_Testing "RSE 1.0.1 Testing")
     *   Comments / Questions?
         *   IP review for MV's ssh plugin? -> Martin to check
 
@@ -50,7 +50,7 @@ Notes
         *   MV looking forward to it
         *   Michael working on ssh connector
     *   File Permission Editing [bug 165171](https://bugs.eclipse.org/bugs/show_bug.cgi?id=165171)
-    *   Please fill in [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning")
+    *   Please fill in [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning")
     *   News on Agents?
         *   MV: Just ssh and gdbserver
         *   WindRiver working on an agent framework, not yet sure if going to be open source; Symbian, Motorola are interested
@@ -64,15 +64,15 @@ Notes
 
 *   Technology sub-groups
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
-    *   Update on [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
 
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
+*   Last meeting: [DSDP/TM/Phone Meeting 8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
 *   \[done\] DaveD - begin EMO review submission for SSH/Processes patch from MontaVista
-*   Everybody - Review and edit the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   Everybody - Review and edit the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 *   Everybody - Get latest RSE M-builds, sanity-check and verify late bug fixes
 *   Maureen to try RSE, review docs, and get in contact with the dsdp-tm-dev list Martin
 
@@ -86,7 +86,7 @@ New Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 10-Jan-2007](/DSDP/TM/Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007") (5 weeks, 2nd wed due to christmas holidays)
+*   Next [DSDP/TM/Phone Meeting 10-Jan-2007](./Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007") (5 weeks, 2nd wed due to christmas holidays)
 
 
 (Migrated from [https://wiki.eclipse.org/DSDP/TM/Phone_Meeting_6-Dec-2006](https://wiki.eclipse.org/DSDP/TM/Phone_Meeting_6-Dec-2006))

@@ -5,7 +5,7 @@ DSDP-TM Notes 2006x02x06
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Monday [February 06, 2006](/index.php?title=February_06,_2006&action=edit&redlink=1 "February 06, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Monday [February 06, 2006](./index.php?title=February_06,_2006&action=edit&redlink=1 "February 06, 2006 (page does not exist)") at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -108,11 +108,11 @@ Agenda
 
 ### Next Meeting
 
-*   **Face-to-face Meeting** confirmed for Wed, [February 22, 2006](/index.php?title=February_22,_2006&action=edit&redlink=1 "February 22, 2006 (page does not exist)") \- Fri, [February 24, 2006](/index.php?title=February_24,_2006&action=edit&redlink=1 "February 24, 2006 (page does not exist)"), IBM Labs Toronto (Pete Nicholls)
+*   **Face-to-face Meeting** confirmed for Wed, [February 22, 2006](./index.php?title=February_22,_2006&action=edit&redlink=1 "February 22, 2006 (page does not exist)") \- Fri, [February 24, 2006](./index.php?title=February_24,_2006&action=edit&redlink=1 "February 24, 2006 (page does not exist)"), IBM Labs Toronto (Pete Nicholls)
     *   DD Meetings on Wednesday + Thursday morning
     *   TM Meetings on Thursday afternoon + Friday
-    *   Agenda and Notes on [DSDP-TM Face-to-face Toronto 2006x02x23](/DSDP-TM_Face-to-face_Toronto_2006x02x23 "DSDP-TM Face-to-face Toronto 2006x02x23")
-*   Next [DSDP/TM/Phone Meeting 10-Apr-2006](/DSDP/TM/Phone_Meeting_10-Apr-2006 "DSDP/TM/Phone Meeting 10-Apr-2006")
+    *   Agenda and Notes on [DSDP-TM Face-to-face Toronto 2006x02x23](./DSDP-TM_Face-to-face_Toronto_2006x02x23 "DSDP-TM Face-to-face Toronto 2006x02x23")
+*   Next [DSDP/TM/Phone Meeting 10-Apr-2006](./Phone_Meeting_10-Apr-2006 "DSDP/TM/Phone Meeting 10-Apr-2006")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP-TM_Notes_2006x02x06](https://wiki.eclipse.org//DSDP-TM_Notes_2006x02x06))
