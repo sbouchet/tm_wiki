@@ -3,7 +3,7 @@
 RSE 1.0 Testing round 1
 =======================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | [RSE 1.0M5 Known Issues and Workarounds](/RSE_1.0M5_Known_Issues_and_Workarounds "RSE 1.0M5 Known Issues and Workarounds") | [RSE Manual Test Plan](/RSE_Manual_Test_Plan "RSE Manual Test Plan")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | [RSE 1.0M5 Known Issues and Workarounds](./RSE_1.0M5_Known_Issues_and_Workarounds "RSE 1.0M5 Known Issues and Workarounds") | [RSE Manual Test Plan](./RSE_Manual_Test_Plan "RSE Manual Test Plan")
 
 * * *
 
@@ -15,7 +15,7 @@ This is the master coordination page for RSE 1.0 Testing round 1, to be done wit
 
   
 
-| Click here for the [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") |
+| Click here for the [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") |
 | --- |
 
   
@@ -34,7 +34,7 @@ Contents
 Organization and Signup
 -----------------------
 
-Detailed [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") are being sent out, so don't feel afraid of being signed up to any features you have never heard of before - this might actually help improving your test quality sinc you might tend to try things that nobody else thought about before.
+Detailed [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") are being sent out, so don't feel afraid of being signed up to any features you have never heard of before - this might actually help improving your test quality sinc you might tend to try things that nobody else thought about before.
 
 Please put your name in the table below. **Feel free to modify** the host/target combinations, or features of RSE to test as you find yourself fit. Put an "ok" in the first column when you reviewed your assignment. **You may delete assignments or limit your time commitment, but please let us know what you are planning and then stick to your commitment**. The list is sorted by company name, then first name.
 
@@ -67,40 +67,40 @@ Test Matrix
 
 **RSE Features signed up already**
 
-*   [Basic Sanity Test](/RSE_Manual_Test_Plan#Basic_Sanity_Test "RSE Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
-*   [Dstore Launch Options](/RSE_Manual_Test_Plan#Dstore_Launch_Options "RSE Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
-*   [Shell Content Assist-Linux](/RSE_Manual_Test_Plan#Shell_Content_Assist-Linux "RSE Manual Test Plan") (local,ssh,dstore)
-*   [Shell Content Assist-Windows](/RSE_Manual_Test_Plan#Shell_Content_Assist-Windows "RSE Manual Test Plan") (local,dstore)
-*   [Team Support](/RSE_Manual_Test_Plan#Team_Support "RSE Manual Test Plan") (Share connections, Connection Profiles)
+*   [Basic Sanity Test](./RSE_Manual_Test_Plan#Basic_Sanity_Test "RSE Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
+*   [Dstore Launch Options](./RSE_Manual_Test_Plan#Dstore_Launch_Options "RSE Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
+*   [Shell Content Assist-Linux](./RSE_Manual_Test_Plan#Shell_Content_Assist-Linux "RSE Manual Test Plan") (local,ssh,dstore)
+*   [Shell Content Assist-Windows](./RSE_Manual_Test_Plan#Shell_Content_Assist-Windows "RSE Manual Test Plan") (local,dstore)
+*   [Team Support](./RSE_Manual_Test_Plan#Team_Support "RSE Manual Test Plan") (Share connections, Connection Profiles)
 
 **RSE Features to test**
 
-*   [Parallel access](/RSE_Manual_Test_Plan#Parallel_access "RSE Manual Test Plan") (multiple parallel actions)
-*   [File Encodings](/RSE_Manual_Test_Plan#File_Encodings "RSE Manual Test Plan") (Foreign language files on remote side)
-*   [Drag&Drop, Copy&Paste](/RSE_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "RSE Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
-*   [Update Site](/RSE_Manual_Test_Plan#Update_Site "RSE Manual Test Plan"): Install & Upgrade via Update Site
-*   [Scalability](/RSE_Manual_Test_Plan#Scalability "RSE Manual Test Plan") (Really large file lists, lots of events)
-*   [Shell Pattern Matching](/RSE_Manual_Test_Plan#Shell_Pattern_Matching "RSE Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
-*   [Processes Subsystem](/RSE_Manual_Test_Plan#Processes_Subsystem "RSE Manual Test Plan") (List, Sort, Kill, Remote Monitor)
-*   [Verify User Docs](/RSE_Manual_Test_Plan#Verify_User_Docs "RSE Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
-*   [Verify Legal](/RSE_Manual_Test_Plan#Verify_Legal "RSE Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
-*   [Verify ISV Tutorial](/RSE_Manual_Test_Plan#Verify_ISV_Tutorial "RSE Manual Test Plan") (Walk through ISV tutorial)
-*   [Verify ISV Docs](/RSE_Manual_Test_Plan#Verify_ISV_Docs "RSE Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
-*   [Verify Extension Points](/RSE_Manual_Test_Plan#Verify_Extension_Points "RSE Manual Test Plan") (Check docs, use in own code)
-*   [Remote Search](/RSE_Manual_Test_Plan#Remote_Search "RSE Manual Test Plan") (dstore only)
-*   [Complex Filters](/RSE_Manual_Test_Plan#Complex_Filters "RSE Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
-*   [Preferences](/RSE_Manual_Test_Plan#Preferences "RSE Manual Test Plan") (Walk through each of the Preferences and enable/disable)
-*   [Subsystem Properties](/RSE_Manual_Test_Plan#Subsystem_Properties "RSE Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
-*   [Synchronous operation](/RSE_Manual_Test_Plan#Synchronous_operation "RSE Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
-*   [Dirty Editors and Merging](/RSE_Manual_Test_Plan#Dirty_Editors_and_Merging "RSE Manual Test Plan") (Editing a Remote File that also changes remotely)
-*   [File Access Permissions and Timestamps](/RSE_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "RSE Manual Test Plan") (Read-only files etc.)
-*   [RSE Views](/RSE_Manual_Test_Plan#RSE_Views "RSE Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
-*   [RSE Widgets & Dialogs](/RSE_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "RSE Manual Test Plan"): Remote file-browse, Remote move-to
-*   [Connection Problems](/RSE_Manual_Test_Plan#Connection_Problems "RSE Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
-*   [Verify Copyright and Externalized Strings](/RSE_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "RSE Manual Test Plan") (Run automated checks, chkpii)
-*   [CDT Remote Launch](/RSE_Manual_Test_Plan#CDT_Remote_Launch "RSE Manual Test Plan")
-*   [EFS](/RSE_Manual_Test_Plan#EFS "RSE Manual Test Plan")
-*   [Discovery](/RSE_Manual_Test_Plan#Discovery "RSE Manual Test Plan")
+*   [Parallel access](./RSE_Manual_Test_Plan#Parallel_access "RSE Manual Test Plan") (multiple parallel actions)
+*   [File Encodings](./RSE_Manual_Test_Plan#File_Encodings "RSE Manual Test Plan") (Foreign language files on remote side)
+*   [Drag&Drop, Copy&Paste](./RSE_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "RSE Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
+*   [Update Site](./RSE_Manual_Test_Plan#Update_Site "RSE Manual Test Plan"): Install & Upgrade via Update Site
+*   [Scalability](./RSE_Manual_Test_Plan#Scalability "RSE Manual Test Plan") (Really large file lists, lots of events)
+*   [Shell Pattern Matching](./RSE_Manual_Test_Plan#Shell_Pattern_Matching "RSE Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
+*   [Processes Subsystem](./RSE_Manual_Test_Plan#Processes_Subsystem "RSE Manual Test Plan") (List, Sort, Kill, Remote Monitor)
+*   [Verify User Docs](./RSE_Manual_Test_Plan#Verify_User_Docs "RSE Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
+*   [Verify Legal](./RSE_Manual_Test_Plan#Verify_Legal "RSE Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
+*   [Verify ISV Tutorial](./RSE_Manual_Test_Plan#Verify_ISV_Tutorial "RSE Manual Test Plan") (Walk through ISV tutorial)
+*   [Verify ISV Docs](./RSE_Manual_Test_Plan#Verify_ISV_Docs "RSE Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
+*   [Verify Extension Points](./RSE_Manual_Test_Plan#Verify_Extension_Points "RSE Manual Test Plan") (Check docs, use in own code)
+*   [Remote Search](./RSE_Manual_Test_Plan#Remote_Search "RSE Manual Test Plan") (dstore only)
+*   [Complex Filters](./RSE_Manual_Test_Plan#Complex_Filters "RSE Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
+*   [Preferences](./RSE_Manual_Test_Plan#Preferences "RSE Manual Test Plan") (Walk through each of the Preferences and enable/disable)
+*   [Subsystem Properties](./RSE_Manual_Test_Plan#Subsystem_Properties "RSE Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
+*   [Synchronous operation](./RSE_Manual_Test_Plan#Synchronous_operation "RSE Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
+*   [Dirty Editors and Merging](./RSE_Manual_Test_Plan#Dirty_Editors_and_Merging "RSE Manual Test Plan") (Editing a Remote File that also changes remotely)
+*   [File Access Permissions and Timestamps](./RSE_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "RSE Manual Test Plan") (Read-only files etc.)
+*   [RSE Views](./RSE_Manual_Test_Plan#RSE_Views "RSE Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
+*   [RSE Widgets & Dialogs](./RSE_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "RSE Manual Test Plan"): Remote file-browse, Remote move-to
+*   [Connection Problems](./RSE_Manual_Test_Plan#Connection_Problems "RSE Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
+*   [Verify Copyright and Externalized Strings](./RSE_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "RSE Manual Test Plan") (Run automated checks, chkpii)
+*   [CDT Remote Launch](./RSE_Manual_Test_Plan#CDT_Remote_Launch "RSE Manual Test Plan")
+*   [EFS](./RSE_Manual_Test_Plan#EFS "RSE Manual Test Plan")
+*   [Discovery](./RSE_Manual_Test_Plan#Discovery "RSE Manual Test Plan")
 
 ### Client Platforms
 
@@ -149,14 +149,14 @@ Test Reports and Bugs Found
 Comments from Testers
 ---------------------
 
-*   I think the reminders are great! -- [User:Michael.Scharf.windriver.com](/User:Michael.Scharf.windriver.com "User:Michael.Scharf.windriver.com")
-*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- [User:uwe.stieber.windriver.com](/index.php?title=User:Uwe.stieber.windriver.com&action=edit&redlink=1 "User:Uwe.stieber.windriver.com (page does not exist)")
-*   I thought it was well organized -- better than most. -- [User:ted.williams.windriver.com](/index.php?title=User:Ted.williams.windriver.com&action=edit&redlink=1 "User:Ted.williams.windriver.com (page does not exist)")
-*   I thought the coverage was good. Also, the test instructions were good. -- [User:kmunir.ca.ibm.com](/index.php?title=User:Kmunir.ca.ibm.com&action=edit&redlink=1 "User:Kmunir.ca.ibm.com (page does not exist)")
-*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- [User:Javier.MontalvoOrus.symbian.com](/index.php?title=User:Javier.MontalvoOrus.symbian.com&action=edit&redlink=1 "User:Javier.MontalvoOrus.symbian.com (page does not exist)")
-*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- [User:norbert.ploett.siemens.com](/index.php?title=User:Norbert.ploett.siemens.com&action=edit&redlink=1 "User:Norbert.ploett.siemens.com (page does not exist)")
-*   The testing was very coordinated. -- [User:Ewa.Matejska.palmsource.com](/index.php?title=User:Ewa.Matejska.palmsource.com&action=edit&redlink=1 "User:Ewa.Matejska.palmsource.com (page does not exist)")
-*   [User:sumit.sarkar.gmail.com](/index.php?title=User:Sumit.sarkar.gmail.com&action=edit&redlink=1 "User:Sumit.sarkar.gmail.com (page does not exist)") writes:
+*   I think the reminders are great! -- [User:Michael.Scharf.windriver.com](https://wiki.eclipse.org/User:Michael.Scharf.windriver.com "User:Michael.Scharf.windriver.com")
+*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- [User:uwe.stieber.windriver.com](https://wiki.eclipse.org/User:Uwe.stieber.windriver.com)
+*   I thought it was well organized -- better than most. -- [User:ted.williams.windriver.com](https://wiki.eclipse.org/User:Ted.williams.windriver.com)
+*   I thought the coverage was good. Also, the test instructions were good. -- [User:kmunir.ca.ibm.com](https://wiki.eclipse.org/User:Kmunir.ca.ibm.com)
+*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- [User:Javier.MontalvoOrus.symbian.com](https://wiki.eclipse.org/User:Javier.MontalvoOrus.symbian.com)
+*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- [User:norbert.ploett.siemens.com](https://wiki.eclipse.org/User:Norbert.ploett.siemens.com)
+*   The testing was very coordinated. -- [User:Ewa.Matejska.palmsource.com](https://wiki.eclipse.org/User:Ewa.Matejska.palmsource.com)
+*   [User:sumit.sarkar.gmail.com](https://wiki.eclipse.org/User:Sumit.sarkar.gmail.com) writes:
     *   A presentation from RSE team could have really helped to ramp up our testing and know the features. I didn't have much time reading the documentation.  :)
     *   I need to file another bug. I saw when a file name in HP-UX had a ":" in it, the files could not be loaded in the RSE/Eclipse editor.
     *   Didn't like the remote console (term) part. Why command line is separate from the console? It was slow. The lines in the console was selectable, but when I right-clicked, "Open With" was disabled. Did not know what to do? And why this feature is there and what it is supposed to do.
@@ -165,8 +165,8 @@ Comments from Testers
 
 in the wiki page. But a reminder could have helped.
 
-*   I thought it went very well. -- [User:david_dykstal.us.ibm.com](/index.php?title=User:David_dykstal.us.ibm.com&action=edit&redlink=1 "User:David dykstal.us.ibm.com (page does not exist)")
-*   Thanks to everybody! -- [Martin Oberhuber](/Martin_Oberhuber "Martin Oberhuber")
+*   I thought it went very well. -- [User:david_dykstal.us.ibm.com](https://wiki.eclipse.org/User:David dykstal.us.ibm.com)
+*   Thanks to everybody! -- [Martin Oberhuber](https://wiki.eclipse.org/Martin_Oberhuber "Martin Oberhuber")
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_1.0_Testing_round_1](https://wiki.eclipse.org/RSE_1.0_Testing_round_1))

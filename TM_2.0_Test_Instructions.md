@@ -3,7 +3,7 @@
 TM 2.0 Test Instructions
 ========================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [DSDP/TM/Testing](/DSDP/TM/Testing "DSDP/TM/Testing") | [TM 2.0 Testing](/TM_2.0_Testing "TM 2.0 Testing") | TM 2.0 Test Instructions | [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](/TM_Manual_Test_Plan "TM Manual Test Plan")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [DSDP/TM/Testing](./Testing "DSDP/TM/Testing") | [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | TM 2.0 Test Instructions | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 * * *
 
@@ -25,7 +25,7 @@ Contents
 Latest News
 -----------
 
-*   **See [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") now** for other known bugs and how to avoid them.
+*   **See [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") now** for other known bugs and how to avoid them.
 
 Test Procedure
 --------------
@@ -76,7 +76,7 @@ On the target side, the following commands are helpful to find out exact system 
 *   **java -version**  
     Java HotSpot(TM) Client VM (build 1.4.2_12-b03, mixed mode)
 
-If your test setup changed, please update your entry in the [RSE 1.0 Testing round 2](/RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2") table, and update your bugzilla bug entry template (see below). We'd like to ensure that we get good coverage by asking people to use many different OS and JVM flavors.
+If your test setup changed, please update your entry in the [RSE 1.0 Testing round 2](./RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2") table, and update your bugzilla bug entry template (see below). We'd like to ensure that we get good coverage by asking people to use many different OS and JVM flavors.
 
 ### Step 4: Prepare for Bug Reports
 
@@ -86,7 +86,7 @@ If your test setup changed, please update your entry in the [RSE 1.0 Testing rou
 *   **Edit** the "Platform", "OS" and "Description" fields to match **YOUR** setup. The goal is to get YOUR personal customized bug entry template that you'll use to make your reports easily, while conveying all information about your system. When done, press the **Remember values as bookmarkable entry** button.
 *   In Firefox or Internet Explorer, I like to move this bookmark into the Toolbar; that way I can file a new proper bug report with a single button click.
 
-You are ready to go now! - Check the [RSE 2.0 Known Issues and Workarounds](/RSE_2.0_Known_Issues_and_Workarounds "RSE 2.0 Known Issues and Workarounds") page once more to ensure you don't duplicate the most obvious known issues. Then, go ahead and file all bugs, glitches or enhancement requests or suggestions in Bugzilla right away. Thanks to your bookmark this will be really fast and easy to do. You may also record bugs against a bad website, unclear testing instructions, bad documentation etc -- file bugs as bugs can ;-)
+You are ready to go now! - Check the [RSE 2.0 Known Issues and Workarounds](./RSE_2.0_Known_Issues_and_Workarounds "RSE 2.0 Known Issues and Workarounds") page once more to ensure you don't duplicate the most obvious known issues. Then, go ahead and file all bugs, glitches or enhancement requests or suggestions in Bugzilla right away. Thanks to your bookmark this will be really fast and easy to do. You may also record bugs against a bad website, unclear testing instructions, bad documentation etc -- file bugs as bugs can ;-)
 
 Also, dont lose time searching for bugs - just file them, it's quick and easy to do.
 
@@ -117,7 +117,7 @@ All testers, regardless of their main test signup, are encouraged to do a 30-min
 
 Detailed instructions are currently being written. Please check back here later, and have fun exploring RSE on your own in the meantime.
 
-See the [TM Manual Test Plan](/TM_Manual_Test_Plan "TM Manual Test Plan")
+See the [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 Final Comments
 --------------
@@ -130,7 +130,7 @@ Please edit this page, and leave your comments here. It will help us understand 
 
 ### Comments for testing round 1
 
-See [RSE 1.0 Test Instructions#Comments for testing round 1](/RSE_1.0_Test_Instructions#Comments_for_testing_round_1 "RSE 1.0 Test Instructions")
+See [RSE 1.0 Test Instructions#Comments for testing round 1](./RSE_1.0_Test_Instructions#Comments_for_testing_round_1 "RSE 1.0 Test Instructions")
 
 ### Comments
 

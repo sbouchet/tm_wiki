@@ -3,7 +3,7 @@
 RSE 1.0 Test Instructions
 =========================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Test Instructions | [RSE 1.0 Known Issues and Workarounds](/RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [RSE Manual Test Plan](/RSE_Manual_Test_Plan "RSE Manual Test Plan")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Test Instructions | [RSE 1.0 Known Issues and Workarounds](./RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [RSE Manual Test Plan](./RSE_Manual_Test_Plan "RSE Manual Test Plan")
 
 * * *
 
@@ -26,7 +26,7 @@ Contents
 Latest News
 -----------
 
-*   **See [RSE 1.0 Known Issues and Workarounds](/RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") now** for other known bugs and how to avoid them.
+*   **See [RSE 1.0 Known Issues and Workarounds](./RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") now** for other known bugs and how to avoid them.
 
 Test Procedure
 --------------
@@ -77,7 +77,7 @@ On the target side, the following commands are helpful to find out exact system 
 *   **java -version**  
     Java HotSpot(TM) Client VM (build 1.4.2_12-b03, mixed mode)
 
-If your test setup changed, please update your entry in the [RSE 1.0 Testing round 2](/RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2") table, and update your bugzilla bug entry template (see below). We'd like to ensure that we get good coverage by asking people to use many different OS and JVM flavors.
+If your test setup changed, please update your entry in the [RSE 1.0 Testing round 2](./RSE_1.0_Testing_round_2 "RSE 1.0 Testing round 2") table, and update your bugzilla bug entry template (see below). We'd like to ensure that we get good coverage by asking people to use many different OS and JVM flavors.
 
 ### Step 4: Prepare for Bug Reports
 
@@ -87,7 +87,7 @@ If your test setup changed, please update your entry in the [RSE 1.0 Testing rou
 *   **Edit** the "Platform", "OS" and "Description" fields to match **YOUR** setup. The goal is to get YOUR personal customized bug entry template that you'll use to make your reports easily, while conveying all information about your system. When done, press the **Remember values as bookmarkable entry** button.
 *   In Firefox or Internet Explorer, I like to move this bookmark into the Toolbar; that way I can file a new proper bug report with a single button click.
 
-You are ready to go now! - Check the [RSE 1.0 Known Issues and Workarounds](/RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") page once more to ensure you don't duplicate the most obvious known issues. Then, go ahead and file all bugs, glitches or enhancement requests or suggestions in Bugzilla right away. Thanks to your bookmark this will be really fast and easy to do. You may also record bugs against a bad website, unclear testing instructions, bad documentation etc -- file bugs as bugs can ;-)
+You are ready to go now! - Check the [RSE 1.0 Known Issues and Workarounds](./RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") page once more to ensure you don't duplicate the most obvious known issues. Then, go ahead and file all bugs, glitches or enhancement requests or suggestions in Bugzilla right away. Thanks to your bookmark this will be really fast and easy to do. You may also record bugs against a bad website, unclear testing instructions, bad documentation etc -- file bugs as bugs can ;-)
 
 Also, dont lose time searching for bugs - just file them, it's quick and easy to do.
 
@@ -118,7 +118,7 @@ All testers, regardless of their main test signup, are encouraged to do a 30-min
 
 Detailed instructions are currently being written. Please check back here later, and have fun exploring RSE on your own in the meantime.
 
-See the [RSE Manual Test Plan](/RSE_Manual_Test_Plan "RSE Manual Test Plan")
+See the [RSE Manual Test Plan](./RSE_Manual_Test_Plan "RSE Manual Test Plan")
 
 Final Comments
 --------------
@@ -131,16 +131,16 @@ Please edit this page, and leave your comments here. It will help us understand 
 
 ### Comments for testing round 1
 
-*   It's good that so many users join the testing effort -- [Martin Oberhuber](/Martin_Oberhuber "Martin Oberhuber")
-*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- [User:norbert.ploett.siemens.com](/index.php?title=User:Norbert.ploett.siemens.com&action=edit&redlink=1 "User:Norbert.ploett.siemens.com (page does not exist)")
-*   I thought it went very well. -- [User:david_dykstal.us.ibm.com](/index.php?title=User:David_dykstal.us.ibm.com&action=edit&redlink=1 "User:David dykstal.us.ibm.com (page does not exist)")
-*   I thought it was well organized -- better than most. -- [User:ted.williams.windriver.com](/index.php?title=User:Ted.williams.windriver.com&action=edit&redlink=1 "User:Ted.williams.windriver.com (page does not exist)")
-*   I think the reminders are great! -- [User:Michael.Scharf.windriver.com](/User:Michael.Scharf.windriver.com "User:Michael.Scharf.windriver.com")
-*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- [User:uwe.stieber.windriver.com](/index.php?title=User:Uwe.stieber.windriver.com&action=edit&redlink=1 "User:Uwe.stieber.windriver.com (page does not exist)")
-*   I thought the coverage was good. Also, the test instructions were good. -- [User:kmunir.ca.ibm.com](/index.php?title=User:Kmunir.ca.ibm.com&action=edit&redlink=1 "User:Kmunir.ca.ibm.com (page does not exist)")
-*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- [User:Javier.MontalvoOrus.symbian.com](/index.php?title=User:Javier.MontalvoOrus.symbian.com&action=edit&redlink=1 "User:Javier.MontalvoOrus.symbian.com (page does not exist)")
-*   The testing was very coordinated. -- [User:Ewa.Matejska.palmsource.com](/index.php?title=User:Ewa.Matejska.palmsource.com&action=edit&redlink=1 "User:Ewa.Matejska.palmsource.com (page does not exist)")
-*   [User:sumit.sarkar.gmail.com](/index.php?title=User:Sumit.sarkar.gmail.com&action=edit&redlink=1 "User:Sumit.sarkar.gmail.com (page does not exist)") writes:
+*   It's good that so many users join the testing effort -- [Martin Oberhuber](https://wiki.eclipse.org/Martin_Oberhuber "Martin Oberhuber")
+*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- [User:norbert.ploett.siemens.com](https://wiki.eclipse.org/User:Norbert.ploett.siemens.com)
+*   I thought it went very well. -- [User:david_dykstal.us.ibm.com](https://wiki.eclipse.org/User:David_dykstal.us.ibm.com)
+*   I thought it was well organized -- better than most. -- [User:ted.williams.windriver.com](https://wiki.eclipse.org/User:Ted.williams.windriver.com)
+*   I think the reminders are great! -- [User:Michael.Scharf.windriver.com](https://wiki.eclipse.org/User:Michael.Scharf.windriver.com "User:Michael.Scharf.windriver.com")
+*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- [User:uwe.stieber.windriver.com](https://wiki.eclipse.org/User:Uwe.stieber.windriver.com)
+*   I thought the coverage was good. Also, the test instructions were good. -- [User:kmunir.ca.ibm.com](https://wiki.eclipse.org/User:Kmunir.ca.ibm.com)
+*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- [User:Javier.MontalvoOrus.symbian.com](https://wiki.eclipse.org/User:Javier.MontalvoOrus.symbian.com)
+*   The testing was very coordinated. -- [User:Ewa.Matejska.palmsource.com](https://wiki.eclipse.org/User:Ewa.Matejska.palmsource.com)
+*   [User:sumit.sarkar.gmail.com](https://wiki.eclipse.org/User:Sumit.sarkar.gmail.com) writes:
     *   A presentation from RSE team could have really helped to ramp up our testing and know the features. I didn't have much time reading the documentation.  :)
         *   Comment MOB: This was intentional, we wanted to test how good the standard RSE docs are.
     *   Didn't like the remote console (term) part. Why command line is separate from the console? It was slow. The lines in the console was selectable, but when I right-clicked, "Open With" was disabled. Did not know what to do? And why this feature is there and what it is supposed to do.
@@ -148,7 +148,7 @@ Please edit this page, and leave your comments here. It will help us understand 
 
 ### Comments for testing round 2
 
-*   I'm glad that more and more users get familiar with editing the Wiki, and making use of its features like notification -- [Martin Oberhuber](/Martin_Oberhuber "Martin Oberhuber")
+*   I'm glad that more and more users get familiar with editing the Wiki, and making use of its features like notification -- [Martin Oberhuber](https://wiki.eclipse.org/Martin_Oberhuber "Martin Oberhuber")
 
 ### Comments for testing round 3
 
