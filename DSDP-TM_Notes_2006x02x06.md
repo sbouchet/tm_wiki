@@ -111,7 +111,7 @@ Agenda
 *   **Face-to-face Meeting** confirmed for Wed, February 22, 2006  \- Fri, February 24, 2006, IBM Labs Toronto (Pete Nicholls)
     *   DD Meetings on Wednesday + Thursday morning
     *   TM Meetings on Thursday afternoon + Friday
-    *   Agenda and Notes on [DSDP-TM Face-to-face Toronto 2006x02x23](./DSDP-TM_Face-to-face_Toronto_2006x02x23 "DSDP-TM Face-to-face Toronto 2006x02x23")
+    *   Agenda and Notes on [DSDP-TM Face-to-face Toronto 2006x02x23](./Toronto_23-Feb-2006_Agenda "DSDP-TM Face-to-face Toronto 2006x02x23")
 *   Next [DSDP/TM/Phone Meeting 10-Apr-2006](./Phone_Meeting_10-Apr-2006 "DSDP/TM/Phone Meeting 10-Apr-2006")
 
 
