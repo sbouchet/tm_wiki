@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 19-Jun-2007
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Jun 19, 2007](./index.php?title=Jun_19,_2007&action=edit&redlink=1 "Jun 19, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=19&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday Jun 19, 2007 at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=19&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in (this week only): | International **+1-314-655-1411**   North America **+1-877-422-0035** (toll free)   Passcode: **764918#** |
 
 DaveD to start conference call - please dial in using the numbers above.  

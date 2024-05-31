@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 16-Apr-2008
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Apr 16, 2008](./index.php?title=Apr_16,_2008&action=edit&redlink=1 "Apr 16, 2008 (page does not exist)") at [1445 UTC / 0745 SFO / 0945 Rochester / 1045 Toronto / 1545 London / 1645 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=16&hour=14&min=45&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday Apr 16, 2008 at [1445 UTC / 0745 SFO / 0945 Rochester / 1045 Toronto / 1545 London / 1645 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=16&hour=14&min=45&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**

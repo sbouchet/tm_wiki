@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 28-May-2008
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [May 28, 2008](./index.php?title=May_28,_2008&action=edit&redlink=1 "May 28, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday May 28, 2008 at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | SkypeOut: +99008275601400 (free!) - powered by [Highspeedconferencing.com](http://share.highspeedconferencing.com/skype_new/signin.jsp) |
 
 Backup1: Martin to call everybody by Skype  
