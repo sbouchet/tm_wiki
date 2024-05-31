@@ -7,7 +7,7 @@ DSDP/TM/Meetings/18-Mar-2009 Committer
 
 | Meeting Title: | **TM Monthly Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Mar 18, 2009](./index.php?title=Mar_18,_2009&action=edit&redlink=1 "Mar 18, 2009 (page does not exist)") at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=18&year=2009&hour=17&min=00&sec=0&p1=0)   ![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
+| Date & Time: | Wednesday [Mar 18, 2009](./index.php?title=Mar_18,_2009&action=edit&redlink=1 "Mar 18, 2009 (page does not exist)") at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=18&year=2009&hour=17&min=00&sec=0&p1=0)   ![Html.gif](./images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](./images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
 | Dial-in: | Martin to call everybody by Skype   Interested Parties ping **martin.oberhuber** on Skype Chat for getting added to the call. |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -73,7 +73,7 @@ Agenda
 *   Rado [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) \- Deferred drag&drop SWT
 *   **Martin** \- who's going to fix the SOC Synchronize contribution?
 *   **DaveD** \- Website: some work done, where to place some items? - AI Dave to post current results and ask on Mailing list
-*   **Martin** \- [bug 254129](https://bugs.eclipse.org/bugs/show_bug.cgi?id=254129) Capabilities - ![Ok green.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ok_green.gif)Martin E-Mail cross-project
+*   **Martin** \- [bug 254129](https://bugs.eclipse.org/bugs/show_bug.cgi?id=254129) Capabilities - ![Ok green.gif](./images/Ok_green.gif)Martin E-Mail cross-project
     *   [bug 196337](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196337) \- TM Local Terminal Connector - waiting on fix for CDT Spawner
 
 *   **Big Rocks** see [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./DSDP/TM/Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
