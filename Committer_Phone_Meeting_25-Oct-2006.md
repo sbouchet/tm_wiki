@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 25-Oct-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Oct 25, 2006](./index.php?title=Oct_25,_2006&action=edit&redlink=1 "Oct 25, 2006 (page does not exist)") at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=25&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday Oct 25, 2006 at [8.00am San Francisco / 10.00am Rochester / 11.00am Toronto / 4.00pm London / 5.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=10&day=25&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+1 314-655-1411**   North America **+1 877-422-0035** (toll free)   Passcode: **764918** |
 
 DaveD to start conference call - please dial in using the numbers above. Skype fallback dial-in - only if less than 5 participants: **martin.oberhuber**, ddykstal (or david_dykstal), david-k-mcknight, kushal.munir, javier.montalvoorus, tedatteddotnet, and uwe.stieber. DaveD will start Skype chat just prior to call.

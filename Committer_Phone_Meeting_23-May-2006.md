@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 23-May-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [May 23, 2006](./index.php?title=May_23,_2006&action=edit&redlink=1 "May 23, 2006 (page does not exist)") at [6.30am PDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=5&day=23&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
+| Date & Time: | Tuesday May 23, 2006 at [6.30am PDT / 9.30am Toronto / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=5&day=23&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=224) |
 | Dial-in: | Skype **martin.oberhuber**, ddykstal (works better than david_dykstal), david-k-mcknight |
 
 Fixed-line fallback dial-in:

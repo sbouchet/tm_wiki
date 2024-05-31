@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 16-Aug-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 16, 2006](./index.php?title=Aug_16,_2006&action=edit&redlink=1 "Aug 16, 2006 (page does not exist)") at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
+| Date & Time: | Wednesday Aug 16, 2006 at [8.30am Rochester / 9.30am Toronto / 2.30pm London / 3.30pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=8&day=16&hour=13&min=30&sec=0&p1=223&p2=250&p3=421&p4=136&iv=1800) |
 | Skype Dial-in: | **+99008275601400** (this call is **free** from Skype) |
 | Fixed-line Dial-in: | US, call **1-712-432-4000** (long distance charges)    Austria: **0820 400 01562** (national call charges)   In UK: **0870 119 2350** (national call charges)   |
 | Passcode: | **5601400** |

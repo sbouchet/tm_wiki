@@ -5,7 +5,7 @@ DSDP-TM Notes 2006x01x23
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Monday [January 23, 2006](./index.php?title=January_23,_2006&action=edit&redlink=1 "January 23, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Monday January 23, 2006 at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -85,12 +85,12 @@ Next Steps
 
 ### Next Meeting
 
-*   **Next Meeting** on Monday, [February 6, 2006](./index.php?title=February_6,_2006&action=edit&redlink=1 "February 6, 2006 (page does not exist)") at 9am PST -- 2 weeks
+*   **Next Meeting** on Monday, February 6, 2006 at 9am PST -- 2 weeks
     *   Agenda and Notes on [DSDP-TM Notes 2006x02x06](./DSDP-TM_Notes_2006x02x06 "DSDP-TM Notes 2006x02x06")
-*   **Face-to-face Meeting** confirmed for Wed, [February 22, 2006](./index.php?title=February_22,_2006&action=edit&redlink=1 "February 22, 2006 (page does not exist)") \- Fri, [February 24, 2006](./index.php?title=February_24,_2006&action=edit&redlink=1 "February 24, 2006 (page does not exist)"), IBM Labs Toronto (Pete Nicholls)
+*   **Face-to-face Meeting** confirmed for Wed, February 22, 2006  \- Fri, February 24, 2006, IBM Labs Toronto (Pete Nicholls)
     *   DD Meetings on Wednesday + Thursday morning
     *   TM Meetings on Thursday afternoon + Friday
-    *   Agenda and Notes on [DSDP-TM F2F 2006x02x23](./index.php?title=DSDP-TM_F2F_2006x02x23&action=edit&redlink=1 "DSDP-TM F2F 2006x02x23 (page does not exist)")
+    *   Agenda and Notes on DSDP-TM F2F 2006x02x23
     *   Details on meeting location to follow on dsdp-dd mailing list (north of Toronto, 35 minutes from airport, easy to get there)
 
 

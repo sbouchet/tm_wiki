@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 27-Sep-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Sep 27, 2006](./index.php?title=Sep_27,_2006&action=edit&redlink=1 "Sep 27, 2006 (page does not exist)") at [9.00am San Francisco / 11.00am Rochester / 12.00am Toronto / 5.00pm London / 6.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday Sep 27, 2006 at [9.00am San Francisco / 11.00am Rochester / 12.00am Toronto / 5.00pm London / 6.00pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to start a Skype conference - you'll be called:   Skype **martin.oberhuber**, ddykstal (or david_dykstal), david-k-mcknight, kushal.munir, javier.montalvoorus, tedatteddotnet |
 
 Fixed-line fallback dial-in:

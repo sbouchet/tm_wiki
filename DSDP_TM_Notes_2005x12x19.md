@@ -5,7 +5,7 @@ DSDP TM Notes 2005x12x19
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Monday [December 19, 2005](./index.php?title=December_19,_2005&action=edit&redlink=1 "December 19, 2005 (page does not exist)") at 9am PST |
+| Date & Time: | Monday December 19, 2005 at 9am PST |
 | Primary Dial-in: | +1 (866) 278-2164 |
 | Alternate Dial-In: | +1 (630) 424-7895 |
 | Passcode: | 5585626# |
@@ -104,7 +104,7 @@ Next Steps
 
 ### Next Meeting
 
-*   Next Meeting on Monday, [January 23, 2006](./index.php?title=January_23,_2006&action=edit&redlink=1 "January 23, 2006 (page does not exist)") at 9am PST -- 5 weeks due to Christmas
+*   Next Meeting on Monday, January 23, 2006 at 9am PST -- 5 weeks due to Christmas
     *   [DSDP-TM Notes 2006x01x23](./DSDP-TM_Notes_2006x01x23 "DSDP-TM Notes 2006x01x23")
 
 

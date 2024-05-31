@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 12-Dec-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Dec 12, 2006](./index.php?title=Dec_12,_2006&action=edit&redlink=1 "Dec 12, 2006 (page does not exist)") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=12&day=12&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday Dec 12, 2006 at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=12&day=12&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  

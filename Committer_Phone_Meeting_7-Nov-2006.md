@@ -7,7 +7,7 @@ DSDP/TM/Committer Phone Meeting 7-Nov-2006
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Nov 7, 2006](./index.php?title=Nov_7,_2006&action=edit&redlink=1 "Nov 7, 2006 (page does not exist)") at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday Nov 7, 2006 at [7am SFO / 9.00am Rochester / 10.00pm Toronto / 3pm London / 4pm Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=11&day=7&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
