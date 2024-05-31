@@ -3,7 +3,7 @@
 TM/Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09
 ========================================================
 
-< [TM](/TM "TM")(Redirected from [DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09](/index.php?title=DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09&redirect=no "DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09"))
+< [TM](./TM "TM") (Redirected from DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09")
 
 The main UI point of organization in RSE is the Remote Systems View -- the hierarchical view of systems / subsystems / filterpools / filters / resources / ... One thing I've never asked is how you see this structure playing out in the TM world. Here's one way of looking at it, but I'm not sure its what you envision.
 
@@ -41,7 +41,7 @@ Device X (this could be a core, DSP, or whatever - a "targettable entity")
            Standard Commands
 Device Y
 
-**Note:** [Uwe Stieber](/index.php?title=User:Uwe.stieber.windriver.com&action=edit&redlink=1 "User:Uwe.stieber.windriver.com (page does not exist)") added some important thoughts to the [discussion tab](/Talk:DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09") of this page
+**Note:** [Uwe Stieber](https://wiki.eclipse.org/User:Uwe.stieber.windriver.com) added some important thoughts to the [discussion tab](./Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09") of this page
 
 
 (Migrated from [https://wiki.eclipse.org/DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09](https://wiki.eclipse.org/DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09))

@@ -13,10 +13,10 @@ The 2 diagrams:
 
 ([Original UML file](https://www.eclipse.org/dsdp/tm/doc/rsf/rsfmodel.zuml) is available for [Poseidon for UML Community Edition](http://gentleware.com/downloadcenter.0.html))
 
-[Diagram 1 - TM Core](/index.php?title=Special:Upload&wpDestFile=DSDP-TM_core_class_diagram_2005x11x21.png "DSDP-TM core class diagram 2005x11x21.png")
+[Diagram 1 - TM Core](./images/DSDP-TM_core_class_diagram_2005x11x21.jpg "DSDP-TM core class diagram 2005x11x21.jpg")
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[File:DSDP-TM core class diagram 2005x11x21.png](/index.php?title=Special:Upload&wpDestFile=DSDP-TM_core_class_diagram_2005x11x21.png "File:DSDP-TM core class diagram 2005x11x21.png")
+![DSDP-TM core class diagram 2005x11x21](./images/DSDP-TM_core_class_diagram_2005x11x21.jpg)
 
 DSDP-TM class diagram
 
@@ -29,12 +29,12 @@ First some details on my linguistic :)
 
 I cut the diagram in 2 parts. The first part, the Model, would be static information provided by extension points. It would be description of communication interface or services, what options they provide, etc... The second part, Instances, are instances of the model, definition of a real remote system, a service, etc... These data would be stored as launch configuration (though I am not sure if we want to store those data also in projects but maybe only in the .metadata)
 
-[Diagram 2 - Draft API for a remote file system browser/manager](/images/7/72/DSDP-TM_RemoteFS_class_diagram_2005x11x21.png "DSDP-TM RemoteFS class diagram 2005x11x21.png")
+[Diagram 2 - Draft API for a remote file system browser/manager](./images/DSDP-TM_RemoteFS_class_diagram_2005x11x21.png "DSDP-TM RemoteFS class diagram 2005x11x21.png")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-DSDP-TM_RemoteFS_class_diagram_2005x11x21.png)
+![](./images/300px-DSDP-TM_RemoteFS_class_diagram_2005x11x21.png)
 
-[](/File:DSDP-TM_RemoteFS_class_diagram_2005x11x21.png "Enlarge")
+[Enlarge](./images/DSDP-TM_RemoteFS_class_diagram_2005x11x21.png)
 
 DSDP-TM RemoteFS diagram
 
