@@ -3,7 +3,7 @@
 RSE 2.0 M4 Testing
 ==================
 
-Nav: [DSDP/TM](./DSDP/TM "DSDP/TM") | [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | RSE 2.0M4 Testing | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | RSE 2.0M4 Testing | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 * * *
 
