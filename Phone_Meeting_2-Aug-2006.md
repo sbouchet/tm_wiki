@@ -7,7 +7,7 @@ DSDP/TM/Phone Meeting 2-Aug-2006
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [August 2, 2006](./index.php?title=August_2,_2006&action=edit&redlink=1 "August 2, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday August 2, 2006 at 9am PST |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |

@@ -7,7 +7,7 @@ DSDP/TM/Phone Meeting 6-Dec-2006
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [December 6, 2006](./index.php?title=December_6,_2006&action=edit&redlink=1 "December 6, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=6&year=2006&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday December 6, 2006 at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=6&year=2006&hour=17&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |

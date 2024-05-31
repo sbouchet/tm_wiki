@@ -9,7 +9,7 @@ Dial-in numbers and passcodes have changed for this call only. We'll revert to o
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [November 8, 2006](./index.php?title=November_8,_2006&action=edit&redlink=1 "November 8, 2006 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=8&year=2006&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday November 8, 2006 at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=8&year=2006&hour=17&min=00&sec=0&p1=0) |
 | International Dial-in | **+1 314 655 1411** |
 | North American Dial-In | **+1 877 422 0035** |
 | Passcode: | **764918#** |

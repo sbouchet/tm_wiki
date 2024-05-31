@@ -9,7 +9,7 @@ Dial-in numbers and passcodes have changed for this call only. We'll revert to o
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [October 4, 2006](./index.php?title=October_4,_2006&action=edit&redlink=1 "October 4, 2006 (page does not exist)") at 9am PST |
+| Date & Time: | Wednesday October 4, 2006 at 9am PST |
 | International Dial-in | **+1 314 655 1411** |
 | North American Dial-In | **+1 877 422 0035** |
 | Passcode: | **764918#** |
