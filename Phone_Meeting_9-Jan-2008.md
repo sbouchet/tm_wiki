@@ -37,7 +37,7 @@ Notes
 
 ### Update on RSE Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org
 *   **Project Plan Status** \- still on the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page only
 *   **Codebase status** \- API changes for TM 3.0 in HEAD stream - See recent 3.0M4 build notes; nothing yet form TM 2.0.3
     *   Latest information about API changes are in the build notes of recent I-builds (weekly every Thursday)
