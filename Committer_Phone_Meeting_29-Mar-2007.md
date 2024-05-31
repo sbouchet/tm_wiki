@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 29-Mar-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -57,7 +57,7 @@ Notes
 
 ### Upcoming Work
 
-*   See also [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 20-Mar-2007") for notes
+*   See also [Last Meeting](./Committer_Phone_Meeting_20-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 20-Mar-2007") for notes
 *   **M6 must-have issues**
     *   All development and testing against Eclipse 3.3M6 now, please!
     *   NLS changes: mostly IBM, not very strict; and need to know what the changes are, so we can report them (notify what files have changed)
@@ -169,7 +169,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Mar-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_20-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Mar-2007") Action Items
 *   **Everyone** \- Review recent pending API change bugzilla's and comment on them if there are any issues
 *   **DaveD** \- Refactoring UI/Non-UI;
 *   **DaveM** \- Making stuff internal; Talk with DaveD regarding open-sourcing Remote Source Lookup and Java Launch;
@@ -184,8 +184,8 @@ Next Meeting
 ------------
 
 *   [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") on 3-Apr-2007
-*   [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe**
-*   [DSDP/TM/Phone Meeting 4-Apr-2007](./DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
+*   [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe**
+*   [DSDP/TM/Phone Meeting 4-Apr-2007](./Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
 *   TM 2.0M6 - 6-Apr-2007
 *   [TM Webinar](https://www.eclipse.org/community/webinars2006.php) pre-call on [10-Apr-2007](./index.php?title=10-Apr-2007&action=edit&redlink=1 "10-Apr-2007 (page does not exist)"); webinar on [12-Apr-2007](./index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
 

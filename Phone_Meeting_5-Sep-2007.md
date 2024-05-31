@@ -3,7 +3,7 @@
 DSDP/TM/Phone Meeting 5-Sep-2007
 ================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
@@ -48,7 +48,7 @@ Notes
 
 ### TM Project Meeting / Coding Camp
 
-*   See [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
+*   See [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
 
 ### Community Feedback and Status
 
@@ -57,12 +57,12 @@ Notes
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 1-Aug-2007](./DSDP/TM/Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 1-Aug-2007](./Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007")
 
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 3-Oct-2007](./DSDP/TM/Phone_Meeting_3-Oct-2007 "DSDP/TM/Phone Meeting 3-Oct-2007") (4 weeks after)
+*   Next [DSDP/TM/Phone Meeting 3-Oct-2007](./Phone_Meeting_3-Oct-2007 "DSDP/TM/Phone Meeting 3-Oct-2007") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_5-Sep-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_5-Sep-2007))

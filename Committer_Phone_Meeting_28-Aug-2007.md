@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 28-Aug-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -37,14 +37,14 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 21-Aug-2007](./DSDP/TM/Committer_Phone_Meeting_21-Aug-2007 "DSDP/TM/Committer Phone Meeting 21-Aug-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 21-Aug-2007](./Committer_Phone_Meeting_21-Aug-2007 "DSDP/TM/Committer Phone Meeting 21-Aug-2007")
 
 ### Current Work
 
 *   **Skype Call Quality**
 *   **Reminder: Aug 30th is RC1** as per [TM 2.0 Ramp down Plan for Europa#Ramp\_down\_for\_Europa\_SR1_.2828-Sep-2007.29](./TM_2.0_Ramp_down_Plan_for_Europa#Ramp_down_for_Europa_SR1_.2828-Sep-2007.29 "TM 2.0 Ramp down Plan for Europa"), no risky fixes for 2.0.1 after the 30th! (Will fork off a 2.0.1 branch by then)
     *   Need 1-committer review, and Verification of fixes in an I-build after that time (RC1)
-*   **Reminder: Start preparing / planning** for the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   **Reminder: Start preparing / planning** for the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
     *   DaveD: Persistence, User-Defined Actions - Explain the plans, discuss them
     *   DaveM: Need to think
     *   MartinO: UI/Non-UI; New-connection-wizard: more user friendly while keeping it pluggable
@@ -75,7 +75,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_21-Aug-2007#Action_Items "DSDP/TM/Committer Phone Meeting 21-Aug-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_21-Aug-2007#Action_Items "DSDP/TM/Committer Phone Meeting 21-Aug-2007") Action Items
 *   **DaveD**: 2.0.1 important fixes, then Doc bugs (Tutorial)
 *   **DaveM**: **Ask Pete Nicholls about room for F2F meeting in Toronto**; [bug 196662](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196662) refresh on dispatch thread
 *   **Xuan**: Unit Tests
@@ -87,9 +87,9 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 5-Sep-2007](./DSDP/TM/Committer_Phone_Meeting_5-Sep-2007 "DSDP/TM/Committer Phone Meeting 5-Sep-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=9&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (Move to Wed due to CDN labor day)
-*   Monthly [DSDP/TM/Phone Meeting 5-Sep-2007](./DSDP/TM/Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=9&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   [DSDP/TM/Committer Phone Meeting 5-Sep-2007](./Committer_Phone_Meeting_5-Sep-2007 "DSDP/TM/Committer Phone Meeting 5-Sep-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=9&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (Move to Wed due to CDN labor day)
+*   Monthly [DSDP/TM/Phone Meeting 5-Sep-2007](./Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=9&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Aug-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Aug-2007))

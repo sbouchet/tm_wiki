@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 9-Jan-2007
 ==========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -82,7 +82,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_2-Jan-2007#Action_Items "DSDP/TM/Committer Phone Meeting 2-Jan-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_2-Jan-2007#Action_Items "DSDP/TM/Committer Phone Meeting 2-Jan-2007") Action Items
 *   **DaveD** \- Refactoring UI/Non-UI; Persistence; Bugs & Unit tests; New bug for moving DTD.
 *   **DaveM** \- Meet Martin re. EclipseCon; Bugs & Unit tests; API for setting timestamp & permissions
 *   **Kushal** \- Encodings; Compiler Warnings (UI); Talk to DaveD re Comm Server; Bugs & Unit Tests
@@ -95,8 +95,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Open [DSDP/TM/Phone Meeting 10-Jan-2007](./DSDP/TM/Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007") at 9am PST
-*   [DSDP/TM/Committer Phone Meeting 16-Jan-2007](./DSDP/TM/Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=1&day=16hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Open [DSDP/TM/Phone Meeting 10-Jan-2007](./Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 16-Jan-2007](./Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=1&day=16hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Jan-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Jan-2007))

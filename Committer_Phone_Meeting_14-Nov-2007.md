@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 14-Nov-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 31-Oct-2007](./DSDP/TM/Committer_Phone_Meeting_31-Oct-2007 "DSDP/TM/Committer Phone Meeting 31-Oct-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 31-Oct-2007](./Committer_Phone_Meeting_31-Oct-2007 "DSDP/TM/Committer Phone Meeting 31-Oct-2007")
 
 ### Current Work
 
@@ -96,7 +96,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_31-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_31-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2007") Action Items
 *   **DaveD**: fixes, unit tests
 *   **DaveM**: fixes, unit tests; ask Violaine about [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704)
 *   **Xuan**: fixes, unit tests
@@ -108,8 +108,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](./DSDP/TM/Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](./Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_14-Nov-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_14-Nov-2007))

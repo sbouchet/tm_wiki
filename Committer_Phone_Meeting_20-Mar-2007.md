@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 20-Mar-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -57,7 +57,7 @@ Notes
 
 ### Upcoming Work
 
-*   See also [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 13-Mar-2007") for notes
+*   See also [Last Meeting](./Committer_Phone_Meeting_13-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 13-Mar-2007") for notes
 *   **Recent pending API Change Discussions** \- **AI Everyone** to review and comment on bugzilla if any issues
     *   [173468](https://bugs.eclipse.org/bugs/show_bug.cgi?id=173468) Javier standard service name - **ok**
     *   [178020](https://bugs.eclipse.org/bugs/show_bug.cgi?id=178020) Uwe remove obsolete ISystemViewActionFilter
@@ -109,7 +109,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Mar-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_13-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Mar-2007") Action Items
 *   **Everyone** \- Review recent pending API change bugzilla's and comment on them if there are any issues
 *   **DaveD** \- Search more packages and classes to make "internal", report on mailing list; Refactoring UI/Non-UI
 *   **DaveM** \- Search more packages and classes to make "internal", report on mailing list; Talk with DaveD regarding open-sourcing Remote Source Lookup and Java Launch;
@@ -123,7 +123,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 29-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe:** 2 hrs / 1 hr earlier!
+*   [DSDP/TM/Committer Phone Meeting 29-Mar-2007](./Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe:** 2 hrs / 1 hr earlier!
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Mar-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Mar-2007))

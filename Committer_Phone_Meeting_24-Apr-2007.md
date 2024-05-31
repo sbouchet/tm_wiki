@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 24-Apr-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 17-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 17-Apr-2007](./Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007")
 
 ### News & Review Action Items
 
@@ -86,7 +86,7 @@ Notes
         *   BIDI bugs: Will we adopt [ICU4J](./ICU4J "ICU4J")? (Note according to [RCP FAQ](./RCP_FAQ "RCP FAQ"), ICU4J is required by org.eclipse.help and thus part of the core RCP already - though this may be changed ([bug 183761](https://bugs.eclipse.org/bugs/show_bug.cgi?id=183761)).
             *   ICU4J is part of the Platform already; we should start using it; can defer the changes to later since no API change, try to keep it in UI only
             *   **AI DaveD** to follow up on the concrete [bug 183631](https://bugs.eclipse.org/bugs/show_bug.cgi?id=183631) and fix it, to get experience with ICU4J
-        *   Who wants to commit patches from Kevin -- update the [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") page
+        *   Who wants to commit patches from Kevin -- update the [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") page
         *   EFS: Copy(), Move(); Open Remote Project on Startup: Get rid of IResource dependencies where possible; minimal plugin activations; UI/Non-UI
         *   [182454](https://bugs.eclipse.org/bugs/show_bug.cgi?id=182454) \- what is the meaning of ISystemViewElementAdapter.getAbsoluteName()
 
@@ -106,7 +106,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_17-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 17-Apr-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_17-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 17-Apr-2007") Action Items
 *   **DaveD**: Translation Testcases; Persistence Provider without IResource; Get started on ICU4J with [bug 183631](https://bugs.eclipse.org/bugs/show_bug.cgi?id=183631); User Actions
 *   **DaveM**: Bugs
 *   **Kushal**: BIDI bugs and Encodings
@@ -117,8 +117,8 @@ Next Meeting
 ------------
 
 *   May 1st is a public holiday in Austria --> Moving to May 2nd, before the Monthly TM Meeting
-*   [DSDP/TM/Committer Phone Meeting 2-May-2007](./DSDP/TM/Committer_Phone_Meeting_2-May-2007 "DSDP/TM/Committer Phone Meeting 2-May-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=2&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 2-May-2007](./DSDP/TM/Phone_Meeting_2-May-2007 "DSDP/TM/Phone Meeting 2-May-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 2-May-2007](./Committer_Phone_Meeting_2-May-2007 "DSDP/TM/Committer Phone Meeting 2-May-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=2&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 2-May-2007](./Phone_Meeting_2-May-2007 "DSDP/TM/Phone Meeting 2-May-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_24-Apr-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_24-Apr-2007))

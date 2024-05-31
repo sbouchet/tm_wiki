@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 13-Mar-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -57,7 +57,7 @@ Notes
 
 ### Upcoming Work
 
-*   See also [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_28-Feb-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 28-Feb-2007") for notes
+*   See also [Last Meeting](./Committer_Phone_Meeting_28-Feb-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 28-Feb-2007") for notes
 *   **Top priority** is getting API things done for M6. Plan items are currently more important than bug priorities. We have 3 weeks to go.
     *   [170909](https://bugs.eclipse.org/bugs/show_bug.cgi?id=170909) (DaveD, Kushal) User Actions: Still waiting for IP review. Found many icons related to UA and import/export in rse.ui which will need to be moved.
     *   [170923](https://bugs.eclipse.org/bugs/show_bug.cgi?id=170923) (DaveD) UI/Non-UI splitting: Conn.Svc almost done, others will fall nicely into place afterwards. rse.ui/plugin.xml/systemTypes need to go to core
@@ -139,7 +139,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_28-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 28-Feb-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_28-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 28-Feb-2007") Action Items
 *   **DaveD** \- Check whether systemType name is persisted; Refactoring UI/Non-UI
 *   **DaveM** \- Review Refresh; Bugs & Unit tests
 *   **Kushal** \- EFS, Subsystem Bugs, Encoding Tests; Talk to DaveD re Comm Server; Bugs & Unit Tests
@@ -152,7 +152,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 20-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_20-Mar-2007 "DSDP/TM/Committer Phone Meeting 20-Mar-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 20-Mar-2007](./Committer_Phone_Meeting_20-Mar-2007 "DSDP/TM/Committer Phone Meeting 20-Mar-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Mar-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Mar-2007))

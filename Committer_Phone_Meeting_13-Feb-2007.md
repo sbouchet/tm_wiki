@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 13-Feb-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -123,7 +123,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_6-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2007") Action Items
 *   **DaveD** \- attach User Actions on IPZilla; UI/Non-UI Refactoring; Making stuff internal.
 *   **DaveM** \- Passing Filter into getChildren; EclipseCon; Making stuff internal.
 *   **Kushal** \- Unit Tests for Encodings; Javier's bug; Download Streams API; Making stuff internal; EFS.
@@ -136,7 +136,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 20-Feb-2007](./DSDP/TM/Committer_Phone_Meeting_20-Feb-2007 "DSDP/TM/Committer Phone Meeting 20-Feb-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=20hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 20-Feb-2007](./Committer_Phone_Meeting_20-Feb-2007 "DSDP/TM/Committer Phone Meeting 20-Feb-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=20hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_13-Feb-2007))

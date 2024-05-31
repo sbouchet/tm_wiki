@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 19-Jun-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -39,7 +39,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 12-Jun-2007](./DSDP/TM/Committer_Phone_Meeting_12-Jun-2007 "DSDP/TM/Committer Phone Meeting 12-Jun-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 12-Jun-2007](./Committer_Phone_Meeting_12-Jun-2007 "DSDP/TM/Committer Phone Meeting 12-Jun-2007")
 
 ### News & Review Action Items
 
@@ -102,7 +102,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2007#Action_Items "DSDP/TM/Committer Phone Meeting 5-Jun-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_5-Jun-2007#Action_Items "DSDP/TM/Committer Phone Meeting 5-Jun-2007") Action Items
 *   **DaveD**: RC4 Build, Doc items
 *   **DaveM**: 2.0.1 fixes
 *   **Kushal**:
@@ -113,8 +113,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 26-Jun-2007](./DSDP/TM/Committer_Phone_Meeting_26-Jun-2007 "DSDP/TM/Committer Phone Meeting 26-Jun-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=26&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **To be hosted by MartinO**, back to our normal dial-in
-*   Monthly [DSDP/TM/Phone Meeting 4-Jul-2007](./DSDP/TM/Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=4&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 26-Jun-2007](./Committer_Phone_Meeting_26-Jun-2007 "DSDP/TM/Committer Phone Meeting 26-Jun-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=26&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **To be hosted by MartinO**, back to our normal dial-in
+*   Monthly [DSDP/TM/Phone Meeting 4-Jul-2007](./Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=4&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_19-Jun-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_19-Jun-2007))

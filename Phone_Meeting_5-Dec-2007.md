@@ -3,7 +3,7 @@
 DSDP/TM/Phone Meeting 5-Dec-2007
 ================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
@@ -33,7 +33,7 @@ Notes
 
 ### Update on RSE Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") available
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") available
 *   **Project Plan Status** \- still on the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page only
     *   Bugzilla plan items as well as an "official" project plan will be done
     *   Focus on TCF; RSE bug-fixes and quality; UI/Non-UI splitting; Import/Export of Profiles
@@ -60,12 +60,12 @@ Notes
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 7-Nov-2007](./DSDP/TM/Phone_Meeting_7-Nov-2007 "DSDP/TM/Phone Meeting 7-Nov-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 7-Nov-2007](./Phone_Meeting_7-Nov-2007 "DSDP/TM/Phone Meeting 7-Nov-2007")
 
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 9-Jan-2008](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") (5 weeks after)
+*   Next [DSDP/TM/Phone Meeting 9-Jan-2008](./Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_5-Dec-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_5-Dec-2007))

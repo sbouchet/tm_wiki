@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 10-Apr-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -37,7 +37,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007")
 
 ### TM 2.0M6 Testing
 
@@ -82,7 +82,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Apr-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_3-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Apr-2007") Action Items
 *   **DaveD**: Remaining changes for Persistence (will be required for User Actions)
 *   **DaveM**: Major bugs for dstore, copying; Create ISubSystem.connect(IProgressMonitor, boolean)
 *   **Kushal**: EFS improvements, BIDI bugs
@@ -93,7 +93,7 @@ Next Meeting
 ------------
 
 *   [TM Webinar 12-Apr-2007](https://www.eclipse.org/community/webinars.php#TM)
-*   [DSDP/TM/Committer Phone Meeting 17-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 17-Apr-2007](./Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Apr-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Apr-2007))

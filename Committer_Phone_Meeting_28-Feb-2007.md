@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 28-Feb-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -167,7 +167,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_20-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2007") Action Items
 *   **DaveD** \- Reassign target milestone for M5 open bugs; Refactoring UI/Non-UI; Persistence; User Actions; Remove RSE Performance Logging;
 *   **DaveM** \- EclipseCon; Streams for Dstore;
 *   **Kushal** \- Reassign target milestone for M5 open bugs; \[api\] bugs for Subsystem Streams, get rid of unnecessarydownload methods; Check for Macintosh for Unit Tests in Toronto; EFS; Unittests for Encodings; Talk to DaveD re Comm Server
@@ -181,7 +181,7 @@ Next Meeting
 ------------
 
 *   [TM BOF at EclipseCon](http://www.eclipsecon.org/2007/index.php?page=sub/&id=4201), [Tuesday 6-Mar at 20:45 PST](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=7&hour=4&min=45&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (San Francisco time)
-*   [DSDP/TM/Committer Phone Meeting 13-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007 "DSDP/TM/Committer Phone Meeting 13-Mar-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=13&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 13-Mar-2007](./Committer_Phone_Meeting_13-Mar-2007 "DSDP/TM/Committer Phone Meeting 13-Mar-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=13&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Feb-2007))

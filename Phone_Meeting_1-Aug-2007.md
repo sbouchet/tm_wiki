@@ -3,7 +3,7 @@
 DSDP/TM/Phone Meeting 1-Aug-2007
 ================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
@@ -45,13 +45,13 @@ Agenda
 
 ### TM Project Meeting / Coding Camp
 
-*   We're planning a TM Coding Camp on Sept. 18/18 in Toronto, see [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
+*   We're planning a TM Coding Camp on Sept. 18/18 in Toronto, see [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
 
 ### Community Feedback and Status
 
 *   TmL / Motorola Status: Started integrating code with TM/RSE, pending approvals and contributions
     *   Using RSE as framework as UI for TmL: Some screenshots on the TmL Wiki, asking for feedback
-    *   Project Wiki: [DSDP/TML](./DSDP/TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](./DSDP/TML/TmLusingTM "DSDP/TML/TmLusingTM")
+    *   Project Wiki: [DSDP/TML](./TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](./TML/TmLusingTM "DSDP/TML/TmLusingTM")
 *   No Questions
 
 ### Technology sub-groups
@@ -59,7 +59,7 @@ Agenda
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 4-Jul-2007](./DSDP/TM/Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 4-Jul-2007](./Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007")
 
 New Action Items
 ----------------
@@ -69,7 +69,7 @@ New Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 5-Sep-2007](./DSDP/TM/Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") (5 weeks after)
+*   Next [DSDP/TM/Phone Meeting 5-Sep-2007](./Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_1-Aug-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_1-Aug-2007))

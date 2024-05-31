@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 20-Aug-2008
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -50,13 +50,13 @@ Attendees
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 6-Aug-2008](./DSDP/TM/Phone_Meeting_6-Aug-2008 "DSDP/TM/Phone Meeting 6-Aug-2008")
-*   Prev meeting: [DSDP/TM/Committer Phone Meeting 16-Jul-2008](./DSDP/TM/Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 6-Aug-2008](./Phone_Meeting_6-Aug-2008 "DSDP/TM/Phone Meeting 6-Aug-2008")
+*   Prev meeting: [DSDP/TM/Committer Phone Meeting 16-Jul-2008](./Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008")
 *   **Skype Call Quality**
 
 ### **Status**
 
-*   Shooting for 3.0.1 final run this week, will branch off on Aug 26 as per [DSDP/TM/3.0 Ramp down Plan for Ganymede#Ramp down for Ganymede SR1 (Sep 24, 2008)](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede#Ramp_down_for_Ganymede_SR1_.28Sep_24.2C_2008.29 "DSDP/TM/3.0 Ramp down Plan for Ganymede"), see also [#Bugs](#Bugs) below.
+*   Shooting for 3.0.1 final run this week, will branch off on Aug 26 as per [DSDP/TM/3.0 Ramp down Plan for Ganymede#Ramp down for Ganymede SR1 (Sep 24, 2008)](./3.0_Ramp_down_Plan_for_Ganymede#Ramp_down_for_Ganymede_SR1_.28Sep_24.2C_2008.29 "DSDP/TM/3.0 Ramp down Plan for Ganymede"), see also [#Bugs](#Bugs) below.
     *   **Please get anything risky and hi-priority in this week!**
 *   **Anna**: Now also contributing to TCF. Working on 3.0.1 bugs.
     *   [bug 244637](https://bugs.eclipse.org/bugs/show_bug.cgi?id=244637) Do we have any way to get absolute path without using IRemoteFile?
@@ -68,9 +68,9 @@ Agenda
     *   New builder - need to defer until 3.1M2
     *   Website revamp - image from the Community is good, need some time to revamp the contents
     *   [bug 227750](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227750) IRSEInteractionProvider would prefer fix in 3.1 HEAD after branching, do we need it in 3.0.1?
-    *   DSDP Board Presentation - Project input is now on [DSDP/TML/BoardReport2008](./DSDP/TML/BoardReport2008 "DSDP/TML/BoardReport2008") and [DSDP/MTJ/BoardReport2008](./DSDP/MTJ/BoardReport2008 "DSDP/MTJ/BoardReport2008"). Follow the [PMC mailinglist](http://dev.eclipse.org/mhonarc/lists/dsdp-pmc/maillist.html) for updates, and see [DSDP/PMC](./DSDP/PMC "DSDP/PMC") \-\- deadline for input is end August, presentation will be Sep 17.
+    *   DSDP Board Presentation - Project input is now on [DSDP/TML/BoardReport2008](./TML/BoardReport2008 "DSDP/TML/BoardReport2008") and [DSDP/MTJ/BoardReport2008](./MTJ/BoardReport2008 "DSDP/MTJ/BoardReport2008"). Follow the [PMC mailinglist](http://dev.eclipse.org/mhonarc/lists/dsdp-pmc/maillist.html) for updates, and see [DSDP/PMC](./PMC "DSDP/PMC") \-\- deadline for input is end August, presentation will be Sep 17.
     *   [bug 234026](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234026) \[apidoc\] IFileService#createFolder() does not specify whether parent folders are created -- fixed: on the Service level, Services **may** create parent folders, on the Subsystem level I fixed IFileServiceSubSystem#createFolders() to do it automatically if the service doesn't do it. Question: should IFileServiceSubSystem#createFolder() throw exception if the parent is missing, is it worth the extra effort?
-    *   [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) \- Rado's SWT deferred DND not yet reviewed, see also [DSDP/TM/Phone Meeting 2-Jul-2008](./DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") notes
+    *   [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) \- Rado's SWT deferred DND not yet reviewed, see also [DSDP/TM/Phone Meeting 2-Jul-2008](./Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") notes
 
 ### **Bugs**
 
@@ -140,8 +140,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 3-Sep-2008](./DSDP/TM/Phone_Meeting_3-Sep-2008 "DSDP/TM/Phone Meeting 3-Sep-2008") (2 weeks) at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=6&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 17-Sep-2008](./DSDP/TM/Committer_Phone_Meeting_17-Sep-2008 "DSDP/TM/Committer Phone Meeting 17-Sep-2008") (4 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=8&day=20&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 3-Sep-2008](./Phone_Meeting_3-Sep-2008 "DSDP/TM/Phone Meeting 3-Sep-2008") (2 weeks) at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=6&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 17-Sep-2008](./Committer_Phone_Meeting_17-Sep-2008 "DSDP/TM/Committer Phone Meeting 17-Sep-2008") (4 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=8&day=20&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Aug-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Aug-2008))

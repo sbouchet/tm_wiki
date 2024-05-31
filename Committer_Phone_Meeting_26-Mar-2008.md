@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 26-Mar-2008
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -42,7 +42,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008")
 *   **Skype Call Quality**
     *   Good most of the time with few dropouts (7 participants). Javier had trouble connecting, needed 4 retries.
 
@@ -133,7 +133,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Mar-2008") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_5-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Mar-2008") Action Items
 *   **Everyone**: Review [bug 217894](https://bugs.eclipse.org/bugs/show_bug.cgi?id=217894) subsystem configuration families
 *   **Rupen**: Merge [bug 210682](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210682) multi-copy patch
 *   **DaveD**: Finish profile import/export; Update [bug 221211](https://bugs.eclipse.org/bugs/show_bug.cgi?id=221211) IFileService multi-commands Javadoc
@@ -148,8 +148,8 @@ Next Meeting
 ------------
 
 *   Next [BugDay/March_2008](./BugDay/March_2008 "BugDay/March 2008") on Mar 28
-*   Monthly [DSDP/TM/Phone Meeting 2-Apr-2008](./DSDP/TM/Phone_Meeting_2-Apr-2008 "DSDP/TM/Phone Meeting 2-Apr-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 9-Apr-2008](./DSDP/TM/Committer_Phone_Meeting_9-Apr-2008 "DSDP/TM/Committer Phone Meeting 9-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
+*   Monthly [DSDP/TM/Phone Meeting 2-Apr-2008](./Phone_Meeting_2-Apr-2008 "DSDP/TM/Phone Meeting 2-Apr-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 9-Apr-2008](./Committer_Phone_Meeting_9-Apr-2008 "DSDP/TM/Committer Phone Meeting 9-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Mar-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Mar-2008))

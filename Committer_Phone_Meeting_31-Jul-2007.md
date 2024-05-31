@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 31-Jul-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -39,7 +39,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 24-Jul-2007](./DSDP/TM/Committer_Phone_Meeting_24-Jul-2007 "DSDP/TM/Committer Phone Meeting 24-Jul-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 24-Jul-2007](./Committer_Phone_Meeting_24-Jul-2007 "DSDP/TM/Committer Phone Meeting 24-Jul-2007")
 
 ### Current Work
 
@@ -52,7 +52,7 @@ Notes
 
   
 
-*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
     *   **Confirmed** Toronto Mon/Tue Sep 17/18 (+Wed half day)
     *   DaveD confirmed, Javier and Martin confirmed & booked flights
     *   **AI DaveM** talk to Pete Nicholls for a room 6-10 persons Mon Sep17 - Wed Sep19
@@ -99,7 +99,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_24-Jul-2007#Action_Items "DSDP/TM/Committer Phone Meeting 24-Jul-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_24-Jul-2007#Action_Items "DSDP/TM/Committer Phone Meeting 24-Jul-2007") Action Items
 *   **All** subscribe to Bugzilla 3.0 shared searches from Martin
 *   **DaveD**: call Xuan regarding filling-in for Persistence during his vacation; 2.0.1 important fixes, then Doc bugs (Tutorial)
 *   **DaveM**: **Ask Pete Nicholls about room for F2F meeting in Toronto**; [bug 196662](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196662) refresh on dispatch thread
@@ -112,9 +112,9 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 1-Aug-2007](./DSDP/TM/Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 8-Aug-2007](./DSDP/TM/Committer_Phone_Meeting_8-Aug-2007 "DSDP/TM/Committer Phone Meeting 8-Aug-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=8&day=8&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   Monthly [DSDP/TM/Phone Meeting 1-Aug-2007](./Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 8-Aug-2007](./Committer_Phone_Meeting_8-Aug-2007 "DSDP/TM/Committer Phone Meeting 8-Aug-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=8&day=8&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Jul-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Jul-2007))

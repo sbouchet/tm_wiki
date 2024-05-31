@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 20-Feb-2008
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 6-Feb-2008](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 6-Feb-2008](./Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008")
 
 ### Current Work
 
@@ -62,7 +62,7 @@ Notes
     *   dsdp.eclipse.org now also holds the website (build.eclipse.org will do soon) in order to support auto-builds, relnotes, searchcvs
     *   Martin incorporated some of Kevin's suggestions (new "Bugs" link; left-menu)
 *   Bug Fixing - **Remember our 2-fix-per-week / 3 unittests-per-milestone plan**
-    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 22 weeks / 4 milestones, so each committer is due 44 fixes / 8 unittests
+    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 22 weeks / 4 milestones, so each committer is due 44 fixes / 8 unittests
     *   Current situation is on [this bugzilla report](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=&y_axis_field=assigned_to&z_axis_field=&query_format=report-table&classification=DSDP&product=Target+Management&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&chfieldfrom=2007-09-17&chfieldto=Now&chfield=bug_status&chfieldvalue=RESOLVED&format=table&action=wrap&negate0=1&field0-0-0=resolution&type0-0-0=equals&value0-0-0=DUPLICATE)
     *   Unittests: when adding a test, please add the tag **//-test-author:YourName** in front of it
         *   DaveM - 5
@@ -110,7 +110,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2008") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_6-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2008") Action Items
 *   **Everyone**: Review [bug 216252](https://bugs.eclipse.org/bugs/show_bug.cgi?id=216252) SystemMessages refactoring
 *   **DaveD**: Fix [bug 219101](https://bugs.eclipse.org/bugs/show_bug.cgi?id=219101) HostMoveTest
 *   **DaveM**: Use Properties for Unit Tests
@@ -125,8 +125,8 @@ Next Meeting
 
 *   Next [BugDay/February_2008](./BugDay/February_2008 "BugDay/February 2008") on Feb 29
 *   EclipseCon March 17-20: Martin, Michael - no other committers
-*   [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](./DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](./Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2008))

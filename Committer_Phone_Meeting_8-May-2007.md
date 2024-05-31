@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 8-May-2007
 ==========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 2-May-2007](./DSDP/TM/Committer_Phone_Meeting_2-May-2007 "DSDP/TM/Committer Phone Meeting 2-May-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 2-May-2007](./Committer_Phone_Meeting_2-May-2007 "DSDP/TM/Committer Phone Meeting 2-May-2007")
 
 ### News & Review Action Items
 
@@ -108,7 +108,7 @@ Notes
         *   360 "Discouraged Access"
         *   114 Javadoc:
         *   97 deprecated
-        *   Compiler warnings compared to [30-Jan-2007](./DSDP/TM/Committer_Phone_Meeting_30-Jan-2007 "DSDP/TM/Committer Phone Meeting 30-Jan-2007")
+        *   Compiler warnings compared to [30-Jan-2007](./Committer_Phone_Meeting_30-Jan-2007 "DSDP/TM/Committer Phone Meeting 30-Jan-2007")
             *   192 -> 99 rse.ui (mostly javadoc)
             *   94 -> 120 files.ui
             *   27 -> 31 subsystems.files.core
@@ -127,7 +127,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_2-May-2007#Action_Items "DSDP/TM/Committer Phone Meeting 2-May-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_2-May-2007#Action_Items "DSDP/TM/Committer Phone Meeting 2-May-2007") Action Items
 *   **DaveD**: Translation Testcases; Persistence Provider without IResource; Get started on ICU4J with [bug 183631](https://bugs.eclipse.org/bugs/show_bug.cgi?id=183631)
 *   **DaveM**: Bugs
 *   **Kushal**: BIDI bugs and Encodings
@@ -138,8 +138,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 15-May-2007](./DSDP/TM/Committer_Phone_Meeting_15-May-2007 "DSDP/TM/Committer Phone Meeting 15-May-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=15&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 6-Jun-2007](./DSDP/TM/Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 15-May-2007](./Committer_Phone_Meeting_15-May-2007 "DSDP/TM/Committer Phone Meeting 15-May-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=15&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 6-Jun-2007](./Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_8-May-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_8-May-2007))

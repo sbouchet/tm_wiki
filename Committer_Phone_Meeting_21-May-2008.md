@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 21-May-2008
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -40,7 +40,7 @@ Attendees
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 30-Apr-2008](./DSDP/TM/Committer_Phone_Meeting_30-Apr-2008 "DSDP/TM/Committer Phone Meeting 30-Apr-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 30-Apr-2008](./Committer_Phone_Meeting_30-Apr-2008 "DSDP/TM/Committer Phone Meeting 30-Apr-2008")
 *   **Skype Call Quality**
     *   Skypecast quality was OK in the beginning with up to 4 participants, but became unbearable shortly later. Rado was unable to dial into the Skypecast (sitting behind an HTTP proxy).
     *   Normal Skype conference worked very fine for all 8 participants this time, but 8 really is the limit here (9th person trying to accept invitation cannot join).
@@ -58,7 +58,7 @@ Notes
 
 ### **Steps Towards Ganymede**
 
-*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
+*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
     *   We have RC1, so from now on EVERY checkin must be tracked in bugzilla, even simple cleanups (except documentation-only or unittest-only things). Also applies to "incubation". Rules do not apply to TCF
     *   there MUST be a +1 vote on the bug (though the vote can happen after the fact)
     *   Please do NOT only ask me for reviewing, it doesn't scale
@@ -89,7 +89,7 @@ Notes
     *   Besides the hi-priority issues, there is a LOT of cleanup to do:
         *   New releng scripts on dsdp.eclipse.org (Martin: must-have before his vacation)
         *   Copyright Year Updates (Run the releng Copyrights Tool)
-        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership")
         *   Review and improve Userdocs; we have several open bugs here
         *   Review and improve Javadocs; lots still missing
         *   Fix broken hyperlinks in the docs, fix HTML/XML errors (which can make the indexer not work)
@@ -133,8 +133,8 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_30-Apr-2008#Action_Items "DSDP/TM/Committer Phone Meeting 30-Apr-2008") Action Items
-*   **Everyone**: **Add @noextend etc** according to [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
+*   [Last Meeting](./Committer_Phone_Meeting_30-Apr-2008#Action_Items "DSDP/TM/Committer Phone Meeting 30-Apr-2008") Action Items
+*   **Everyone**: **Add @noextend etc** according to [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") table;
     *   Triage 3.0 and earlier assigned bugs and move to 3.0.1 what we can
     *   Bug fixes, cleanup, unittests
 *   **DaveD**: Investigate [bug 230821](https://bugs.eclipse.org/bugs/show_bug.cgi?id=230821) exceptions in IRemoteFileSubSystem; write up coordinated testing Wiki page until Thurs May 22 evening
@@ -153,8 +153,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 28-May-2008](./DSDP/TM/Committer_Phone_Meeting_28-May-2008 "DSDP/TM/Committer Phone Meeting 28-May-2008") (1 week) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 4-Jun-2008](./DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=4&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 28-May-2008](./Committer_Phone_Meeting_28-May-2008 "DSDP/TM/Committer Phone Meeting 28-May-2008") (1 week) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 4-Jun-2008](./Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=4&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_21-May-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_21-May-2008))

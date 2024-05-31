@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 12-Dec-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
@@ -36,7 +36,7 @@ Attendees
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007")
 
 ### Current Work
 
@@ -80,7 +80,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 27-Nov-2007") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_27-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 27-Nov-2007") Action Items
 *   **DaveD**: fixes, unit tests, Mac commitment?
 *   **DaveM**: Ask committers about multi-property-dialog; fixes, unit tests; ask Violaine about [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704)
 *   **Xuan**: fixes, unit tests
@@ -90,9 +90,9 @@ Action Items
 Next Meeting
 ------------
 
-*   Committer Phone Meeting 2-Jan-2008: discussed on the [9-Jan-2008 monthly meeting](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") instead
-*   Monthly [DSDP/TM/Phone Meeting 9-Jan-2008](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=1&day=9&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 23-Jan-2008](./DSDP/TM/Committer_Phone_Meeting_23-Jan-2008 "DSDP/TM/Committer Phone Meeting 23-Jan-2008") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Committer Phone Meeting 2-Jan-2008: discussed on the [9-Jan-2008 monthly meeting](./Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") instead
+*   Monthly [DSDP/TM/Phone Meeting 9-Jan-2008](./Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=1&day=9&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 23-Jan-2008](./Committer_Phone_Meeting_23-Jan-2008 "DSDP/TM/Committer Phone Meeting 23-Jan-2008") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_12-Dec-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_12-Dec-2007))

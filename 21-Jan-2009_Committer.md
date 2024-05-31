@@ -3,7 +3,7 @@
 DSDP/TM/Meetings/21-Jan-2009 Committer
 ======================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")‎ | [Meetings](./DSDP/TM/Meetings "DSDP/TM/Meetings")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")‎ | [Meetings](./Meetings "DSDP/TM/Meetings")
 
 | Meeting Title: | **TM Committer Meeting** |
 | --- | --- |
@@ -44,8 +44,8 @@ Agenda
 
 ### Last Meetings
 
-*   Last [DSDP/TM/Phone Meeting 7-Jan-2009](./DSDP/TM/Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009")
-*   Last [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./DSDP/TM/Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
+*   Last [DSDP/TM/Phone Meeting 7-Jan-2009](./Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009")
+*   Last [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
 
 ### Update on RSE Status
 
@@ -56,12 +56,12 @@ Agenda
 
 #### TM 3.1 status
 
-*   **Big Rocks** see [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./DSDP/TM/Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
+*   **Big Rocks** see [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
 *   [3.1M4 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.0&target_milestone=3.0.1&target_milestone=3.0.2&target_milestone=3.1+M2&target_milestone=3.1+M3&target_milestone=3.1+M4&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- **AI Everyone** reassign target milestone as appropriate
 *   [3.1M5 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.1+M5&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- [Galileo](./Galileo "Galileo") M5 is on Friday Feb 6
     *   This will likely go on the Eclipsecon stick: Want a one-day test pass? - Last checkins on Friday Jan 30
     *   **AI Martin** to create I-build on the weekend after the 30th, announce a 1-day testpass on Tuesday by E-Mail
-*   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./DSDP/TM/3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
+*   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
 *   Many patches on bugzilla, feel free to commit to 3.1 stream... avoid too many patches
     *   Community contributions: 47 [Open bugs with patches](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=attachments.ispatch&type0-0-0=equals&value0-0-0=1) right now, should apply before patches get outdated (see also the [Bug Process Page](https://www.eclipse.org/dsdp/tm/development/bug_process.php) for a query)
 *   Xuan: Creating p2 repositories as build output - Martin: should work.
@@ -111,8 +111,8 @@ Vacations
 Action Items
 ------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 7-Jan-2009](./DSDP/TM/Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009")
-*   Last [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./DSDP/TM/Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 7-Jan-2009](./Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009")
+*   Last [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
 *   **Everyone** reassign target milestone for m4 assigned open bugs; **old** "big rock" bugs for 3.1 and increase priority / set target milestone (may decrease priority on others).
 *   **Martin** Comment on DaveM's bugs; Contribute 3.0.3 update site for Ganymede; Draft E-Mail for 1-day m5 test pass; **old** review [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) Rado's deferred D&D; new Builder **until 3.1M5**; [bug 227750](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227750) Display in non-UI write fix **until 3.1M4**; Run performance tests for [bug 236065](https://bugs.eclipse.org/bugs/show_bug.cgi?id=236065) IFileService improvements; Critical EFS bugs;
 *   **Xuan**: **old** Look at [bug 230917](https://bugs.eclipse.org/bugs/show_bug.cgi?id=230917) Archive Handler Unittests
@@ -122,7 +122,7 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Meetings/4-Feb-2009](./DSDP/TM/Meetings/4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009") (2 weeks after)
+*   Next [DSDP/TM/Meetings/4-Feb-2009](./Meetings/4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009") (2 weeks after)
 *   Next [DSDP/TM/Committer Phone Meeting 18-Feb-2009](./index.php?title=DSDP/TM/Committer_Phone_Meeting_18-Feb-2009&action=edit&redlink=1 "DSDP/TM/Committer Phone Meeting 18-Feb-2009 (page does not exist)") (4 weeks after)
 
 

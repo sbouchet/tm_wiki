@@ -3,7 +3,7 @@
 DSDP/TM/Phone Meeting 4-Apr-2007
 ================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
@@ -86,12 +86,12 @@ Agenda
 ### Technology sub-groups
 
 *   CDT Launching (Ewa) - CDT "internal" access
-*   Update on [Autodetect](./DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+*   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
 
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 7-Feb-2007](./DSDP/TM/Phone_Meeting_7-Feb-2007 "DSDP/TM/Phone Meeting 7-Feb-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 7-Feb-2007](./Phone_Meeting_7-Feb-2007 "DSDP/TM/Phone Meeting 7-Feb-2007")
 
 New Action Items
 ----------------
@@ -100,7 +100,7 @@ Next Meeting
 ------------
 
 *   [TM Webinar 12-Apr-2007](https://www.eclipse.org/community/webinars.php#TM)
-*   Next [DSDP/TM/Phone Meeting 2-May-2007](./DSDP/TM/Phone_Meeting_2-May-2007 "DSDP/TM/Phone Meeting 2-May-2007") (4 weeks after)
+*   Next [DSDP/TM/Phone Meeting 2-May-2007](./Phone_Meeting_2-May-2007 "DSDP/TM/Phone Meeting 2-May-2007") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_4-Apr-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_4-Apr-2007))
