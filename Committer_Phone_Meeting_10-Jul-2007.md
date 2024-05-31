@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 10-Jul-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Jul 10, 2007](/index.php?title=Jul_10,_2007&action=edit&redlink=1 "Jul 10, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Jul 10, 2007](./index.php?title=Jul_10,_2007&action=edit&redlink=1 "Jul 10, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | **asterisk.eclipse.org** ID: **8977** Passcode: **1234** |
 | Backup Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
@@ -40,7 +40,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Jul-2007](/DSDP/TM/Committer_Phone_Meeting_3-Jul-2007 "DSDP/TM/Committer Phone Meeting 3-Jul-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Jul-2007](./DSDP/TM/Committer_Phone_Meeting_3-Jul-2007 "DSDP/TM/Committer Phone Meeting 3-Jul-2007")
 
 ### News & Review Action Items
 
@@ -55,7 +55,7 @@ Notes
 ### Plan for the TM Future
 
 *   A TM Project Meeting is planned for SEPTEMBER 19th and 20th in Chicago, together with the Members Meeting.
-*   Please review and edit [TM Future Planning](/TM_Future_Planning "TM Future Planning") together with your Requirements / Product Management folk
+*   Please review and edit [TM Future Planning](./TM_Future_Planning "TM Future Planning") together with your Requirements / Product Management folk
     *   Martin edited the planning page, adding a top-10 list of priorities - everybody welcome to review
     *   TPTP AGR for Unit Tests?
 *   **Eclipse Rumors**
@@ -64,7 +64,7 @@ Notes
 
 ### Current Work
 
-*   **Asterisk:** New Eclipse.org conferencing solution - Need Idefisk 1.37, see [Asterisk Conference Calls](/Asterisk_Conference_Calls "Asterisk Conference Calls")
+*   **Asterisk:** New Eclipse.org conferencing solution - Need Idefisk 1.37, see [Asterisk Conference Calls](./Asterisk_Conference_Calls "Asterisk Conference Calls")
     *   VoIP did not work for Xuan and DaveM (did not hear anything, were not asked for password)
     *   VoIP did not work for Javier (firewall issues: port UDP 4569 blocked)
     *   Javier tried US dialin to hook up with Martin only: heard quite some noise, Martin heard Javier but quite silent, also there seemed to be quite some delay. Martin will tell the Foundation people - keep the current phone number for now.
@@ -107,8 +107,8 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_3-Jul-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Jul-2007") Action Items
-*   **Everyone review the [TM Future Planning](/TM_Future_Planning "TM Future Planning") page**
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_3-Jul-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Jul-2007") Action Items
+*   **Everyone review the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page**
 *   **DaveD**: 2.0.1 important fixes, then Doc bugs (Tutorial)
 *   **DaveM**: 2.0.1 fixes, [195285](https://bugs.eclipse.org/bugs/show_bug.cgi?id=195285) mountPathMappers enhancement
 *   **Kushal**: reassign bugs to Inbox
@@ -120,8 +120,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 18-Jul-2007](/DSDP/TM/Committer_Phone_Meeting_18-Jul-2007 "DSDP/TM/Committer Phone Meeting 18-Jul-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=18&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 1-Aug-2007](/DSDP/TM/Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 18-Jul-2007](./DSDP/TM/Committer_Phone_Meeting_18-Jul-2007 "DSDP/TM/Committer Phone Meeting 18-Jul-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=7&day=18&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 1-Aug-2007](./DSDP/TM/Phone_Meeting_1-Aug-2007 "DSDP/TM/Phone Meeting 1-Aug-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Jul-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Jul-2007))

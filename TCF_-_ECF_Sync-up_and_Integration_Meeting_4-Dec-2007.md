@@ -3,11 +3,11 @@
 TCF/Meetings/Dec 4 2007 TCF-ECF Sync-up and Integration
 =======================================================
 
-< [TCF](/TCF "TCF")‎ | [Meetings](/TCF/Meetings "TCF/Meetings")(Redirected from [DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007](/index.php?title=DSDP/TM/TCF_-_ECF_Sync-up_and_Integration_Meeting_4-Dec-2007&redirect=no "DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007"))
+< [TCF](./TCF "TCF")‎ | [Meetings](./TCF/Meetings "TCF/Meetings")(Redirected from [DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007](./index.php?title=DSDP/TM/TCF_-_ECF_Sync-up_and_Integration_Meeting_4-Dec-2007&redirect=no "DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007"))
 
 | Meeting Title: | **TCF / ECF Sync-up and Integration Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Dec 4, 2007](/index.php?title=Dec_4,_2007&action=edit&redlink=1 "Dec 4, 2007 (page does not exist)") at [1700 UTC / 1200 Eastern / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=4&year=2007&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Tuesday [Dec 4, 2007](./index.php?title=Dec_4,_2007&action=edit&redlink=1 "Dec 4, 2007 (page does not exist)") at [1700 UTC / 1200 Eastern / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=4&year=2007&hour=17&min=00&sec=0&p1=0) |
 | Dial-in: | International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713**   Passcode: **0587322148 #** |
 
 Contents
@@ -38,8 +38,8 @@ Agenda
 
 *   TCF is an incubating extendable protocol for communication with embedded devices, which allows value-add services to be added transparently into the communication link. Bindings may exist to a variety of languages and environments (plain C, plain Java, Eclipse). Currently, the plain Java binding is usable from Eclipse, but an ECF-based Eclipse specific binding can be added.
 *   ECF provides generic APIs and mechanisms for communication from the Eclipse / Java environment, even if actual providers are written in other languages (e.g. Skype / C++).
-*   Is the description on [DSDP/TM/TCF FAQ](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") sufficient to clarify the scope of TCF, especially compared to ECF? Will users/extenders understand the differences?
-*   Is the [DSDP/TM/TCF_FAQ#How does TCF compare to ECF?](/DSDP/TM/TCF_FAQ#How_does_TCF_compare_to_ECF.3F "DSDP/TM/TCF FAQ") section sufficient and accurate?
+*   Is the description on [DSDP/TM/TCF FAQ](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") sufficient to clarify the scope of TCF, especially compared to ECF? Will users/extenders understand the differences?
+*   Is the [DSDP/TM/TCF_FAQ#How does TCF compare to ECF?](./DSDP/TM/TCF_FAQ#How_does_TCF_compare_to_ECF.3F "DSDP/TM/TCF FAQ") section sufficient and accurate?
     *   What do we think about the "vertical" versus "horizontal" description of TCF compared to ECF?
         *   When TCF focuses on the wire protocol, its vertical; when it focuses on transport agnosticism, it's horizontal; from today's statements we don't focus on transport agnosticism at all - we really want to standardize on TCP/IP, with proper enveloping through a protocol for transport conversion by a value-adding server (just a pass-through)
 
@@ -82,7 +82,7 @@ Agenda
     *   filetransfer
     *   discovery
 *   **Channels**: What is the Threading Model of ECF?
-    *   Might as well pre-answer this question. The threading model for most ECF APIs is asynchronous. What is meant by this? In the context of [datashare](/ECF_API_Docs#Datashare_API "ECF API Docs") this is exposed via non-blocking [IChannel API](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannel.html) calls, with a [listener attached to the channel upon construction](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannelContainerAdapter.html#createChannel(org.eclipse.ecf.core.identity.ID,%20org.eclipse.ecf.datashare.IChannelListener,%20java.util.Map)). The [IChannelListener interface](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannelListener.html) is asynchronously called when messages to the channel are received. The provider implementation of the IChannel and IChannelListener is responsible for implementing the underlying asynchrony via appropriate mechanisms (e.g. jobs or threads, etc). The IChannelListener is documented to allow the provider to call the listener with an arbitrary thread.
+    *   Might as well pre-answer this question. The threading model for most ECF APIs is asynchronous. What is meant by this? In the context of [datashare](./ECF_API_Docs#Datashare_API "ECF API Docs") this is exposed via non-blocking [IChannel API](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannel.html) calls, with a [listener attached to the channel upon construction](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannelContainerAdapter.html#createChannel(org.eclipse.ecf.core.identity.ID,%20org.eclipse.ecf.datashare.IChannelListener,%20java.util.Map)). The [IChannelListener interface](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/datashare/IChannelListener.html) is asynchronously called when messages to the channel are received. The provider implementation of the IChannel and IChannelListener is responsible for implementing the underlying asynchrony via appropriate mechanisms (e.g. jobs or threads, etc). The IChannelListener is documented to allow the provider to call the listener with an arbitrary thread.
         *   Any thread call into ECF APIs; it's up to the provider whether they maintain state and thus need to take care of multi-threaded access.
         *   TCF: Like DSF - can call in on any thread but it's being translated into a single Executor thread
 
@@ -94,15 +94,15 @@ Agenda
     *   TCF "Context" is not an address -- it's on a higher level, for identifying a thread, process, CPU, address space or breakpoint.
         *   Allows queries - hierarchical namespace, e.g.
 
-*   **Filetransfer**: ECF has an [ECF API Refactoring#Create filetransfer plugin, remove fileshare plugin](/ECF_API_Refactoring#Create_filetransfer_plugin.2C_remove_fileshare_plugin "ECF API Refactoring") action item. How does this relate to directory retrievals?
-    *   This particular refactoring has been completed some time ago (ECF fileshare is deprecated). RE: directory retrievals...in order to reduce the overall size and complexity of [filetransfer](/ECF_API_Docs#File_Transfer_API "ECF API Docs") as much as possible, directory information/browsing/navigation was initially left out of the file transfer API. This provided some benefits, in terms of size and complexity for the Equinox P2 project. However, using adapters, the file transfer API can (and eventually will) be expanded to include directory navigation. A new directory navigation adapter API contribution would be most welcome, and not technically difficult. Further, for applications that can accept the dependencies involved, EFS already provides directory navigation (and I think TM is already using EFS). Further, an ECF provider implementation \*based upon EFS and the Jobs API\* has already been created, and can be used in combination with the EFS directory/filestore browsing code. Obviously, such applications have to deal with the blocking I/O aspect of EFS directly.
+*   **Filetransfer**: ECF has an [ECF API Refactoring#Create filetransfer plugin, remove fileshare plugin](./ECF_API_Refactoring#Create_filetransfer_plugin.2C_remove_fileshare_plugin "ECF API Refactoring") action item. How does this relate to directory retrievals?
+    *   This particular refactoring has been completed some time ago (ECF fileshare is deprecated). RE: directory retrievals...in order to reduce the overall size and complexity of [filetransfer](./ECF_API_Docs#File_Transfer_API "ECF API Docs") as much as possible, directory information/browsing/navigation was initially left out of the file transfer API. This provided some benefits, in terms of size and complexity for the Equinox P2 project. However, using adapters, the file transfer API can (and eventually will) be expanded to include directory navigation. A new directory navigation adapter API contribution would be most welcome, and not technically difficult. Further, for applications that can accept the dependencies involved, EFS already provides directory navigation (and I think TM is already using EFS). Further, an ECF provider implementation \*based upon EFS and the Jobs API\* has already been created, and can be used in combination with the EFS directory/filestore browsing code. Obviously, such applications have to deal with the blocking I/O aspect of EFS directly.
         *   How would an application leverage EFS directory browsing with ECF fileshare? What would the benefit of using ECF be in that case?
-    *   Filetransfer: See [API Docs for IRetrieveFileTransferContainerAdapter](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/filetransfer/IRetrieveFileTransferContainerAdapter.html) in ECF. Also see [here](/ECF_API_Docs#File_Transfer_API "ECF API Docs")
+    *   Filetransfer: See [API Docs for IRetrieveFileTransferContainerAdapter](https://www.eclipse.org/ecf/org.eclipse.ecf.docs/api/org/eclipse/ecf/filetransfer/IRetrieveFileTransferContainerAdapter.html) in ECF. Also see [here](./ECF_API_Docs#File_Transfer_API "ECF API Docs")
 
 *   **Discovery**:
     *   How does discovery work in TCF? How much is implemented already?
     *   Here is [Bug 209774 for API changes in ECF Discovery 2.0](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209774)
-        *   This summary bug and all associated bugs have now been committed to HEAD. See [here for new API](/ECF_Discovery_API_Bundle "ECF Discovery API Bundle").
+        *   This summary bug and all associated bugs have now been committed to HEAD. See [here for new API](./ECF_Discovery_API_Bundle "ECF Discovery API Bundle").
     *   Does DSDP-TM Discovery relate to this in any way?
 
 ### Clarify rules/guidelines for when ECF interfaces should be created
@@ -123,7 +123,7 @@ Agenda
 
 ### Links
 
-*   [DSDP/TM/TCF FAQ](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ")
+*   [DSDP/TM/TCF FAQ](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ")
 
 Action Items
 ------------

@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 2-May-2007
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [May 2, 2007](/index.php?title=May_2,_2007&action=edit&redlink=1 "May 2, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [May 2, 2007](./index.php?title=May_2,_2007&action=edit&redlink=1 "May 2, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=2&year=2007&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -50,7 +50,7 @@ Notes
     *   Want to have "internal" stuff re-usable as well - Martin: "internal" packages are also exported, as per Eclipse common practice
 *   Please keep the RCP perspective in mind
 *   Where to get Architecture information?
-    *   Use the [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), [EclipseCon07 Tutorial](http://www.eclipsecon.org/2007/index.php?page=sub/&id=3651), or [RSE ISV Docs](http://dsdp.eclipse.org/help/latest/index.jsp?topic=/org.eclipse.rse.doc.isv/guide/rse_int.html)
+    *   Use the [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), [EclipseCon07 Tutorial](http://www.eclipsecon.org/2007/index.php?page=sub/&id=3651), or [RSE ISV Docs](http://dsdp.eclipse.org/help/latest/index.jsp?topic=/org.eclipse.rse.doc.isv/guide/rse_int.html)
 *   **Aptana also has some SSH / Upload** facility
 *   **Platform/Team FTP and WebDAV - Discontinued**, to be replaced by DSDP-TM / RSE
 
@@ -65,7 +65,7 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 6-Jun-2007](/DSDP/TM/Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") (5 weeks after)
+*   Next [DSDP/TM/Phone Meeting 6-Jun-2007](./DSDP/TM/Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-May-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-May-2007))

@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 20-Feb-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Feb 20, 2007](/index.php?title=Feb_20,_2007&action=edit&redlink=1 "Feb 20, 2007 (page does not exist)") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=20&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Feb 20, 2007](./index.php?title=Feb_20,_2007&action=edit&redlink=1 "Feb 20, 2007 (page does not exist)") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=20&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -58,7 +58,7 @@ Notes
 ### Upcoming Work
 
 *   **Top priority** this week is getting M5 stable.
-    *   [TM 2.0 M5 Testing](/TM_2.0_M5_Testing "TM 2.0 M5 Testing")
+    *   [TM 2.0 M5 Testing](./TM_2.0_M5_Testing "TM 2.0 M5 Testing")
     *   New build on [I20070220-1126](http://download.eclipse.org/dsdp/tm/downloads/drops/I20070220-1126)
         *   New wizard problems fixed
         *   Please test thoroughly today!
@@ -122,7 +122,7 @@ Notes
 ### Communications
 
 *   **Europa Requirements**
-    *   (done) [TM 2.0 Ramp down Plan for Europa](/TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa")
+    *   (done) [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa")
     *   (done) Update features and include the words "end-user" and "extender"
     *   **Avoiding non-API from other projects**
         *   **AI Martin** create bugzilla against CDT
@@ -141,11 +141,11 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_13-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Feb-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_13-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Feb-2007") Action Items
 *   **DaveD** \- Filter testing, Fix User Docs; Remove RSE Performance Logging; Refactoring UI/Non-UI; Persistence; Bugzilla bug for User Actions Contribution until Jan.31st; Bugs & Unit tests;
 *   **DaveM** \- EclipseCon; Bugs & Unit tests
 *   **Kushal** \- EFS; Talk to DaveD re Comm Server; Bugs & Unit Tests
-*   **Martin** \- EclipseCon tutorial; Check r/o flags and timestamps for ssh; Commit Montavista contrib; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
+*   **Martin** \- EclipseCon tutorial; Check r/o flags and timestamps for ssh; Commit Montavista contrib; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
 *   **Javier** \- Make discovery internal; Improve SD; Bugs & Unit Tests
 *   **Ted** -
 *   **Michael** \- Terminal Performance Improvements
@@ -154,7 +154,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 28-Feb-2007](/DSDP/TM/Committer_Phone_Meeting_28-Feb-2007 "DSDP/TM/Committer Phone Meeting 28-Feb-2007") at [1430 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=28&hour=14&min=30&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 28-Feb-2007](./DSDP/TM/Committer_Phone_Meeting_28-Feb-2007 "DSDP/TM/Committer Phone Meeting 28-Feb-2007") at [1430 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=28&hour=14&min=30&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2007))

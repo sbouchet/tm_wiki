@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 1-Aug-2007
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [Aug 1, 2007](/index.php?title=Aug_1,_2007&action=edit&redlink=1 "Aug 1, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [Aug 1, 2007](./index.php?title=Aug_1,_2007&action=edit&redlink=1 "Aug 1, 2007 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=1&year=2007&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -40,18 +40,18 @@ Agenda
 
 *   **Project Plan Status** \- ideas on Future Planning, to be finalized at the F2F meeting end September
 *   **Codebase status** \- working on TM 2.0.1 in HEAD stream
-*   **Future Planning** \- see [TM Future Planning](/TM_Future_Planning "TM Future Planning")
+*   **Future Planning** \- see [TM Future Planning](./TM_Future_Planning "TM Future Planning")
 *   **Windriver Target Communication Framework** \- moving forward
 
 ### TM Project Meeting / Coding Camp
 
-*   We're planning a TM Coding Camp on Sept. 18/18 in Toronto, see [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
+*   We're planning a TM Coding Camp on Sept. 18/18 in Toronto, see [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"). Our coding camp will be aimed for developers and committers to discuss architectural ideas and try them out right on the code. There will be limited time (perhaps 2 hours) for manager-like presentations if the community is interested. Everybody is invited to join the coding camp, preferredly bringing code to integrate with RSE or concrete ideas to discuss for the future.
 
 ### Community Feedback and Status
 
 *   TmL / Motorola Status: Started integrating code with TM/RSE, pending approvals and contributions
     *   Using RSE as framework as UI for TmL: Some screenshots on the TmL Wiki, asking for feedback
-    *   Project Wiki: [DSDP/TML](/DSDP/TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](/DSDP/TML/TmLusingTM "DSDP/TML/TmLusingTM")
+    *   Project Wiki: [DSDP/TML](./DSDP/TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](./DSDP/TML/TmLusingTM "DSDP/TML/TmLusingTM")
 *   No Questions
 
 ### Technology sub-groups
@@ -59,7 +59,7 @@ Agenda
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 4-Jul-2007](/DSDP/TM/Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 4-Jul-2007](./DSDP/TM/Phone_Meeting_4-Jul-2007 "DSDP/TM/Phone Meeting 4-Jul-2007")
 
 New Action Items
 ----------------
@@ -69,7 +69,7 @@ New Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 5-Sep-2007](/DSDP/TM/Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") (5 weeks after)
+*   Next [DSDP/TM/Phone Meeting 5-Sep-2007](./DSDP/TM/Phone_Meeting_5-Sep-2007 "DSDP/TM/Phone Meeting 5-Sep-2007") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_1-Aug-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_1-Aug-2007))

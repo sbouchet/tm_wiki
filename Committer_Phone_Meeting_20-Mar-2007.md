@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 20-Mar-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Mar 20, 2007](/index.php?title=Mar_20,_2007&action=edit&redlink=1 "Mar 20, 2007 (page does not exist)") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Mar 20, 2007](./index.php?title=Mar_20,_2007&action=edit&redlink=1 "Mar 20, 2007 (page does not exist)") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -57,7 +57,7 @@ Notes
 
 ### Upcoming Work
 
-*   See also [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 13-Mar-2007") for notes
+*   See also [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 13-Mar-2007") for notes
 *   **Recent pending API Change Discussions** \- **AI Everyone** to review and comment on bugzilla if any issues
     *   [173468](https://bugs.eclipse.org/bugs/show_bug.cgi?id=173468) Javier standard service name - **ok**
     *   [178020](https://bugs.eclipse.org/bugs/show_bug.cgi?id=178020) Uwe remove obsolete ISystemViewActionFilter
@@ -109,7 +109,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Mar-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 13-Mar-2007") Action Items
 *   **Everyone** \- Review recent pending API change bugzilla's and comment on them if there are any issues
 *   **DaveD** \- Search more packages and classes to make "internal", report on mailing list; Refactoring UI/Non-UI
 *   **DaveM** \- Search more packages and classes to make "internal", report on mailing list; Talk with DaveD regarding open-sourcing Remote Source Lookup and Java Launch;
@@ -123,7 +123,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 29-Mar-2007](/DSDP/TM/Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe:** 2 hrs / 1 hr earlier!
+*   [DSDP/TM/Committer Phone Meeting 29-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe:** 2 hrs / 1 hr earlier!
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Mar-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Mar-2007))

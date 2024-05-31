@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 28-Feb-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Feb 28, 2007](/index.php?title=Feb_28,_2007&action=edit&redlink=1 "Feb 28, 2007 (page does not exist)") at [1430 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=28&hour=14&min=30&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Feb 28, 2007](./index.php?title=Feb_28,_2007&action=edit&redlink=1 "Feb 28, 2007 (page does not exist)") at [1430 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=28&hour=14&min=30&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -51,7 +51,7 @@ Notes
     *   Doing [Release Notes](http://download.eclipse.org/dsdp/tm/downloads/drops/S-2.0M5-200702240204/buildNotes.php) was fun thanks to excellent bugzilla \[api\] documentation (everything captured in bugzilla)
     *   Testing effort was split up among the entire team
     *   Even though some fixes came late (NewConnectionWizard with hickups; Systemview IContextObject; userdoc issues due to M5; missing isv docs) we did an excellent job in testing
-*   Some [TM 2.0 M5 Testing](/TM_2.0_M5_Testing "TM 2.0 M5 Testing") statistics:
+*   Some [TM 2.0 M5 Testing](./TM_2.0_M5_Testing "TM 2.0 M5 Testing") statistics:
     *   94 bugs fixed for M5, including 28 API bugs (66 verified/closed, 28 not (yet) verified)
     *   [79 new bugs opened](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=resolution&y_axis_field=reporter&z_axis_field=&query_format=report-table&classification=DSDP&product=Target+Management&chfieldfrom=2007-02-20&chfieldto=2007-02-25&chfield=%5BBug+creation%5D&chfieldvalue=&format=table&action=wrap) during testing; **of these, 33 were resolved during testing** and 5 more this week - great contributions from everyone
         *   only 3 duplicates and 2 WORKSFORME during testing
@@ -167,11 +167,11 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_20-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Feb-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2007") Action Items
 *   **DaveD** \- Reassign target milestone for M5 open bugs; Refactoring UI/Non-UI; Persistence; User Actions; Remove RSE Performance Logging;
 *   **DaveM** \- EclipseCon; Streams for Dstore;
 *   **Kushal** \- Reassign target milestone for M5 open bugs; \[api\] bugs for Subsystem Streams, get rid of unnecessarydownload methods; Check for Macintosh for Unit Tests in Toronto; EFS; Unittests for Encodings; Talk to DaveD re Comm Server
-*   **Martin** \- EclipseCon tutorial; Arrange a committer meeting at EclipseCon; Upload UA refactorings to Bugzilla; Bugzilla against CDT Internal; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
+*   **Martin** \- EclipseCon tutorial; Arrange a committer meeting at EclipseCon; Upload UA refactorings to Bugzilla; Bugzilla against CDT Internal; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
 *   **Javier** \- Reassign target milestone for M5 open bugs; Improve SD
 *   **Ted** -
 *   **Michael** \- Terminal Performance Improvements
@@ -181,7 +181,7 @@ Next Meeting
 ------------
 
 *   [TM BOF at EclipseCon](http://www.eclipsecon.org/2007/index.php?page=sub/&id=4201), [Tuesday 6-Mar at 20:45 PST](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=7&hour=4&min=45&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (San Francisco time)
-*   [DSDP/TM/Committer Phone Meeting 13-Mar-2007](/DSDP/TM/Committer_Phone_Meeting_13-Mar-2007 "DSDP/TM/Committer Phone Meeting 13-Mar-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=13&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 13-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_13-Mar-2007 "DSDP/TM/Committer Phone Meeting 13-Mar-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=13&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-Feb-2007))

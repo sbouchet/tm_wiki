@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 11-Sep-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Sep 11, 2007](/index.php?title=Sep_11,_2007&action=edit&redlink=1 "Sep 11, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=9&day=11&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Sep 11, 2007](./index.php?title=Sep_11,_2007&action=edit&redlink=1 "Sep 11, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=9&day=11&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -38,18 +38,18 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Sep-2007](/DSDP/TM/Committer_Phone_Meeting_5-Sep-2007 "DSDP/TM/Committer Phone Meeting 5-Sep-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Sep-2007](./DSDP/TM/Committer_Phone_Meeting_5-Sep-2007 "DSDP/TM/Committer Phone Meeting 5-Sep-2007")
 
 ### Current Work
 
 *   **Skype Call Quality**
-*   **Intensive [TM 2.0.1 Testing](/TM_2.0.1_Testing "TM 2.0.1 Testing") on Thursday**
-*   **Reminder: Aug 30th was RC1** as per [TM 2.0 Ramp down Plan for Europa#Ramp\_down\_for\_Europa\_SR1_.2828-Sep-2007.29](/TM_2.0_Ramp_down_Plan_for_Europa#Ramp_down_for_Europa_SR1_.2828-Sep-2007.29 "TM 2.0 Ramp down Plan for Europa"), no risky fixes for 2.0.1 after the 30th!
+*   **Intensive [TM 2.0.1 Testing](./TM_2.0.1_Testing "TM 2.0.1 Testing") on Thursday**
+*   **Reminder: Aug 30th was RC1** as per [TM 2.0 Ramp down Plan for Europa#Ramp\_down\_for\_Europa\_SR1_.2828-Sep-2007.29](./TM_2.0_Ramp_down_Plan_for_Europa#Ramp_down_for_Europa_SR1_.2828-Sep-2007.29 "TM 2.0 Ramp down Plan for Europa"), no risky fixes for 2.0.1 after the 30th!
     *   Bugzilla TM "3.0" target milestone has been created; creating also "2.0.2" milestone; note that 2.0.2 bugs MUST be checked in to the branch, which is some effort, so this should be reserved for really important things only
     *   Branch not yet forked off, but policies do apply (need review)
     *   OK to check in to HEAD, Martin can merge to the branch
     *   Need 1-committer review, and Verification of fixes in an I-build after that time (RC1)
-*   **Reminder: Start preparing / planning** for the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   **Reminder: Start preparing / planning** for the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
     *   Room with outside internet access should be available in customer briefing center
     *   Xuan: How to prepare?
         *   1\. Make up your minds WHAT you want to achieve for 3.0; we should come up with plan items, priorities, and target milestones
@@ -101,7 +101,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_5-Sep-2007#Action_Items "DSDP/TM/Committer Phone Meeting 5-Sep-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_5-Sep-2007#Action_Items "DSDP/TM/Committer Phone Meeting 5-Sep-2007") Action Items
 *   **DaveD**: 2.0.1 fixes, then Doc bugs (Tutorial)
 *   **DaveM**: 2.0.1 fixes
 *   **Xuan**: 2.0.1 fixes (Supertransfer)
@@ -113,9 +113,9 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
-*   [DSDP/TM/Committer Phone Meeting 3-Oct-2007](/DSDP/TM/Committer_Phone_Meeting_3-Oct-2007 "DSDP/TM/Committer Phone Meeting 3-Oct-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=10&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 3-Oct-2007](/DSDP/TM/Phone_Meeting_3-Oct-2007 "DSDP/TM/Phone Meeting 3-Oct-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=10&day=3&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
+*   [DSDP/TM/Committer Phone Meeting 3-Oct-2007](./DSDP/TM/Committer_Phone_Meeting_3-Oct-2007 "DSDP/TM/Committer Phone Meeting 3-Oct-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=10&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 3-Oct-2007](./DSDP/TM/Phone_Meeting_3-Oct-2007 "DSDP/TM/Phone Meeting 3-Oct-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=10&day=3&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_11-Sep-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_11-Sep-2007))

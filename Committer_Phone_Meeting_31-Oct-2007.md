@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 31-Oct-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Oct 31, 2007](/index.php?title=Oct_31,_2007&action=edit&redlink=1 "Oct 31, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=10&day=31&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Oct 31, 2007](./index.php?title=Oct_31,_2007&action=edit&redlink=1 "Oct 31, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=10&day=31&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 17-Oct-2007](/DSDP/TM/Committer_Phone_Meeting_17-Oct-2007 "DSDP/TM/Committer Phone Meeting 17-Oct-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 17-Oct-2007](./DSDP/TM/Committer_Phone_Meeting_17-Oct-2007 "DSDP/TM/Committer Phone Meeting 17-Oct-2007")
 
 ### Current Work
 
@@ -79,7 +79,7 @@ Agenda
 *   **Michael:** \- n/a today
 *   **Questions**
     *   M3 milestone: testing? - DaveD: At least run the Unit tests; Martin has been doing that manually so far. Would also like to have 1 day of testing.
-        *   **Martin created [TM 3.0 M3 Testing](/TM_3.0_M3_Testing "TM 3.0 M3 Testing") page TBD on Thursday 8-Nov-2007**
+        *   **Martin created [TM 3.0 M3 Testing](./TM_3.0_M3_Testing "TM 3.0 M3 Testing") page TBD on Thursday 8-Nov-2007**
     *   EclipseCon: Will be discussed in PMC meeting this friday -- probably have a Tutorial on TM, and a Short Talk on New & Noteworthy
 
 *   **Bugzilla**:
@@ -93,7 +93,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_17-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 17-Oct-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_17-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 17-Oct-2007") Action Items
 *   **DaveD**: fixes, unit tests
 *   **DaveM**: fixes, unit tests
 *   **Xuan**: fixes, unit tests
@@ -105,8 +105,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 7-Nov-2007](/DSDP/TM/Phone_Meeting_7-Nov-2007 "DSDP/TM/Phone Meeting 7-Nov-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=7&year=2007&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 14-Nov-2007](/DSDP/TM/Committer_Phone_Meeting_14-Nov-2007 "DSDP/TM/Committer Phone Meeting 14-Nov-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 7-Nov-2007](./DSDP/TM/Phone_Meeting_7-Nov-2007 "DSDP/TM/Phone Meeting 7-Nov-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=7&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 14-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_14-Nov-2007 "DSDP/TM/Committer Phone Meeting 14-Nov-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Oct-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_31-Oct-2007))

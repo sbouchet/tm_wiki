@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 29-Mar-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Thursday [Mar 29, 2007](/index.php?title=Mar_29,_2007&action=edit&redlink=1 "Mar 29, 2007 (page does not exist)") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Thursday [Mar 29, 2007](./index.php?title=Mar_29,_2007&action=edit&redlink=1 "Mar 29, 2007 (page does not exist)") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=3&day=29&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -57,7 +57,7 @@ Notes
 
 ### Upcoming Work
 
-*   See also [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 20-Mar-2007") for notes
+*   See also [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Upcoming_Work "DSDP/TM/Committer Phone Meeting 20-Mar-2007") for notes
 *   **M6 must-have issues**
     *   All development and testing against Eclipse 3.3M6 now, please!
     *   NLS changes: mostly IBM, not very strict; and need to know what the changes are, so we can report them (notify what files have changed)
@@ -93,7 +93,7 @@ Notes
         *   connectorservice have some Javadoc still referring to SuperAbstractConnectorService
     *   **API Changes**
         *   [179910](https://bugs.eclipse.org/bugs/show_bug.cgi?id=179910) (Kushal) removing unnecessary upload/download - do we really need still 2 upload methods?
-    *   [TM 2.0 M6 Testing](/TM_2.0_M6_Testing "TM 2.0 M6 Testing") \- What changes / features need to be especially tested?
+    *   [TM 2.0 M6 Testing](./TM_2.0_M6_Testing "TM 2.0 M6 Testing") \- What changes / features need to be especially tested?
         *   "internal" refactorings; new connectorservice; encodings; EFS;
     *   **Persistence Provider**
         *   Reason it is in the workspace, is to allow sharing connections with other team members
@@ -169,7 +169,7 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Mar-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 20-Mar-2007") Action Items
 *   **Everyone** \- Review recent pending API change bugzilla's and comment on them if there are any issues
 *   **DaveD** \- Refactoring UI/Non-UI;
 *   **DaveM** \- Making stuff internal; Talk with DaveD regarding open-sourcing Remote Source Lookup and Java Launch;
@@ -183,11 +183,11 @@ Action Items
 Next Meeting
 ------------
 
-*   [TM 2.0 Testing](/TM_2.0_Testing "TM 2.0 Testing") on 3-Apr-2007
-*   [DSDP/TM/Committer Phone Meeting 3-Apr-2007](/DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe**
-*   [DSDP/TM/Phone Meeting 4-Apr-2007](/DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
+*   [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") on 3-Apr-2007
+*   [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- **attention: DST change in Europe**
+*   [DSDP/TM/Phone Meeting 4-Apr-2007](./DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
 *   TM 2.0M6 - 6-Apr-2007
-*   [TM Webinar](https://www.eclipse.org/community/webinars2006.php) pre-call on [10-Apr-2007](/index.php?title=10-Apr-2007&action=edit&redlink=1 "10-Apr-2007 (page does not exist)"); webinar on [12-Apr-2007](/index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
+*   [TM Webinar](https://www.eclipse.org/community/webinars2006.php) pre-call on [10-Apr-2007](./index.php?title=10-Apr-2007&action=edit&redlink=1 "10-Apr-2007 (page does not exist)"); webinar on [12-Apr-2007](./index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_29-Mar-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_29-Mar-2007))

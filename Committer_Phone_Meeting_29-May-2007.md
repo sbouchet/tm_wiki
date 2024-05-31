@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 29-May-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [May 29, 2007](/index.php?title=May_29,_2007&action=edit&redlink=1 "May 29, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=29&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [May 29, 2007](./index.php?title=May_29,_2007&action=edit&redlink=1 "May 29, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=5&day=29&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -39,11 +39,11 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 22-May-2007](/DSDP/TM/Committer_Phone_Meeting_22-May-2007 "DSDP/TM/Committer Phone Meeting 22-May-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 22-May-2007](./DSDP/TM/Committer_Phone_Meeting_22-May-2007 "DSDP/TM/Committer Phone Meeting 22-May-2007")
 
 ### News & Review Action Items
 
-| Martin | 100% | Final API fixes, bugs, releasing RC1; [TM Future Planning](/TM_Future_Planning "TM Future Planning"), Release Review Slides | 80% |
+| Martin | 100% | Final API fixes, bugs, releasing RC1; [TM Future Planning](./TM_Future_Planning "TM Future Planning"), Release Review Slides | 80% |
 | --- | --- | --- | --- |
 | DaveD | 80% | Persistence in metadata, Translations | 90% |
 | DaveM | 50% | Bugfixes | 80% |
@@ -55,11 +55,11 @@ Notes
 
 ### Plan for the TM Future
 
-*   Please review and edit [TM Future Planning](/TM_Future_Planning "TM Future Planning") together with your Requirements / Product Management folk
+*   Please review and edit [TM Future Planning](./TM_Future_Planning "TM Future Planning") together with your Requirements / Product Management folk
 
 ### Ramp Down Plan
 
-*   [TM 2.0 Ramp down Plan for Europa](/TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
+*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](./Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
     *   Tomorrow Wed May 30: Release Review Slide Decks due
     *   RC2 -- Tue Jun 5 (6 work days)
     *   RC3 -- Thu Jun 14 (7 work days; Martin vacation 12-Jun til 21-Jun!)
@@ -111,7 +111,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_22-May-2007#Action_Items "DSDP/TM/Committer Phone Meeting 22-May-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_22-May-2007#Action_Items "DSDP/TM/Committer Phone Meeting 22-May-2007") Action Items
 *   **DaveD**: Translation Testcases; Persistence Provider without IResource
 *   **DaveM**: Refresh Bugs
 *   **Kushal**: BIDI bugs and Encodings
@@ -122,8 +122,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 5-Jun-2007](/DSDP/TM/Committer_Phone_Meeting_5-Jun-2007 "DSDP/TM/Committer Phone Meeting 5-Jun-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 6-Jun-2007](/DSDP/TM/Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 5-Jun-2007](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2007 "DSDP/TM/Committer Phone Meeting 5-Jun-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 6-Jun-2007](./DSDP/TM/Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_29-May-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_29-May-2007))

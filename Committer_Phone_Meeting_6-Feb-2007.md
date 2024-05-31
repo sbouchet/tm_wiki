@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 6-Feb-2007
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Feb 6, 2007](/index.php?title=Feb_6,_2007&action=edit&redlink=1 "Feb 6, 2007 (page does not exist)") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=6&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Feb 6, 2007](./index.php?title=Feb_6,_2007&action=edit&redlink=1 "Feb 6, 2007 (page does not exist)") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=6&hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -99,12 +99,12 @@ Notes
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_30-Jan-2007#Action_Items "DSDP/TM/Committer Phone Meeting 30-Jan-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_30-Jan-2007#Action_Items "DSDP/TM/Committer Phone Meeting 30-Jan-2007") Action Items
 *   **Everybody** \- Come up with a list of classes from the areas you own, which can be internal (by thursday)
 *   **DaveD** \- Refactoring UI/Non-UI; Persistence; Bugzilla bug for User Actions Contribution; Remove RSE Performance Logging; Bugs & Unit tests;
 *   **DaveM** \- EclipseCon; re-write rse.popupMenus usage; Bugs & Unit tests; finish permission API; download Streams API;
 *   **Kushal** \- Encodings; EFS; Talk to DaveD re Comm Server; Bugs & Unit Tests
-*   **Martin** \- EclipseCon tutorial; Check r/o flags and timestamps for ssh; Commit Montavista contrib; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
+*   **Martin** \- EclipseCon tutorial; Check r/o flags and timestamps for ssh; Commit Montavista contrib; Migrate build to Ted's scripts; Migrate Commons.net to single-file-jar; Bugs & Unit Tests; Personal Interviews via Skype; Work on [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), improve Wiki and Website (how to contribute);
 *   **Javier** \- Unittest for Boolean Propertyset; Check r/o flags and timestamps for ftp; FTP passive mode; Improve SD
 *   **Ted** -
 *   **Michael** \- Terminal Performance Improvements
@@ -113,8 +113,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Open [DSDP/TM/Phone Meeting 7-Feb-2007](/DSDP/TM/Phone_Meeting_7-Feb-2007 "DSDP/TM/Phone Meeting 7-Feb-2007") at 9am PST
-*   [DSDP/TM/Committer Phone Meeting 13-Feb-2007](/DSDP/TM/Committer_Phone_Meeting_13-Feb-2007 "DSDP/TM/Committer Phone Meeting 13-Feb-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=13hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Open [DSDP/TM/Phone Meeting 7-Feb-2007](./DSDP/TM/Phone_Meeting_7-Feb-2007 "DSDP/TM/Phone Meeting 7-Feb-2007") at 9am PST
+*   [DSDP/TM/Committer Phone Meeting 13-Feb-2007](./DSDP/TM/Committer_Phone_Meeting_13-Feb-2007 "DSDP/TM/Committer Phone Meeting 13-Feb-2007") at [1700 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=2&day=13hour=17&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_6-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_6-Feb-2007))

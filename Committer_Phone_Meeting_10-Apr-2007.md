@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 10-Apr-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Apr 10, 2007](/index.php?title=Apr_10,_2007&action=edit&redlink=1 "Apr 10, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Apr 10, 2007](./index.php?title=Apr_10,_2007&action=edit&redlink=1 "Apr 10, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -37,7 +37,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Apr-2007](/DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 3-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007 "DSDP/TM/Committer Phone Meeting 3-Apr-2007")
 
 ### TM 2.0M6 Testing
 
@@ -50,7 +50,7 @@ Notes
 *   **Plan towards M7**
     *   **Priority #1: Open Major Bugs** \- hanging dstore, Copying issues, NPEs
         *   **NLS bugs**: BIDI, DBCS - Kushal has access to one of the BIDI machines, and can set up a DBCS environment on his Linux box. Priority: 2 rounds of testing: Enablement test - assure that assistence from knowledgeable people is there; assistence test in May. Want Enablement bugs fixed by this or next I-bugs.
-        *   Enablement Testers may be able to help fixing bugs and submitting patches - point them to the [TM\_and\_RSE_FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ")
+        *   Enablement Testers may be able to help fixing bugs and submitting patches - point them to the [TM\_and\_RSE_FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ")
     *   **Priority #2: EFS**: Project is closed on workspace re-start
         *   Workaround: use local projects with linked resources instead
         *   DaveD: CredentialsProvider should not need a shell when credentials are stored
@@ -82,7 +82,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_3-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Apr-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_3-Apr-2007#Action_Items "DSDP/TM/Committer Phone Meeting 3-Apr-2007") Action Items
 *   **DaveD**: Remaining changes for Persistence (will be required for User Actions)
 *   **DaveM**: Major bugs for dstore, copying; Create ISubSystem.connect(IProgressMonitor, boolean)
 *   **Kushal**: EFS improvements, BIDI bugs
@@ -93,7 +93,7 @@ Next Meeting
 ------------
 
 *   [TM Webinar 12-Apr-2007](https://www.eclipse.org/community/webinars.php#TM)
-*   [DSDP/TM/Committer Phone Meeting 17-Apr-2007](/DSDP/TM/Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [DSDP/TM/Committer Phone Meeting 17-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_17-Apr-2007 "DSDP/TM/Committer Phone Meeting 17-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Apr-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_10-Apr-2007))

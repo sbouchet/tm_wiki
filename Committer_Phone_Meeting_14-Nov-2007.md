@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 14-Nov-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Nov 14, 2007](/index.php?title=Nov_14,_2007&action=edit&redlink=1 "Nov 14, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Nov 14, 2007](./index.php?title=Nov_14,_2007&action=edit&redlink=1 "Nov 14, 2007 (page does not exist)") at [1500 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 31-Oct-2007](/DSDP/TM/Committer_Phone_Meeting_31-Oct-2007 "DSDP/TM/Committer Phone Meeting 31-Oct-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 31-Oct-2007](./DSDP/TM/Committer_Phone_Meeting_31-Oct-2007 "DSDP/TM/Committer Phone Meeting 31-Oct-2007")
 
 ### Current Work
 
@@ -76,7 +76,7 @@ Agenda
         *   Need to have a better understanding what the UI should look like for [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704) user-contributed conversions for BIDI -- **AI DaveM** ask Violaine about intended UI for this
     *   Javier working on Tests -- using an internal FTP server at Symbian for now -- how to move that into Open Source?
     *   Martin has root access on dsdp.eclipse.org -- install an FTP server that only allows access from "localhost"
-        *   **AI Javier** document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+        *   **AI Javier** document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Martin:** \- Released [TM 2.0.2](http://download.eclipse.org/dsdp/tm/downloads/drops/R-2.0.2-200711131300/index.php) and [TM 3.0M3](http://download.eclipse.org/dsdp/tm/downloads/drops/S-3.0M3-200711141025/index.php); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
 *   **Uwe:** \- cleanup of 2 open-source bugs
 *   **Rupen:** \- little bit Open Source bugfixes - not too much time
@@ -96,20 +96,20 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_31-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_31-Oct-2007#Action_Items "DSDP/TM/Committer Phone Meeting 31-Oct-2007") Action Items
 *   **DaveD**: fixes, unit tests
 *   **DaveM**: fixes, unit tests; ask Violaine about [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704)
 *   **Xuan**: fixes, unit tests
 *   **Kevin**: fixes, unit tests
 *   **Martin**: Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 27-Nov-2007](/DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](/DSDP/TM/Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](./DSDP/TM/Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_14-Nov-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_14-Nov-2007))

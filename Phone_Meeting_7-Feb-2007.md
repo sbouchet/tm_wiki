@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 7-Feb-2007
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [February 7, 2007](/index.php?title=February_7,_2007&action=edit&redlink=1 "February 7, 2007 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=7&year=2007&hour=17&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [February 7, 2007](./index.php?title=February_7,_2007&action=edit&redlink=1 "February 7, 2007 (page does not exist)") at [1700 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=7&year=2007&hour=17&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -74,7 +74,7 @@ RSE 1.0.1 Download statistics as per 7-Feb-2007
 | efs |  | 12 | 42 | 64 + 262 | 17 |  |
 | terminal |  | - | - | 113 + 205 | 26 |  |
 
-*   For previous stats and analysis, see [16-Jan-2007](/DSDP/TM/Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007"), [19-Dec-2006](/DSDP/TM/Committer_Phone_Meeting_19-Dec-2006 "DSDP/TM/Committer Phone Meeting 19-Dec-2006") and [8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
+*   For previous stats and analysis, see [16-Jan-2007](./DSDP/TM/Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007"), [19-Dec-2006](./DSDP/TM/Committer_Phone_Meeting_19-Dec-2006 "DSDP/TM/Committer Phone Meeting 19-Dec-2006") and [8-Nov-2006](./DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
 *   85 examples -- people do want to code against RSE APIs
 *   68 discovery -- some interest
 *   update site gaining significance with 1.0.1, especially for examples, discovery, efs, terminal
@@ -103,13 +103,13 @@ Community's most wanted - who's working on what?
 ### Technology sub-groups
 
 *   CDT Launching (Ewa) - CDT "internal" access: going to discuss on cdt-dev list
-*   Update on [Autodetect](/DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
+*   Update on [Autodetect](./DSDP/TM/Autodetect "DSDP/TM/Autodetect") (Javier)
 
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 10-Jan-2007](/DSDP/TM/Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007")
-*   \[done\] Everybody - Review and edit the [RSE 2.0 Planning](/RSE_2.0_Planning "RSE 2.0 Planning") page
+*   Last meeting: [DSDP/TM/Phone Meeting 10-Jan-2007](./DSDP/TM/Phone_Meeting_10-Jan-2007 "DSDP/TM/Phone Meeting 10-Jan-2007")
+*   \[done\] Everybody - Review and edit the [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") page
 *   Maureen to try RSE, review docs, and get in contact with the dsdp-tm-dev list Martin
     *   Maureen tried RSE, made progress, docs are ok, but had to stop because it's no priority for the project now
     *   Q: How to transfer files to a device? A: join the TM tutorial at EclipseCon, or look at the slides which are already posted.
@@ -125,7 +125,7 @@ Next Meeting
 ------------
 
 *   4 weeks: [March 6, 2007 at 20.45 PST](http://www.timeanddate.com/worldclock/personal.html?month=3&day=6&year=2007&hour=20&min=45&sec=0&p1=221) at the [DSDP BoF at EclipseCon](http://www.eclipsecon.org/2007/index.php?page=sub/&id=4201) instead of a Phone Meeting
-*   Next [DSDP/TM/Phone Meeting 4-Apr-2007](/DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") (4 weeks after)
+*   Next [DSDP/TM/Phone Meeting 4-Apr-2007](./DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_7-Feb-2007](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_7-Feb-2007))

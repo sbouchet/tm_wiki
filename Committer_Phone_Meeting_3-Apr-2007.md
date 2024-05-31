@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 3-Apr-2007
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Apr 3, 2007](/index.php?title=Apr_3,_2007&action=edit&redlink=1 "Apr 3, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Apr 3, 2007](./index.php?title=Apr_3,_2007&action=edit&redlink=1 "Apr 3, 2007 (page does not exist)") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=3&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | International **+44 (0)1452 567588**   North America **+1 (866) 6161738** (toll free)   UK National **08712460713**   Passcode: **0587322148 #** |
 
 MartinO to start conference call - please dial in using the numbers above.  
@@ -37,11 +37,11 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 29-Mar-2007](/DSDP/TM/Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 29-Mar-2007](./DSDP/TM/Committer_Phone_Meeting_29-Mar-2007 "DSDP/TM/Committer Phone Meeting 29-Mar-2007")
 
 ### TM 2.0M6 Testing
 
-*   [TM 2.0 M6 Testing](/TM_2.0_M6_Testing "TM 2.0 M6 Testing")
+*   [TM 2.0 M6 Testing](./TM_2.0_M6_Testing "TM 2.0 M6 Testing")
     *   MUST use Eclipse M6
     *   Will do a new test candidate every day, with a note what changed compared to the previous one. Start each morning with testing, fix bugs in the afternoon. Cronjob will build a new candidate over night. (Plan approved)
 
@@ -114,16 +114,16 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_29-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 29-Mar-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_29-Mar-2007#Action_Items "DSDP/TM/Committer Phone Meeting 29-Mar-2007") Action Items
 *   **Everyone** first test (2 hrs max.), then fix major issues, then look at API. GOAL is to have a good test candidate tomorrow.
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Phone Meeting 4-Apr-2007](/DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
+*   [DSDP/TM/Phone Meeting 4-Apr-2007](./DSDP/TM/Phone_Meeting_4-Apr-2007 "DSDP/TM/Phone Meeting 4-Apr-2007") open phone call
 *   TM 2.0M6 - 6-Apr-2007
-*   [TM Webinar](https://www.eclipse.org/community/webinars2006.php) pre-call on [10-Apr-2007](/index.php?title=10-Apr-2007&action=edit&redlink=1 "10-Apr-2007 (page does not exist)") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800); webinar on [12-Apr-2007](/index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
-*   [DSDP/TM/Committer Phone Meeting 10-Apr-2007](/DSDP/TM/Committer_Phone_Meeting_10-Apr-2007 "DSDP/TM/Committer Phone Meeting 10-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   [TM Webinar](https://www.eclipse.org/community/webinars2006.php) pre-call on [10-Apr-2007](./index.php?title=10-Apr-2007&action=edit&redlink=1 "10-Apr-2007 (page does not exist)") at [1400 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=14&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800); webinar on [12-Apr-2007](./index.php?title=12-Apr-2007&action=edit&redlink=1 "12-Apr-2007 (page does not exist)")
+*   [DSDP/TM/Committer Phone Meeting 10-Apr-2007](./DSDP/TM/Committer_Phone_Meeting_10-Apr-2007 "DSDP/TM/Committer Phone Meeting 10-Apr-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=4&day=10&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_3-Apr-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_3-Apr-2007))

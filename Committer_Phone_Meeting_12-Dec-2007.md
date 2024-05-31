@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 12-Dec-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Dec 12, 2007](/index.php?title=Dec_12,_2007&action=edit&redlink=1 "Dec 12, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=12&day=12&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Dec 12, 2007](./index.php?title=Dec_12,_2007&action=edit&redlink=1 "Dec 12, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=12&day=12&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -36,7 +36,7 @@ Attendees
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 27-Nov-2007](/DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 27-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007 "DSDP/TM/Committer Phone Meeting 27-Nov-2007")
 
 ### Current Work
 
@@ -80,19 +80,19 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_27-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 27-Nov-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_27-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 27-Nov-2007") Action Items
 *   **DaveD**: fixes, unit tests, Mac commitment?
 *   **DaveM**: Ask committers about multi-property-dialog; fixes, unit tests; ask Violaine about [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704)
 *   **Xuan**: fixes, unit tests
 *   **Martin**: Update bugzilla's; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 
 Next Meeting
 ------------
 
-*   Committer Phone Meeting 2-Jan-2008: discussed on the [9-Jan-2008 monthly meeting](/DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") instead
-*   Monthly [DSDP/TM/Phone Meeting 9-Jan-2008](/DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=1&day=9&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 23-Jan-2008](/DSDP/TM/Committer_Phone_Meeting_23-Jan-2008 "DSDP/TM/Committer Phone Meeting 23-Jan-2008") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Committer Phone Meeting 2-Jan-2008: discussed on the [9-Jan-2008 monthly meeting](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") instead
+*   Monthly [DSDP/TM/Phone Meeting 9-Jan-2008](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=1&day=9&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 23-Jan-2008](./DSDP/TM/Committer_Phone_Meeting_23-Jan-2008 "DSDP/TM/Committer Phone Meeting 23-Jan-2008") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_12-Dec-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_12-Dec-2007))

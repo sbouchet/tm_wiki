@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 27-Nov-2007
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Tuesday [Nov 27, 2007](/index.php?title=Nov_27,_2007&action=edit&redlink=1 "Nov 27, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Tuesday [Nov 27, 2007](./index.php?title=Nov_27,_2007&action=edit&redlink=1 "Nov 27, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=11&day=27&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 14-Nov-2007](/DSDP/TM/Committer_Phone_Meeting_14-Nov-2007 "DSDP/TM/Committer Phone Meeting 14-Nov-2007")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 14-Nov-2007](./DSDP/TM/Committer_Phone_Meeting_14-Nov-2007 "DSDP/TM/Committer Phone Meeting 14-Nov-2007")
 
 ### Current Work
 
@@ -49,7 +49,7 @@ Agenda
 *   **[BugDay](https://wiki.eclipse.org/BugDay/November_2007)** this Friday November 30 -- currently 23 bugs marked for BugDay
     *   Kushal and Kevin started the [RSE World blog](http://rseworld.blogspot.com/2007/11/target-management-202-released.html), will write about BugDay
 *   Bug Fixing - **Remember our 2-fix-per-week / 3 unittests-per-milestone plan**
-    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 10 weeks / 2 milestones, so each committer is due 20 fixes / 6 unittests
+    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 10 weeks / 2 milestones, so each committer is due 20 fixes / 6 unittests
     *   Current situation is on [this bugzilla report](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=&y_axis_field=assigned_to&z_axis_field=&query_format=report-table&classification=DSDP&product=Target+Management&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&chfieldfrom=2007-09-17&chfieldto=Now&chfield=bug_status&chfieldvalue=RESOLVED&format=table&action=wrap): DaveM 43, MichaelS 31, Martin 20, Xuan 13, Kevin 12, Javier 4, Uwe 3, DaveD 3
     *   Also grab simple bugs to get the count down -- that's what Rupen's doing
     *   Unittests: Xuan, DaveM, Javier added some; Martin 0; not sure about others; Martin will add Releng scripts next
@@ -80,7 +80,7 @@ Agenda
 *   **Kevin:** \- [bug 208778](https://bugs.eclipse.org/bugs/show_bug.cgi?id=208778) EFS#APPEND
 *   **Xuan:** \- Tar handling; some IBM issues on the side
 *   **Javier:** \- Been on vacation last week; some Symbian stuff right now; cannot promise the bugcount promise
-*   **Martin:** \- Worked on [TCF](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ"); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
+*   **Martin:** \- Worked on [TCF](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ"); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
 *   **Uwe:** \- Did some fix to the New Connection Wizard first page (systemType selection)
 *   **Rupen:** \- [bug 210682](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210682) \- Discussion on scope of enhancement? Discussions on which buttons will/should be used in the new renaming dialog. Should the rename button even exist?
     *   DaveM: Rename makes sense for a single file, but not for multiple files (one easily loses track)
@@ -99,20 +99,20 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_14-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 14-Nov-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_14-Nov-2007#Action_Items "DSDP/TM/Committer Phone Meeting 14-Nov-2007") Action Items
 *   **DaveD**: fixes, unit tests
 *   **DaveM**: Ask committers about multi-property-dialog; fixes, unit tests; ask Violaine about [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704)
 *   **Xuan**: fixes, unit tests
 *   **Kevin**: fixes, unit tests
 *   **Martin**: Update bugzilla's; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](/DSDP/TM/Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 12-Dec-2007](/DSDP/TM/Committer_Phone_Meeting_12-Dec-2007 "DSDP/TM/Committer Phone Meeting 12-Dec-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=12&day=12&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (without Kevin and Rupen)
+*   Monthly [DSDP/TM/Phone Meeting 5-Dec-2007](./DSDP/TM/Phone_Meeting_5-Dec-2007 "DSDP/TM/Phone Meeting 5-Dec-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=5&year=2007&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 12-Dec-2007](./DSDP/TM/Committer_Phone_Meeting_12-Dec-2007 "DSDP/TM/Committer Phone Meeting 12-Dec-2007") at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=12&day=12&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) (without Kevin and Rupen)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_27-Nov-2007](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_27-Nov-2007))
