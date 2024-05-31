@@ -3,7 +3,7 @@
 DSDP/TM/Meetings/17-Jun-2009 Committer
 ======================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")‎ | [Meetings](/DSDP/TM/Meetings "DSDP/TM/Meetings")
+< [TM](./TM "DSDP/TM")‎ | [Meetings](./Meetings "DSDP/TM/Meetings")
 
 *   Attendees: Xuan, Kevin, Anna, Martin
 
@@ -14,7 +14,7 @@ DSDP/TM/Meetings/17-Jun-2009 Committer
     *   Bugzilla milestones (ASAP)
     *   New&Noteworthy until end of the week (Martin to send E-Mail).
 
-*   Next [DSDP/TM/Meetings/5-Aug-2009](/DSDP/TM/Meetings/5-Aug-2009 "DSDP/TM/Meetings/5-Aug-2009")
+*   Next [DSDP/TM/Meetings/5-Aug-2009](./5-Aug-2009 "DSDP/TM/Meetings/5-Aug-2009")
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Meetings/17-Jun-2009_Committer](https://wiki.eclipse.org//DSDP/TM/Meetings/17-Jun-2009_Committer))

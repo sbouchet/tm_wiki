@@ -3,7 +3,7 @@
 RSE 1.0 Known Issues and Workarounds
 ====================================
 
-Nav: [DSDP/TM](./DSDP/TM "DSDP/TM") | [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Known Issues and Workarounds
+Nav: [DSDP/TM](./TM "DSDP/TM") | [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Known Issues and Workarounds
 
 * * *
 

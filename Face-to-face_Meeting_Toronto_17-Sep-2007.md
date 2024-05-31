@@ -3,7 +3,7 @@
 DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007
 ================================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 The meeting is primarily planned as a hands-on coding camp for contributors, with in-depth discussions about current and future TM/RSE architecture and hard problems, also involving looking right at the code.
 
@@ -15,7 +15,7 @@ Location and Dates
 *   Location:
     *   IBM Toronto Development Labs, Warden Ave between Highway 407 and Highway 7, Markham
     *   Suggested Hotel: [Hilton Suites Hotel & Conference Centre Toronto/Markham](http://www.hilton.com/en/hi/hotels/index.jhtml;jsessionid=4KXATC2AU1HHJJ31AOQMISQ?ctyhocn=YYZAPHF), Phone 905 470-8500
-    *   For more hotel options, directions and other details, see the [DD 22-Feb-2006 meeting Logistics](./DSDP-DD_Face-to-face_Toronto_22-Feb-2006#Logistics "DSDP-DD Face-to-face Toronto 22-Feb-2006")
+    *   For more hotel options, directions and other details, see the [DD 22-Feb-2006 meeting Logistics](https://wiki.eclipse.org/DSDP-DD_Face-to-face_Toronto_22-Feb-2006#Logistics "DSDP-DD Face-to-face Toronto 22-Feb-2006")
     *   **The meeting is in Toronto Sep 17/18 and NOT in Chicago with the [Eclipse Members Meeting](http://dev.eclipse.org/mhonarc/lists/eclipse.org-committers/msg00377.html) as previously announced!**
 *   Exact time and Agenda are tentative, details will follow late July:
     *   Mon Sep/17: 0900-1700, **Planning**
