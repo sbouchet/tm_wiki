@@ -3,7 +3,7 @@
 RSE 1.0RC1 Known Issues and Workarounds
 =======================================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0RC1 Known Issues and Workarounds
+Nav: [DSDP/TM](./TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0RC1 Known Issues and Workarounds
 
 * * *
 
@@ -26,7 +26,7 @@ See the [Open P1, P2 bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_forma
 | [160293](https://bugs.eclipse.org/bugs/show_bug.cgi?id=160293) | RSE perspective doesn't start if only Core is installed | Install at least a service plugin (SSH, FTP...) |
 | [140412](https://bugs.eclipse.org/bugs/show_bug.cgi?id=140412) | Moving files on a remote FTP server doesn't work | Not implemented yet |
 
-(Back to [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
+(Back to [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_1.0RC1_Known_Issues_and_Workarounds](https://wiki.eclipse.org/RSE_1.0RC1_Known_Issues_and_Workarounds))
