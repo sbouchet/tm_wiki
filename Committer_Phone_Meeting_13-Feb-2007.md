@@ -3,7 +3,7 @@
 DSDP/TM/Committer Phone Meeting 13-Feb-2007
 ===========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |

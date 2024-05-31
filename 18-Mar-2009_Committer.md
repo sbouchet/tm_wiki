@@ -3,11 +3,11 @@
 DSDP/TM/Meetings/18-Mar-2009 Committer
 ======================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")‎ | [Meetings](./Meetings "DSDP/TM/Meetings")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")‎ | [Meetings](./Meetings "DSDP/TM/Meetings")
 
 | Meeting Title: | **TM Monthly Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Mar 18, 2009](./index.php?title=Mar_18,_2009&action=edit&redlink=1 "Mar 18, 2009 (page does not exist)") at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=18&year=2009&hour=17&min=00&sec=0&p1=0)   ![Html.gif](./images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](./images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
+| Date & Time: | Wednesday Mar 18, 2009 at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=18&year=2009&hour=17&min=00&sec=0&p1=0)   ![Html.gif](./images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](./images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
 | Dial-in: | Martin to call everybody by Skype   Interested Parties ping **martin.oberhuber** on Skype Chat for getting added to the call. |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**

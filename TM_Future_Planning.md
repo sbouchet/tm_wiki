@@ -3,7 +3,7 @@
 TM Future Planning
 ==================
 
-< [DSDP](./DSDP "DSDP") | [TM](./TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP") | [TM](./TM "DSDP/TM")
 
 Collect input for the planning process for next year's DSDP Target Management Release (**Eclipse Ganymede train, tentatively TM 3.0, June 2008**) as well as the upcoming service releases (DSDP-TM 2.0.x). Goals of this page are
 

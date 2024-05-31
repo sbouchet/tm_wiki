@@ -3,7 +3,7 @@
 DSDP/TM/Phone Meeting 6-Jun-2007
 ================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
