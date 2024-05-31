@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 9-Apr-2008
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Apr 9, 2008](/index.php?title=Apr_9,_2008&action=edit&redlink=1 "Apr 9, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Apr 9, 2008](./index.php?title=Apr_9,_2008&action=edit&redlink=1 "Apr 9, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -41,7 +41,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 26-Mar-2008](/DSDP/TM/Committer_Phone_Meeting_26-Mar-2008 "DSDP/TM/Committer Phone Meeting 26-Mar-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 26-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_26-Mar-2008 "DSDP/TM/Committer Phone Meeting 26-Mar-2008")
 *   **Skype Call Quality**
     *   Dropouts for Xuan today, rest was good; Javier failed to join
 
@@ -49,7 +49,7 @@ Notes
 
 *   **Unit Tests** \- next priority after API
 *   Will migrate to new Releng after M6 (adopt P2, nightly tests, signing etc... too risky for now, focus on API)
-*   Adopting [Api Tooling](/Api_Tooling "Api Tooling"): all API Leaks done except one, see below
+*   Adopting [Api Tooling](./Api_Tooling "Api Tooling"): all API Leaks done except one, see below
 
 *   **API changes to vote on:**
     *   [bug 218685](https://bugs.eclipse.org/bugs/show_bug.cgi?id=218685) \- SSH timeout - **AI DaveM** to contact the reporter
@@ -100,7 +100,7 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_26-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 26-Mar-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_26-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 26-Mar-2008") Action Items
 *   **Everyone**: Review API patches as announced on mailing list, vote +1 on the bug
 *   **Rupen**:
 *   **DaveD**: Finish profile import/export; Update [bug 221211](https://bugs.eclipse.org/bugs/show_bug.cgi?id=221211) IFileService multi-commands Javadoc
@@ -108,15 +108,15 @@ Action Items
 *   **Xuan**: [bug 221138](https://bugs.eclipse.org/bugs/show_bug.cgi?id=221138) move SystemSelectRemoteFileOrFolderDialog and related to internal; Use Kevin's Properties for Unit Tests
 *   **Kevin**: Website Updates
 *   **Martin**: Add API patches; New Project Plan; Ganymede Rampdown Plan; Commons Net Placeholder CQ; UI/Non-UI Splitting; finish new releng; Look at PropertyDescriptor issues; unit tests
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 16-Apr-2008](/DSDP/TM/Committer_Phone_Meeting_16-Apr-2008 "DSDP/TM/Committer Phone Meeting 16-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=16&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Next [BugDay/April_2008](/BugDay/April_2008 "BugDay/April 2008") on Apr 25
-*   Monthly [DSDP/TM/Phone Meeting 7-May-2008](/DSDP/TM/Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=7&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 16-Apr-2008](./DSDP/TM/Committer_Phone_Meeting_16-Apr-2008 "DSDP/TM/Committer Phone Meeting 16-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=16&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Next [BugDay/April_2008](./BugDay/April_2008 "BugDay/April 2008") on Apr 25
+*   Monthly [DSDP/TM/Phone Meeting 7-May-2008](./DSDP/TM/Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=7&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Apr-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Apr-2008))

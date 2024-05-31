@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 17-Dec-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Dec 17, 2008](/index.php?title=Dec_17,_2008&action=edit&redlink=1 "Dec 17, 2008 (page does not exist)") at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=17&year=2008&hour=17&min=00&sec=0&p1=0)   ![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
+| Date & Time: | Wednesday [Dec 17, 2008](./index.php?title=Dec_17,_2008&action=edit&redlink=1 "Dec 17, 2008 (page does not exist)") at [1700 UTC / 12pm Toronto](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=17&year=2008&hour=17&min=00&sec=0&p1=0)   ![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
 | Dial-in: | Martin to call everybody by Skype   Interested Parties ping **martin.oberhuber** on Skype Chat for getting added to the call. |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -47,8 +47,8 @@ Agenda
 
 ### Last Meetings
 
-*   Last [DSDP/TM/Phone Meeting 3-Dec-2008](/DSDP/TM/Phone_Meeting_3-Dec-2008 "DSDP/TM/Phone Meeting 3-Dec-2008")
-*   Last [DSDP/TM/Committer Phone Meeting 26-Nov-2008](/DSDP/TM/Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 26-Nov-2008")
+*   Last [DSDP/TM/Phone Meeting 3-Dec-2008](./DSDP/TM/Phone_Meeting_3-Dec-2008 "DSDP/TM/Phone Meeting 3-Dec-2008")
+*   Last [DSDP/TM/Committer Phone Meeting 26-Nov-2008](./DSDP/TM/Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 26-Nov-2008")
 *   Skype Call Quality - excellent this time
 
 ### Update on RSE Status
@@ -61,7 +61,7 @@ Agenda
 #### TM 3.1 Big Rocks
 
 *   **TM 3.1 Big Rocks / New Features** \- See also the [TM 3.1 plan](https://www.eclipse.org/projects/project-plan.php?projectid=dsdp.tm)
-    *   See also the [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ")
+    *   See also the [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ")
 *   **Martin:**
     *   [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) RSE Synchronisation (GSOC contribution) - planned for M4
     *   [bug 256581](https://bugs.eclipse.org/bugs/show_bug.cgi?id=256581) SSH performance improvement
@@ -124,7 +124,7 @@ Agenda
 
 *   TM 3.1m4 officially due on Monday Dec 29 -- Martin can release on Dec 23 -- need a candidate ready by Friday Dec 19 !
 *   [3.1M3 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.0&target_milestone=3.0.1&target_milestone=3.1+M2&target_milestone=3.1+M3&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- **AI Everyone** reassign target milestone as appropriate
-*   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](/DSDP/TM/3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
+*   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./DSDP/TM/3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
 
 ### Questions
 
@@ -139,16 +139,16 @@ Vacations
 Action Items
 ------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 3-Dec-2008](/DSDP/TM/Phone_Meeting_3-Dec-2008 "DSDP/TM/Phone Meeting 3-Dec-2008")
-*   Last [DSDP/TM/Committer Phone Meeting 26-Nov-2008](/DSDP/TM/Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 26-Nov-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 3-Dec-2008](./DSDP/TM/Phone_Meeting_3-Dec-2008 "DSDP/TM/Phone Meeting 3-Dec-2008")
+*   Last [DSDP/TM/Committer Phone Meeting 26-Nov-2008](./DSDP/TM/Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 26-Nov-2008")
 *   **Everyone** find/triage "big rock" bugs for 3.1 and increase priority / set target milestone (may decrease priority on others).
 *   **Martin** send E-Mail to Xuan and Kevin asking for another meeting for big rocks
 
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 7-Jan-2009](/DSDP/TM/Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009") (2 weeks after)
-*   Next [DSDP/TM/Meetings/21-Jan-2009 Committer](/DSDP/TM/Meetings/21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer") (4 weeks after)
+*   Next [DSDP/TM/Phone Meeting 7-Jan-2009](./DSDP/TM/Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009") (2 weeks after)
+*   Next [DSDP/TM/Meetings/21-Jan-2009 Committer](./DSDP/TM/Meetings/21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Dec-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Dec-2008))

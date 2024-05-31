@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 25-Jun-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [June 25, 2008](/index.php?title=June_25,_2008&action=edit&redlink=1 "June 25, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=25&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [June 25, 2008](./index.php?title=June_25,_2008&action=edit&redlink=1 "June 25, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=25&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -25,7 +25,7 @@ Attendees
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 9-Jun-2008](/DSDP/TM/Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 9-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008")
 
 *   Quick update on Ganymede:
     *   TM 3.0 Download bits manually signed by Martin (just re-using the signed bits from the update site)
@@ -34,8 +34,8 @@ Notes
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](/DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 16-Jul-2008](/DSDP/TM/Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=7&day=16&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](./DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 16-Jul-2008](./DSDP/TM/Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=7&day=16&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_25-Jun-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_25-Jun-2008))

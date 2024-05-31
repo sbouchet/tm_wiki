@@ -3,7 +3,7 @@
 TM Future Planning
 ==================
 
-< [DSDP](/DSDP "DSDP") | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP") | [TM](./DSDP/TM "DSDP/TM")
 
 Collect input for the planning process for next year's DSDP Target Management Release (**Eclipse Ganymede train, tentatively TM 3.0, June 2008**) as well as the upcoming service releases (DSDP-TM 2.0.x). Goals of this page are
 
@@ -11,11 +11,11 @@ Collect input for the planning process for next year's DSDP Target Management Re
 *   Find out who needs what features
 *   Find out who would be willing to work on what
 
-**This is a collaborative Wiki**, so everyone in the community is welcome to contribute to the discussion by simply modifying the page. **Please sign up by declaring your interest or willingess to contribute** on the individual items below. Our Themes and Priorities need to be aligned with the global and DSDP [Requirements](/RequirementsCouncil06TP#Embedded_Device_Software "RequirementsCouncil06TP"). As soon as a feature description is sufficiently clear and there is some group supporting a feature, Bugzilla entries should be used for tracking requests. When finalizing the plan, bugzilla plan items will be created for grouping related work items together in order to track them.
+**This is a collaborative Wiki**, so everyone in the community is welcome to contribute to the discussion by simply modifying the page. **Please sign up by declaring your interest or willingess to contribute** on the individual items below. Our Themes and Priorities need to be aligned with the global and DSDP [Requirements](./RequirementsCouncil06TP#Embedded_Device_Software "RequirementsCouncil06TP"). As soon as a feature description is sufficiently clear and there is some group supporting a feature, Bugzilla entries should be used for tracking requests. When finalizing the plan, bugzilla plan items will be created for grouping related work items together in order to track them.
 
-An initial plan was discussed in the [Committer Phone Meeting on 22-May-2007](/DSDP/TM/Committer_Phone_Meeting_22-May-2007 "DSDP/TM/Committer Phone Meeting 22-May-2007").
+An initial plan was discussed in the [Committer Phone Meeting on 22-May-2007](./DSDP/TM/Committer_Phone_Meeting_22-May-2007 "DSDP/TM/Committer Phone Meeting 22-May-2007").
 
-More discussions will be at the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007").
+More discussions will be at the [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007").
 
 Contents
 --------
@@ -38,7 +38,7 @@ Contents
 TM 2.0.x Planning
 -----------------
 
-*   TM 2.0.1 and 2.0.2 to be aligned with [Europa Simultaneous Release](/Europa_Simultaneous_Release "Europa Simultaneous Release") Service Releases in autumn and spring 08 respectively
+*   TM 2.0.1 and 2.0.2 to be aligned with [Europa Simultaneous Release](./Europa_Simultaneous_Release "Europa Simultaneous Release") Service Releases in autumn and spring 08 respectively
     *   No major feature additions; focus on unit tests, ISV Docs
         *   Probably adding RSE Terminal integration
 *   Work on unittests, isv docs over the summer can also be done in HEAD, forking off the mainline in autumn
@@ -62,7 +62,7 @@ TM 3.0 (Ganymede) Planning
 ### Planning and Priorities
 
 *   We have consensus to work towards TM 3.0 for Ganymede (rather than 2.1) so we'll allow API changes but keep them as small as possible. However, "getting things right" is agreed to be more important than being backward compatible.
-*   Discussion and finalization of priorities into plan items will be at the [DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/index.php?title=DSDP/TM/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007&action=edit&redlink=1 "DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007 (page does not exist)").
+*   Discussion and finalization of priorities into plan items will be at the [DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./index.php?title=DSDP/TM/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007&action=edit&redlink=1 "DSDP/TM/DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007 (page does not exist)").
 *   **Top 10 Priorities:**
     *   1 - (All) **Quality**, Maintenance, Reduce bug backlog. Add unit tests. Clean up old implementations, get rid of obsolete code.
         *   1a - (WR, IBM) **Improve UI**, Adhere to Guidelines, Better Wizard UI, Componentize connection/subsystem/services
@@ -134,7 +134,7 @@ TM 3.0 (Ganymede) Planning
     *   Improve the RSE DnD Framework to support extenders plug-in transfer types for specific objects in their own remote systems (Newsgroup: [Uday Kabe, Lotus Notes](http://dev.eclipse.org/newslists/news.eclipse.dsdp.tm/msg00173.html)
 *   Provide a generic filtering framework (through OQL)
 *   Improve the **connection data model**, being a store for IP-Xact data about hardware
-    *   remote system properties as defined by the [Spirit group](/DSDP/DD/Spirit "DSDP/DD/Spirit")
+    *   remote system properties as defined by the [Spirit group](./DSDP/DD/Spirit "DSDP/DD/Spirit")
 *   Re-think RSE SystemMessages: Do we need XML when we have Eclipse NLS / Java MessageFormat?
     *   E.g. DStore\_Service\_Percent\_Complete\_Message -- multiple transformations for substitution
 
@@ -155,7 +155,7 @@ TM 3.0 (Ganymede) Planning
 
 *   Interest: Broadcom, WR, IBM
 *   Contribute: Broadcom (Contribute Launch), WR (Lab Manager), IBM (IBM Contributions)
-*   Contribute Broadcom **Launch Actions**, improve Launching as defined by the [Launching group](/DSDP/TM/Launching "DSDP/TM/Launching")
+*   Contribute Broadcom **Launch Actions**, improve Launching as defined by the [Launching group](./DSDP/TM/Launching "DSDP/TM/Launching")
     *   Currently being discussed with Robert Norton on the dsd-tm-dev list
     *   ILaunchAction may also be used for board lab hooks
 *   Add hooks for **Remote Lab Manager** support
@@ -174,7 +174,7 @@ TM 3.0 (Ganymede) Planning
 
 *   Interest: WR
 *   Contribute:
-*   Support target groups as defined by the [Connection Groups initiative](/DSDP/TM/Connection_Groups "DSDP/TM/Connection Groups")
+*   Support target groups as defined by the [Connection Groups initiative](./DSDP/TM/Connection_Groups "DSDP/TM/Connection Groups")
 *   Filters on 1st level of System View ([164807](https://bugs.eclipse.org/bugs/show_bug.cgi?id=164807))
 *   View for working with multiple shells concurrently exists
 *   Right now we have grouping by profiles
@@ -207,7 +207,7 @@ Archive of previous plans
 
 *   See the [official TM 2.0 Project Plan](https://www.eclipse.org/dsdp/tm/development/tm_project_plan_2_0.html) for details on target environment, plans and timing.
 *   See bugzilla [plan items](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&keywords_type=allwords&keywords=plan&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&order=Assignee) for latest status of items.
-*   See the [Europa Simultaneous Release](/Europa_Simultaneous_Release "Europa Simultaneous Release") page for coordinated release issues.
+*   See the [Europa Simultaneous Release](./Europa_Simultaneous_Release "Europa Simultaneous Release") page for coordinated release issues.
 
   
 

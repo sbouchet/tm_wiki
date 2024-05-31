@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 17-Sep-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [September 17, 2008](/index.php?title=September_17,_2008&action=edit&redlink=1 "September 17, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=9&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)   ![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
+| Date & Time: | Wednesday [September 17, 2008](./index.php?title=September_17,_2008&action=edit&redlink=1 "September 17, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=9&day=17&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)   ![Html.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Html.gif)[HTML](http://www.google.com/calendar/embed?src=vn70im36r00qeusu8nme50cils@group.calendar.google.com&ctz=Canada/Toronto) \| ![Ical.gif](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/Ical.gif)[iCal](http://www.google.com/calendar/ical/vn70im36r00qeusu8nme50cils@group.calendar.google.com/public/basic.ics) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -50,13 +50,13 @@ Attendees
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 3-Sep-2008](/DSDP/TM/Phone_Meeting_3-Sep-2008 "DSDP/TM/Phone Meeting 3-Sep-2008")
-*   Prev meeting: [DSDP/TM/Committer Phone Meeting 20-Aug-2008](/DSDP/TM/Committer_Phone_Meeting_20-Aug-2008 "DSDP/TM/Committer Phone Meeting 20-Aug-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 3-Sep-2008](./DSDP/TM/Phone_Meeting_3-Sep-2008 "DSDP/TM/Phone Meeting 3-Sep-2008")
+*   Prev meeting: [DSDP/TM/Committer Phone Meeting 20-Aug-2008](./DSDP/TM/Committer_Phone_Meeting_20-Aug-2008 "DSDP/TM/Committer Phone Meeting 20-Aug-2008")
 *   **Skype Call Quality**
 
 ### **Status**
 
-*   Shooting for 3.0.1 final run this week, will branch off on Aug 26 as per [DSDP/TM/3.0 Ramp down Plan for Ganymede#Ramp down for Ganymede SR1 (Sep 24, 2008)](/DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede#Ramp_down_for_Ganymede_SR1_.28Sep_24.2C_2008.29 "DSDP/TM/3.0 Ramp down Plan for Ganymede"), see also [#Bugs](#Bugs) below.
+*   Shooting for 3.0.1 final run this week, will branch off on Aug 26 as per [DSDP/TM/3.0 Ramp down Plan for Ganymede#Ramp down for Ganymede SR1 (Sep 24, 2008)](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede#Ramp_down_for_Ganymede_SR1_.28Sep_24.2C_2008.29 "DSDP/TM/3.0 Ramp down Plan for Ganymede"), see also [#Bugs](#Bugs) below.
     *   **Please get anything risky and hi-priority in this week!**
 *   **Anna**: Now also contributing to TCF
 *   **DaveD**:
@@ -131,8 +131,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 1-Oct-2008](/DSDP/TM/Phone_Meeting_1-Oct-2008 "DSDP/TM/Phone Meeting 1-Oct-2008") (2 weeks) at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=10&day=1&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 15-Oct-2008](/DSDP/TM/Committer_Phone_Meeting_15-Oct-2008 "DSDP/TM/Committer Phone Meeting 15-Oct-2008") (4 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=10&day=15&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 1-Oct-2008](./DSDP/TM/Phone_Meeting_1-Oct-2008 "DSDP/TM/Phone Meeting 1-Oct-2008") (2 weeks) at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=10&day=1&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 15-Oct-2008](./DSDP/TM/Committer_Phone_Meeting_15-Oct-2008 "DSDP/TM/Committer Phone Meeting 15-Oct-2008") (4 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=10&day=15&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Sep-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Sep-2008))

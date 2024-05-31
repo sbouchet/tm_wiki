@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 20-Feb-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Feb 20, 2008](/index.php?title=Feb_20,_2008&action=edit&redlink=1 "Feb 20, 2008 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=2&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Feb 20, 2008](./index.php?title=Feb_20,_2008&action=edit&redlink=1 "Feb 20, 2008 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=2&day=20&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -38,7 +38,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 6-Feb-2008](/DSDP/TM/Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 6-Feb-2008](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008")
 
 ### Current Work
 
@@ -54,7 +54,7 @@ Notes
         *   Xuan will be running checkpii tool
     *   **Hi-pri-bugs; apply patches**
         *   Community Contributions from **Radoslav Gerganov**, **Johnson Ma** (tgz handler)
-    *   **[TM 2.0.3](/TM_2.0_Ramp_down_Plan_for_Europa#Ramp_down_for_Europa_SR2_.2829-Feb-2007.29 "TM 2.0 Ramp down Plan for Europa")** upcoming Feb.29 -- [2.0.3 assigned bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&target_milestone=2.0.3&cmdtype=doit)
+    *   **[TM 2.0.3](./TM_2.0_Ramp_down_Plan_for_Europa#Ramp_down_for_Europa_SR2_.2829-Feb-2007.29 "TM 2.0 Ramp down Plan for Europa")** upcoming Feb.29 -- [2.0.3 assigned bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&target_milestone=2.0.3&cmdtype=doit)
 *   **Planning** \- **AI Martin** to write up what we discussed in Toronto
     *   Think about assigning bugs to target milestones. What goes into 3.0 and what not?
 *   TM Website
@@ -62,7 +62,7 @@ Notes
     *   dsdp.eclipse.org now also holds the website (build.eclipse.org will do soon) in order to support auto-builds, relnotes, searchcvs
     *   Martin incorporated some of Kevin's suggestions (new "Bugs" link; left-menu)
 *   Bug Fixing - **Remember our 2-fix-per-week / 3 unittests-per-milestone plan**
-    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 22 weeks / 4 milestones, so each committer is due 44 fixes / 8 unittests
+    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 22 weeks / 4 milestones, so each committer is due 44 fixes / 8 unittests
     *   Current situation is on [this bugzilla report](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=&y_axis_field=assigned_to&z_axis_field=&query_format=report-table&classification=DSDP&product=Target+Management&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&chfieldfrom=2007-09-17&chfieldto=Now&chfield=bug_status&chfieldvalue=RESOLVED&format=table&action=wrap&negate0=1&field0-0-0=resolution&type0-0-0=equals&value0-0-0=DUPLICATE)
     *   Unittests: when adding a test, please add the tag **//-test-author:YourName** in front of it
         *   DaveM - 5
@@ -110,23 +110,23 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_6-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 6-Feb-2008") Action Items
 *   **Everyone**: Review [bug 216252](https://bugs.eclipse.org/bugs/show_bug.cgi?id=216252) SystemMessages refactoring
 *   **DaveD**: Fix [bug 219101](https://bugs.eclipse.org/bugs/show_bug.cgi?id=219101) HostMoveTest
 *   **DaveM**: Use Properties for Unit Tests
 *   **Xuan**: Use Properties for Unit Tests
 *   **Kevin**: Use Properties for Unit Tests; Website Updates
 *   **Martin**: Add UserActions to build/downloads; finish new releng; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Newsgroup
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   Next [BugDay/February_2008](/BugDay/February_2008 "BugDay/February 2008") on Feb 29
+*   Next [BugDay/February_2008](./BugDay/February_2008 "BugDay/February 2008") on Feb 29
 *   EclipseCon March 17-20: Martin, Michael - no other committers
-*   [DSDP/TM/Committer Phone Meeting 5-Mar-2008](/DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](/DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](./DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_20-Feb-2008))

@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 6-Feb-2008
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [Feb 6, 2008](/index.php?title=Feb_6,_2008&action=edit&redlink=1 "Feb 6, 2008 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=6&year=2008&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [Feb 6, 2008](./index.php?title=Feb_6,_2008&action=edit&redlink=1 "Feb 6, 2008 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=6&year=2008&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -36,8 +36,8 @@ Notes
 
 ### Update on RSE Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org
-*   **Project Plan Status** \- still on the [TM Future Planning](/TM_Future_Planning "TM Future Planning") page only
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org
+*   **Project Plan Status** \- still on the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page only
     *   Bugzilla plan items as well as an "official" project plan will be done
     *   Focus on TCF; RSE bug-fixes and quality; UI/Non-UI splitting; Import/Export of Profiles
 *   **Codebase status** \- API changes for TM 3.0 in HEAD stream - See recent 3.0M4 build notes
@@ -72,12 +72,12 @@ Notes
 Action Items to Review
 ----------------------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 9-Jan-2008](/DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 9-Jan-2008](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008")
 
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 5-Mar-2008](/DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") (4 weeks after)
+*   Next [DSDP/TM/Phone Meeting 5-Mar-2008](./DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_6-Feb-2008](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_6-Feb-2008))

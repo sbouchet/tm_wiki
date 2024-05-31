@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 26-Mar-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Mar 26, 2008](/index.php?title=Mar_26,_2008&action=edit&redlink=1 "Mar 26, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=26&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Mar 26, 2008](./index.php?title=Mar_26,_2008&action=edit&redlink=1 "Mar 26, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=26&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -42,7 +42,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Mar-2008](/DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008")
 *   **Skype Call Quality**
     *   Good most of the time with few dropouts (7 participants). Javier had trouble connecting, needed 4 retries.
 
@@ -57,7 +57,7 @@ Notes
     *   [DSDP BOF](http://www.eclipsecon.org/2008/?page=sub/&id=582) \- towards two "packages" of DSDP projects for mobile Java / device development, likely with P2 installer but on SourceForge due to needing GPL for cross-compilers / emulators
     *   [RTSC](http://www.eclipsecon.org/2008/?page=sub/&id=213) and [NAB](http://www.eclipsecon.org/2008/?page=sub/&id=37) were excellent talks from DSDP
 *   Big Press hype about Microsoft envolvement in Eclipse but rather [disappointing keynote](http://douggaff.blogspot.com/2008/03/eclipsecon-08-we-barely-knew-ye.html) by Sam Ramji - though the EMO likes to [see things positive](http://feeds.feedburner.com/~r/IanSkerrett/~3/254405704/). Still, the [facts are](http://ed-merks.blogspot.com/2008/03/eclipsecon-wednesday.html): no commitment yet by MS but wants to help out in SWT-WPF port and Higgins-Cardspace
-*   Eclipse 4.0 aka [E4](/E4 "E4"): IBM/RAP want to webalize SWT, which may be a good thing in terms of architecture but is not the whole story: need to collect requirements from all the community in a suitable forum, and a face-to-face kickoff meeting
+*   Eclipse 4.0 aka [E4](./E4 "E4"): IBM/RAP want to webalize SWT, which may be a good thing in terms of architecture but is not the whole story: need to collect requirements from all the community in a suitable forum, and a face-to-face kickoff meeting
     *   In general, it looks like the community is dozing a little wrt Platform - no exciting new talks, no exciting new features but much more breadth of community. Also, OSGi is gaining even more momentum, new Eclipse RT (Runtime) toplevel project started
 *   Played with [DTP / SQL Query Builder](http://www.eclipsecon.org/2008/?page=sub/&id=117), [BIRT Charting](http://www.eclipsecon.org/2008/?page=sub/&id=173)
 *   [Eclipse Command Language (ECL)](http://www.eclipsecon.org/2008/?page=sub/&id=272) looked very interesting
@@ -72,7 +72,7 @@ Notes
 *   NLS Fixes - few still missing, see [mailing list](http://dev.eclipse.org/mhonarc/lists/dsdp-tm-dev/msg01723.html) \- **must have for M6** \- **AI Javier, DaveM**
 *   **Unit Tests** \- next priority after API
 *   Will migrate to new Releng after M6 (adopt P2, nightly tests, signing etc... too risky for now, focus on API)
-*   Adopting [Api Tooling](/Api_Tooling "Api Tooling"): Martin tried it out for some plugins - renaming (CANCELLED->CANCELED) is not very well reflected - martin filed [bug 222905](https://bugs.eclipse.org/bugs/show_bug.cgi?id=222905) \- but we might want to rev down org.eclipse.rse.services from 3.0.0 back to 2.1.0
+*   Adopting [Api Tooling](./Api_Tooling "Api Tooling"): Martin tried it out for some plugins - renaming (CANCELLED->CANCELED) is not very well reflected - martin filed [bug 222905](https://bugs.eclipse.org/bugs/show_bug.cgi?id=222905) \- but we might want to rev down org.eclipse.rse.services from 3.0.0 back to 2.1.0
     *   No action item for us right now, Martin will adopt after M6
 
 ### **Hi-pri-bugs; community contributions; apply patches**
@@ -133,7 +133,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_5-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Mar-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_5-Mar-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Mar-2008") Action Items
 *   **Everyone**: Review [bug 217894](https://bugs.eclipse.org/bugs/show_bug.cgi?id=217894) subsystem configuration families
 *   **Rupen**: Merge [bug 210682](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210682) multi-copy patch
 *   **DaveD**: Finish profile import/export; Update [bug 221211](https://bugs.eclipse.org/bugs/show_bug.cgi?id=221211) IFileService multi-commands Javadoc
@@ -141,15 +141,15 @@ Action Items
 *   **Xuan**: Finish PropertyFileAdapter stuff; Use Kevin's Properties for Unit Tests
 *   **Kevin**: Website Updates
 *   **Martin**: New Project Plan; Ganymede Rampdown Plan; Commons Net Placeholder CQ; UI/Non-UI Splitting; finish new releng; Look at PropertyDescriptor issues; unit tests
-*   **Javier**: NLS fixes in discovery and FTP; [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: NLS fixes in discovery and FTP; [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   Next [BugDay/March_2008](/BugDay/March_2008 "BugDay/March 2008") on Mar 28
-*   Monthly [DSDP/TM/Phone Meeting 2-Apr-2008](/DSDP/TM/Phone_Meeting_2-Apr-2008 "DSDP/TM/Phone Meeting 2-Apr-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 9-Apr-2008](/DSDP/TM/Committer_Phone_Meeting_9-Apr-2008 "DSDP/TM/Committer Phone Meeting 9-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
+*   Next [BugDay/March_2008](./BugDay/March_2008 "BugDay/March 2008") on Mar 28
+*   Monthly [DSDP/TM/Phone Meeting 2-Apr-2008](./DSDP/TM/Phone_Meeting_2-Apr-2008 "DSDP/TM/Phone Meeting 2-Apr-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=4&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 9-Apr-2008](./DSDP/TM/Committer_Phone_Meeting_9-Apr-2008 "DSDP/TM/Committer Phone Meeting 9-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=9&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Mar-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_26-Mar-2008))

@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 30-Apr-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Apr 30, 2008](/index.php?title=Apr_30,_2008&action=edit&redlink=1 "Apr 30, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Barcelona+Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=30&hour=15&min=0&sec=0&p1=224&p2=159&p3=250&p4=31&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Apr 30, 2008](./index.php?title=Apr_30,_2008&action=edit&redlink=1 "Apr 30, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Barcelona+Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=30&hour=15&min=0&sec=0&p1=224&p2=159&p3=250&p4=31&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -41,14 +41,14 @@ Committers not at the call today
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 16-Apr-2008](/DSDP/TM/Committer_Phone_Meeting_16-Apr-2008 "DSDP/TM/Committer Phone Meeting 16-Apr-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 16-Apr-2008](./DSDP/TM/Committer_Phone_Meeting_16-Apr-2008 "DSDP/TM/Committer Phone Meeting 16-Apr-2008")
 *   **Skype Call Quality**
     *   Bad this time, as soon as more than 3 participants. Martin had started the conf via ADSL from home, limited bandwidth was likely the reason -- looks like the meeting organizer needs lots of bandwidth. Fell back to fixed line, Rado used Skype into the 800 conf number successfully.
 
 ### **New Stuff**
 
 *   Welcome new Committers - **Felix**, **Rado**
-*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](/DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede") \- **AI Everyone** Review again and comment on dsdp-tm-dev if any questions.
+*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede") \- **AI Everyone** Review again and comment on dsdp-tm-dev if any questions.
 *   Committers be bold and self-confident
 *   IP due diligence: "contributed" keyword and tm-log.csv; target milestone - **AI DaveD** update tm-log.csv for rupe. **AI DaveM** add contributed kwd.
 *   Javadoc API Tooling API Comments (@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- **AI Martin** Extract Eclipse SDK onto dsdp.eclipse.org and post the link; **AI Martin** post where to find textual paragraph form "method extend" variant.
@@ -79,7 +79,7 @@ Notes
 Vacation, away
 --------------
 
-*   MartinO public holiday Thurs May 1; in Ottawa for [E4/Summit](/E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
+*   MartinO public holiday Thurs May 1; in Ottawa for [E4/Summit](./E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
 *   Rupen May 8-15
 *   MartinO vacation June 11 - 22
 *   DaveM vacation June 16 - 20
@@ -88,15 +88,15 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_9-Apr-2008#Action_Items "DSDP/TM/Committer Phone Meeting 9-Apr-2008") Action Items
-*   **Everyone**: **Fix PII Issues**; **Add @noextend etc** according to [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table; Review [DSDP/TM/3.0 Ramp down Plan for Ganymede](/DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_9-Apr-2008#Action_Items "DSDP/TM/Committer Phone Meeting 9-Apr-2008") Action Items
+*   **Everyone**: **Fix PII Issues**; **Add @noextend etc** according to [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table; Review [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
 *   **DaveD**: Merge Rupens patches; Update [bug 221211](https://bugs.eclipse.org/bugs/show_bug.cgi?id=221211) IFileService multi-commands Javadoc
 *   **DaveM**: create a new "Future" bug for dstore protocol handshake, cloned from [bug 220892](https://bugs.eclipse.org/bugs/show_bug.cgi?id=220892)
 *   **Kevin**: Website Updates
 *   **Rupen**: Attach prototype patch for [bug 227213](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227213)
 *   **Xuan**: Upgrade Skype to fix quality issues; Use Kevin's Properties for Unit Tests
 *   **Martin**: New Project Plan; Commons Net Placeholder CQ; UI/Non-UI Splitting; finish new releng; Look at PropertyDescriptor issues; unit tests
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 *   **Uwe**:
 *   **Rado**:
@@ -105,8 +105,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 7-May-2008](/DSDP/TM/Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=7&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 14-May-2008](/DSDP/TM/Committer_Phone_Meeting_14-May-2008 "DSDP/TM/Committer Phone Meeting 14-May-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 7-May-2008](./DSDP/TM/Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=7&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 14-May-2008](./DSDP/TM/Committer_Phone_Meeting_14-May-2008 "DSDP/TM/Committer Phone Meeting 14-May-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=14&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_30-Apr-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_30-Apr-2008))

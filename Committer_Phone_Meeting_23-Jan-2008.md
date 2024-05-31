@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 23-Jan-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Jan 23, 2007](/index.php?title=Jan_23,_2007&action=edit&redlink=1 "Jan 23, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Jan 23, 2007](./index.php?title=Jan_23,_2007&action=edit&redlink=1 "Jan 23, 2007 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=1&day=23&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -36,8 +36,8 @@ Attendees
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Phone Meeting 9-Jan-2008](/DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008")
-*   Prev meeting: [DSDP/TM/Committer Phone Meeting 12-Dec-2007](/DSDP/TM/Committer_Phone_Meeting_12-Dec-2007 "DSDP/TM/Committer Phone Meeting 12-Dec-2007")
+*   Last meeting: [DSDP/TM/Phone Meeting 9-Jan-2008](./DSDP/TM/Phone_Meeting_9-Jan-2008 "DSDP/TM/Phone Meeting 9-Jan-2008")
+*   Prev meeting: [DSDP/TM/Committer Phone Meeting 12-Dec-2007](./DSDP/TM/Committer_Phone_Meeting_12-Dec-2007 "DSDP/TM/Committer Phone Meeting 12-Dec-2007")
 
 ### Current Work
 
@@ -51,7 +51,7 @@ Agenda
     *   Martin: Would like to discuss the intended changes before going ahead. But sure you can create any new pages that are not linked from the main page at any time.
     *   Martin: Would like to get more dynamic information onto the homepage in an automated manner e.g. automated release notes with milestones
 *   Bug Fixing - **Remember our 2-fix-per-week / 3 unittests-per-milestone plan**
-    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 14 weeks / 3 milestones, so each committer is due 28 fixes / 6 unittests
+    *   Since our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007") it's now 14 weeks / 3 milestones, so each committer is due 28 fixes / 6 unittests
     *   Current situation is on [this bugzilla report](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=&y_axis_field=assigned_to&z_axis_field=&query_format=report-table&classification=DSDP&product=Target+Management&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&chfieldfrom=2007-09-17&chfieldto=Now&chfield=bug_status&chfieldvalue=RESOLVED&format=table&action=wrap)
     *   Unittests: Xuan, DaveM, Javier added some; Martin 0; not sure about others; Martin working on Releng scripts next
 *   **Javier** busy until end of Feb; hoping to get time for hi-pri bugs (but not new features)
@@ -104,7 +104,7 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_12-Dec-2007#Action_Items "DSDP/TM/Committer Phone Meeting 12-Dec-2007") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_12-Dec-2007#Action_Items "DSDP/TM/Committer Phone Meeting 12-Dec-2007") Action Items
 *   **Everyone**: review target milestone assignments of bugs (3.0); Review Rupen's Multi-file-conflict dialog proposal
 *   **Kevin**: propose changes to TM homepage for discussion
 *   **DaveM**: \[done\] put Martin on CC of EFS/Encodign Platform bug(s); Create (or make TPF people create) bugs with use cases for extending SystemView or not
@@ -113,13 +113,13 @@ Action Items
 *   Old Action Items from previous meetings:
     *   **DaveD**: Decide whether Mac should be "primary" or "secondary" supported platform.
     *   **Martin**: Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-    *   **Javier**: document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+    *   **Javier**: document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 6-Feb-2008](/DSDP/TM/Phone_Meeting_6-Feb-2008 "DSDP/TM/Phone Meeting 6-Feb-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=6&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 6-Feb-2008](/DSDP/TM/Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=2&day=6&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 6-Feb-2008](./DSDP/TM/Phone_Meeting_6-Feb-2008 "DSDP/TM/Phone Meeting 6-Feb-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=2&day=6&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 6-Feb-2008](./DSDP/TM/Committer_Phone_Meeting_6-Feb-2008 "DSDP/TM/Committer Phone Meeting 6-Feb-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=2&day=6&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-Jan-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_23-Jan-2008))

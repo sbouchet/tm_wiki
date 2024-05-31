@@ -3,11 +3,11 @@
 DSDP/TM/Phone Meeting 2-Jul-2008
 ================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **Conference Call on Target Management** |
 | --- | --- |
-| Date & Time: | Wednesday [Jul 2, 2008](/index.php?title=Jul_2,_2008&action=edit&redlink=1 "Jul 2, 2008 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0) |
+| Date & Time: | Wednesday [Jul 2, 2008](./index.php?title=Jul_2,_2008&action=edit&redlink=1 "Jul 2, 2008 (page does not exist)") at [1600 UTC / 9am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0) |
 | Primary International Dial-in: | **+44 (0)1452 567588** |
 | USA Freephone Dial-In: | +1 (866) 6161738 |
 | UK National Dial-In: | 08712460713 |
@@ -43,8 +43,8 @@ Notes
 
 ### Last Meetings
 
-*   Last [DSDP/TM/Phone Meeting 4-Jun-2008](/DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008")
-*   Prev [DSDP/TM/Committer Phone Meeting 9-Jun-2008](/DSDP/TM/Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008")
+*   Last [DSDP/TM/Phone Meeting 4-Jun-2008](./DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008")
+*   Prev [DSDP/TM/Committer Phone Meeting 9-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008")
 
 ### Update on RSE Status
 
@@ -52,7 +52,7 @@ Notes
     *   Is the information that we give enough? (New&Noteworthy); build notes accurate until M6 only, some API changes + feature additions likely missing. Also, the concept of referencing build notes from download.eclipse.org is problematic since milestones are moved to archive.eclipse.org and even deleted eventually --> need a "summary of build notes" on a more persistent place
     *   Ganymede TM Video: features to show beyond what we have in our N&N?
     *   [bug 238574](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238574) Website Revamp? We have a bugzilla "Website" component now
-    *   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](/DSDP/TM/3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
+    *   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./DSDP/TM/3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
     *   EFS deadlock problems during early startup currently being discussed, [bug 239230](https://bugs.eclipse.org/bugs/show_bug.cgi?id=239230)
 *   **TM 3.0.1 Build Schedule**
     *   Focus on keeping and improving reliability since WR and IBM will pick up 3.0.1 into commercial products
@@ -69,7 +69,7 @@ Notes
 
 ### TCF and other initiatives Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org. EclipseCon Tutorial and Short Talk available from [TM Homepage](https://www.eclipse.org/dsdp/tm)
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org. EclipseCon Tutorial and Short Talk available from [TM Homepage](https://www.eclipse.org/dsdp/tm)
 *   EPL / EDL dual licensing approved by Eclipse Board for the TCF Agent. Creating new CQ and changing the Copyright / about files now.
 *   Picked up TM 3.0 and DD-DSF 1.0 so it's compatible with Ganymede now
 *   [bug 238564](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238564) has some very good notes about migrating from TM 2.0 to TM 3.0
@@ -79,7 +79,7 @@ Notes
 
 *   Anna introduction - working for MV in Moscow, Russia
 *   Newsgroup Duty
-*   The new iplog+ flag: [Development Resources/Automatic IP Log](/Development_Resources/Automatic_IP_Log "Development Resources/Automatic IP Log"), [bug 233291](https://bugs.eclipse.org/bugs/show_bug.cgi?id=233291), [bug 220977](https://bugs.eclipse.org/bugs/show_bug.cgi?id=220977)
+*   The new iplog+ flag: [Development Resources/Automatic IP Log](./Development_Resources/Automatic_IP_Log "Development Resources/Automatic IP Log"), [bug 233291](https://bugs.eclipse.org/bugs/show_bug.cgi?id=233291), [bug 220977](https://bugs.eclipse.org/bugs/show_bug.cgi?id=220977)
     *   [Automatic IP Log for TM](https://www.eclipse.org/projects/ip_log.php?projectid=dsdp.tm) doesn't work yet due to a bug in the generator (won't accept space char in bugzilla project name)
     *   But we should be prepared to do automatic log, so we should fully comply
     *   **Mark any Patch or other Attachment** that's contributed with **iplog+** when it is committed into CVS
@@ -88,7 +88,7 @@ Notes
 
 ### TM 3.1 / Future Planning
 
-*   **Project Plan Status** \- New XML project plan format available, incubation of plan on the [TM Future Planning](/TM_Future_Planning "TM Future Planning") Wiki
+*   **Project Plan Status** \- New XML project plan format available, incubation of plan on the [TM Future Planning](./TM_Future_Planning "TM Future Planning") Wiki
     *   Bugzilla plan items as well as an "official" project plan will be done
     *   Wind River: Focus on TCF; RSE bug-fixes and quality; Multi-System/Connection Grouping
     *   IBM: RSE bug-fixes and quality; EFS; Import/Export of Profiles
@@ -121,7 +121,7 @@ Vacations, Next Meetings
 
 ### Action Items to Review
 
-*   Last meeting: [DSDP/TM/Phone Meeting 4-Jun-2008](/DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008")
+*   Last meeting: [DSDP/TM/Phone Meeting 4-Jun-2008](./DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008")
 
 ### New Action Items
 
@@ -130,8 +130,8 @@ Vacations, Next Meetings
 
 ### Next Meeting
 
-*   Next [DSDP/TM/Committer Phone Meeting 16-Jul-2008](/DSDP/TM/Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008") (2 weeks after)
-*   Next [DSDP/TM/Phone Meeting 6-Aug-2008](/DSDP/TM/Phone_Meeting_6-Aug-2008 "DSDP/TM/Phone Meeting 6-Aug-2008") (5 weeks after)
+*   Next [DSDP/TM/Committer Phone Meeting 16-Jul-2008](./DSDP/TM/Committer_Phone_Meeting_16-Jul-2008 "DSDP/TM/Committer Phone Meeting 16-Jul-2008") (2 weeks after)
+*   Next [DSDP/TM/Phone Meeting 6-Aug-2008](./DSDP/TM/Phone_Meeting_6-Aug-2008 "DSDP/TM/Phone Meeting 6-Aug-2008") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-Jul-2008](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-Jul-2008))

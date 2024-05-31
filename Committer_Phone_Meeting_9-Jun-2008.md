@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 9-Jun-2008
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Monday [June 9, 2008](/index.php?title=June_9,_2008&action=edit&redlink=1 "June 9, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=9&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Monday [June 9, 2008](./index.php?title=June_9,_2008&action=edit&redlink=1 "June 9, 2008 (page does not exist)") at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=9&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -44,17 +44,17 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Agenda
 ------
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Jun-2008](/DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 5-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008")
 *   **Skype Call Quality**
 *   **Welcome Anna!**
 
 ### **New Stuff**
 
-*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](/DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
+*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
     *   We have RC3, so from now on EVERY checkin must get a **+1 by two reviewers BEFORE** (except emergencies, documentation-only or unittest-only things). Also applies to "incubation". Rules do not apply to TCF
     *   Please do NOT only ask me for reviewing, it doesn't scale
 
-*   [TM 3.0 RC2 Testing](/TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") Status (as per yesterday's E-Mail)
+*   [TM 3.0 RC2 Testing](./TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") Status (as per yesterday's E-Mail)
     *   Test Configurations -- especially for [bug 231453](https://bugs.eclipse.org/bugs/show_bug.cgi?id=231453) from cross-project list
         *   TM installed into Eclipse 3.4 dropins/ -- That's what we always do
         *   TM installed into Eclipse 3.3. -- Martin has target platform against 3.3 now
@@ -107,7 +107,7 @@ Agenda
 
 *   **New and Noteworthy**
     *   I'll need a list of new features for a New&Noteworthy, and for the Release Review. Release Review material is due next week.
-    *   See [CDT/User/NewIn50](/CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
+    *   See [CDT/User/NewIn50](./CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
     *   For the N&N, please make screenshots and work on "your" new features, e.g.
         *   Useractions
 
@@ -117,7 +117,7 @@ Agenda
         *   **New releng scripts** on dsdp.eclipse.org (Martin: must-have before his vacation)
         *   **Copyright Year Updates** (Run the releng Copyrights Tool)
         *   Migration Notes (for 2.0 / for 1.0?)
-        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
         *   Review and improve Userdocs; we have several open bugs here
         *   Review and improve Javadocs; lots still missing, unclear, duplicated
         *   Fix broken hyperlinks in the docs, fix HTML/XML errors (which can make the indexer not work)
@@ -155,13 +155,13 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_5-Jun-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Jun-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2008#Action_Items "DSDP/TM/Committer Phone Meeting 5-Jun-2008") Action Items
 *   **Everyone**:
     *   Triage 3.0 and earlier assigned bugs and move to 3.0.1 / 3.1 what we can
-    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
+    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
     *   Update the New&Noteworthy (Martin will send a separate E-Mail)
     *   Bug fixes, cleanup, unittests
-*   **DaveD**: Test initial install of RC2 from Ganymede (CDT, EMF dependencies!); Test JEE package (when available as RC3); Prioritize [bug 235221](https://bugs.eclipse.org/bugs/show_bug.cgi?id=235221); Commit [bug 234215](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234215); Prepare EFS Userdocs along the lines of [TM and RSE FAQ#Why is the Outline View empty when editing a remote PHP or C file?](/TM_and_RSE_FAQ#Why_is_the_Outline_View_empty_when_editing_a_remote_PHP_or_C_file.3F "TM and RSE FAQ")
+*   **DaveD**: Test initial install of RC2 from Ganymede (CDT, EMF dependencies!); Test JEE package (when available as RC3); Prioritize [bug 235221](https://bugs.eclipse.org/bugs/show_bug.cgi?id=235221); Commit [bug 234215](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234215); Prepare EFS Userdocs along the lines of [TM and RSE FAQ#Why is the Outline View empty when editing a remote PHP or C file?](./TM_and_RSE_FAQ#Why_is_the_Outline_View_empty_when_editing_a_remote_PHP_or_C_file.3F "TM and RSE FAQ")
 *   **DaveM**: Commit [bug 199596](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199596), [bug 234038](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234038); File new bug for tableview issue; work with Martin on [bug 233461](https://bugs.eclipse.org/bugs/show_bug.cgi?id=233461); [bug 233480](https://bugs.eclipse.org/bugs/show_bug.cgi?id=233480) \- tell the team to use custom newConnectionWizards extension
 *   **Kevin**: -
 *   **Rupen**: -
@@ -177,8 +177,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 25-Jun-2008](/DSDP/TM/Committer_Phone_Meeting_25-Jun-2008 "DSDP/TM/Committer Phone Meeting 25-Jun-2008") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=25&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](/DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 25-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_25-Jun-2008 "DSDP/TM/Committer Phone Meeting 25-Jun-2008") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=25&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](./DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Jun-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_9-Jun-2008))

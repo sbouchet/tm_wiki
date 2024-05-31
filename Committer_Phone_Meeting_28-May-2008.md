@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 28-May-2008
 ===========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [May 28, 2008](/index.php?title=May_28,_2008&action=edit&redlink=1 "May 28, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [May 28, 2008](./index.php?title=May_28,_2008&action=edit&redlink=1 "May 28, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=5&day=28&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | SkypeOut: +99008275601400 (free!) - powered by [Highspeedconferencing.com](http://share.highspeedconferencing.com/skype_new/signin.jsp) |
 
 Backup1: Martin to call everybody by Skype  
@@ -42,7 +42,7 @@ This is an Open call, so anyone else can join (though we expect the talk to be i
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 21-May-2008](/DSDP/TM/Committer_Phone_Meeting_21-May-2008 "DSDP/TM/Committer Phone Meeting 21-May-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 21-May-2008](./DSDP/TM/Committer_Phone_Meeting_21-May-2008 "DSDP/TM/Committer Phone Meeting 21-May-2008")
 *   **Skype Call Quality**
     *   [Highspeedconferencing.com](http://share.highspeedconferencing.com/skype_new/signin.jsp) \-\- 7 participants: speaker hard to understand at times; much background noise for Michael; bad for Rado, but bearable
     *   Looks like non-speakers are totally muted, system needs some time to adapt when somebody starts talking
@@ -51,12 +51,12 @@ Notes
 ### **New Stuff**
 
 *   [Release Review](https://www.eclipse.org/projects/whatsnew.php) next Wed June 4 at [8am PST](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=4&year=2008&hour=15&min=00&sec=0&p1=0) (our usual committer meeting time)
-    *   Want to move next committer meeting to [Thursday Jun 5](/DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008") at 8am PST (same time), ok? Or do it after/at our [Monthly Meeting Jun4](/DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at 9am PST?
+    *   Want to move next committer meeting to [Thursday Jun 5](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008") at 8am PST (same time), ok? Or do it after/at our [Monthly Meeting Jun4](./DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at 9am PST?
     *   Our slides: Minideck ([PPT](http://download.eclipse.org/dsdp/tm/presentations/TM_3.0_Release_Review_Minideck.ppt) | [PDF](http://download.eclipse.org/dsdp/tm/presentations/TM_3.0_Release_Review_Minideck.pdf), All slides ([PPT](http://download.eclipse.org/dsdp/tm/presentations/TM_3.0_Release_Review.ppt) | [PDF](http://download.eclipse.org/dsdp/tm/presentations/TM_3.0_Release_Review.pdf))
     *   Full [Ganymede Slides](https://www.eclipse.org/projects/slides/Ganymede_04June2008.zip) \- We are #22ff on the Overview deck, alphabetically pretty soon
     *   For our project: Community looks very healthy; Code and API additions look very good, healthy in terms of size; Bug backlog is a problem; Multiple APIs, disconnect of "Remote Development Tools" initiative
 
-*   **Project Plan**: [Development Resources/Project Plan](/Development_Resources/Project_Plan "Development Resources/Project Plan") Status
+*   **Project Plan**: [Development Resources/Project Plan](./Development_Resources/Project_Plan "Development Resources/Project Plan") Status
     *   Ours is XML now, on [https://www.eclipse.org/dsdp/tm/development/tm\_plan\_3_0.xml](https://www.eclipse.org/dsdp/tm/development/tm_plan_3_0.xml) \-\- also in your www-tm-development project
     *   Bjorn's tooling [renders it to PHP](https://www.eclipse.org/projects/project-plan.php?projectid=dsdp.tm) \- bottom has a [link for raw XML](https://www.eclipse.org/projects/project-plan.php?projectid=dsdp.tm&raw=1)
     *   Everybody can edit the plan at any time to fix typos etc
@@ -72,7 +72,7 @@ Notes
         *   Creating Connections, Filters, Drag&Drop, ...
         *   Useractions: Should work for users
     *   Listing New&Noteworthy for ZX
-    *   [BugDay/May 2008](/BugDay/May_2008 "BugDay/May 2008") on May 30, who will be on IRC?
+    *   [BugDay/May 2008](./BugDay/May_2008 "BugDay/May 2008") on May 30, who will be on IRC?
 
 *   Late API Changes / Additions
     *   Must decide how we want to handle Apidoc bugs
@@ -96,11 +96,11 @@ Notes
 
 ### **Steps Towards Ganymede**
 
-*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](/DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
+*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
     *   We have RC2, so from now on EVERY checkin must get a +1 by a reviewer BEFORE (except emergencies, documentation-only or unittest-only things). Also applies to "incubation". Rules do not apply to TCF
     *   Please do NOT only ask me for reviewing, it doesn't scale
 
-*   [TM 3.0 RC2 Testing](/TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") Status
+*   [TM 3.0 RC2 Testing](./TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") Status
     *   Committers step up with good example to draw community members to it!
     *   Somebody must test our integration with the JEE EPP Package
     *   Every committer to invest 2 hours minimum in testing; Hi-pri fixes OK, martin will releng to update site so testers can update easily;
@@ -119,7 +119,7 @@ Notes
 
 *   **New and Noteworthy**
     *   I'll need a list of new features for a New&Noteworthy, and for the Release Review. Release Review material is due next week.
-    *   See [CDT/User/NewIn50](/CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
+    *   See [CDT/User/NewIn50](./CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
     *   For the N&N, please make screenshots and work on "your" new features, e.g.
         *   Useractions
 
@@ -129,7 +129,7 @@ Notes
         *   **New releng scripts** on dsdp.eclipse.org (Martin: must-have before his vacation)
         *   **Copyright Year Updates** (Run the releng Copyrights Tool)
         *   Migration Notes (for 2.0 / for 1.0?)
-        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
+        *   API Tooling Javadocs(@noextend and friends) - [bug 227368](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227368), [bug 225529 comment 4](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) and [bug 225529 comment 6](https://bugs.eclipse.org/bugs/show_bug.cgi?id=225529#c6) \- [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership")
         *   Review and improve Userdocs; we have several open bugs here
         *   Review and improve Javadocs; lots still missing, unclear, duplicated
         *   Fix broken hyperlinks in the docs, fix HTML/XML errors (which can make the indexer not work)
@@ -147,7 +147,7 @@ Notes
     *   Create a bugzilla 3.1 target milestone to start the planning process / reassign bugs on review
     *   Martin recommends going 3.1, but reserving the right to require **Java5 on the Client**, 1.4 on the Server.
 
-*   [TM Future Planning](/TM_Future_Planning "TM Future Planning") Wiki for collecting ideas. Some first thoughts on Priorities?
+*   [TM Future Planning](./TM_Future_Planning "TM Future Planning") Wiki for collecting ideas. Some first thoughts on Priorities?
     *   **AI Martin** create an initial 3.1 plan, update the Planning Wiki
     *   Connection Grouping - be Multicore aware
     *   Rewrite the Tableview to be really aware of Properties
@@ -166,11 +166,11 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_21-May-2008#Action_Items "DSDP/TM/Committer Phone Meeting 21-May-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_21-May-2008#Action_Items "DSDP/TM/Committer Phone Meeting 21-May-2008") Action Items
 *   **Everyone**:
-    *   Sign up on [TM 3.0 RC2 Testing](/TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") page and invest 2 hours
+    *   Sign up on [TM 3.0 RC2 Testing](./TM_3.0_RC2_Testing "TM 3.0 RC2 Testing") page and invest 2 hours
     *   Triage 3.0 and earlier assigned bugs and move to 3.0.1 / 3.1 what we can
-    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](/DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
+    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
     *   Update the New&Noteworthy (Martin will send a separate E-Mail)
     *   Bug fixes, cleanup, unittests
 *   **DaveD**: Take [bug 234215](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234215) and talk to DaveM about [bug 234030](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234030); Dial in at Release Review
@@ -189,8 +189,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 4-Jun-2008](/DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=4&year=2008&hour=16&min=00&sec=0&p1=0)
-*   [DSDP/TM/Committer Phone Meeting 5-Jun-2008](/DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008") (8 days) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- Normal Skype call again
+*   Monthly [DSDP/TM/Phone Meeting 4-Jun-2008](./DSDP/TM/Phone_Meeting_4-Jun-2008 "DSDP/TM/Phone Meeting 4-Jun-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=4&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 5-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_5-Jun-2008 "DSDP/TM/Committer Phone Meeting 5-Jun-2008") (8 days) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \- Normal Skype call again
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-May-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_28-May-2008))

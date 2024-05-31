@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 5-Mar-2008
 ==========================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Wednesday [Mar 5, 2008](/index.php?title=Mar_5,_2008&action=edit&redlink=1 "Mar 5, 2008 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Wednesday [Mar 5, 2008](./index.php?title=Mar_5,_2008&action=edit&redlink=1 "Mar 5, 2008 (page does not exist)") at [1600 UTC / 1100 Eastern](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -36,7 +36,7 @@ Attendees
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 20-Feb-2008](/DSDP/TM/Committer_Phone_Meeting_20-Feb-2008 "DSDP/TM/Committer Phone Meeting 20-Feb-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 20-Feb-2008](./DSDP/TM/Committer_Phone_Meeting_20-Feb-2008 "DSDP/TM/Committer Phone Meeting 20-Feb-2008")
 
 ### Current Work
 
@@ -107,23 +107,23 @@ Vacation, Away
 Action Items
 ------------
 
-*   [Last Meeting](/DSDP/TM/Committer_Phone_Meeting_20-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2008") Action Items
+*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_20-Feb-2008#Action_Items "DSDP/TM/Committer Phone Meeting 20-Feb-2008") Action Items
 *   **Everyone**: Comment on [bug 217894](https://bugs.eclipse.org/bugs/show_bug.cgi?id=217894) SubsytemConfigurationFamilies
 *   **DaveD**: Help on [bug 190231](https://bugs.eclipse.org/bugs/show_bug.cgi?id=190231) Subsytem UI->Core
 *   **DaveM**: [bug 220892](https://bugs.eclipse.org/bugs/show_bug.cgi?id=220892) handler hook for dstore protocol backward compatibility; [bug 218947](https://bugs.eclipse.org/bugs/show_bug.cgi?id=218947) Create new bug for proposed IRemotePath API Addition; Use Properties for Unit Tests
 *   **Xuan**: Add Useractions to PII Mapfile; Use Properties for Unit Tests
 *   **Kevin**: Website Updates
 *   **Martin**: EclipseCon; [bug 190231](https://bugs.eclipse.org/bugs/show_bug.cgi?id=190231) Subsytem UI->Core; finish new releng; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Newsgroup
-*   **Javier**: [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](/CVS_Development#Testing "CVS Development")
+*   **Javier**: [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](/DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
+*   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](./DSDP/TM/Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
 *   EclipseCon March 17-20: Martin, Michael - no other committers
-*   [DSDP/TM/Committer Phone Meeting 26-Mar-2008](/DSDP/TM/Committer_Phone_Meeting_26-Mar-2008 "DSDP/TM/Committer Phone Meeting 26-Mar-2008") (3 weeks due to EclipseCon) at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=26&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
-*   Next [BugDay/March_2008](/BugDay/March_2008 "BugDay/March 2008") on Mar 28
+*   [DSDP/TM/Committer Phone Meeting 26-Mar-2008](./DSDP/TM/Committer_Phone_Meeting_26-Mar-2008 "DSDP/TM/Committer Phone Meeting 26-Mar-2008") (3 weeks due to EclipseCon) at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=26&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) \-\- take care of DST differences!
+*   Next [BugDay/March_2008](./BugDay/March_2008 "BugDay/March 2008") on Mar 28
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_5-Mar-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_5-Mar-2008))
