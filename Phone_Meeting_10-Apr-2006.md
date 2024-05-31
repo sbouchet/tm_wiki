@@ -51,7 +51,7 @@ Agenda
     *   ECF filesharing plugin - in work; want technology hooked up, not for M1
     *   CDT Remote Launch - Ewa Matejska agreed to work on it, no current status available
 *   Technology sub-groups
-    *   [Console View](./DD/ConsoleView "DSDP/DD/ConsoleView")
+    *   [Console View](https://wiki.eclipse.org/DD/ConsoleView "DSDP/DD/ConsoleView")
         *   Aaron Spear started discussion; Darin and Debug Group seems to be open to enhancements from DD;
         *   Overlap between TM's terminal and a debugger specific terminal is mostly the Terminal Emulation
         *   Aaron seeking a framework where even non-text-based (graphical) output can be rendered in a contributed terminal view, based on the data the comes through a console stream

@@ -43,7 +43,7 @@ Agenda
     *   Post Pierre-Alexandre's proposal on Wiki: [DSDP-TM Draft API Proposal by Pierre-Alexandre 2005x11x21](./DSDP-TM_Draft_API_Proposal_by_Pierre-Alexandre_2005x11x21 "DSDP-TM Draft API Proposal by Pierre-Alexandre 2005x11x21")
     *   Post Dave Dykstal's "RSE-Hierarchy" on Wiki: [DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09](./DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09")
 *   Victor Palau:
-    *   Sent [Scenario for TM / Testing @ Symbian](./images/c/cb/Symbian_UseCase.gif "Symbian UseCase.gif") on the dsdp-tm list
+    *   Sent [Scenario for TM / Testing @ Symbian](./images/Symbian_UseCase.gif "Symbian UseCase.gif") on the dsdp-tm list
 
 ### Recent News
 
