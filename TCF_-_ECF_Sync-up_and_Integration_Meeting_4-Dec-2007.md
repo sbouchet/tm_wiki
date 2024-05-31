@@ -38,8 +38,8 @@ Agenda
 
 *   TCF is an incubating extendable protocol for communication with embedded devices, which allows value-add services to be added transparently into the communication link. Bindings may exist to a variety of languages and environments (plain C, plain Java, Eclipse). Currently, the plain Java binding is usable from Eclipse, but an ECF-based Eclipse specific binding can be added.
 *   ECF provides generic APIs and mechanisms for communication from the Eclipse / Java environment, even if actual providers are written in other languages (e.g. Skype / C++).
-*   Is the description on [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") sufficient to clarify the scope of TCF, especially compared to ECF? Will users/extenders understand the differences?
-*   Is the [DSDP/TM/TCF_FAQ#How does TCF compare to ECF?](./TCF_FAQ#How_does_TCF_compare_to_ECF.3F "DSDP/TM/TCF FAQ") section sufficient and accurate?
+*   Is the description on [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") sufficient to clarify the scope of TCF, especially compared to ECF? Will users/extenders understand the differences?
+*   Is the [DSDP/TM/TCF_FAQ#How does TCF compare to ECF?](https://wiki.eclipse.org/TCF#How_does_TCF_compare_to_ECF.3F "DSDP/TM/TCF FAQ") section sufficient and accurate?
     *   What do we think about the "vertical" versus "horizontal" description of TCF compared to ECF?
         *   When TCF focuses on the wire protocol, its vertical; when it focuses on transport agnosticism, it's horizontal; from today's statements we don't focus on transport agnosticism at all - we really want to standardize on TCP/IP, with proper enveloping through a protocol for transport conversion by a value-adding server (just a pass-through)
 
@@ -123,7 +123,7 @@ Agenda
 
 ### Links
 
-*   [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ")
+*   [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ")
 
 Action Items
 ------------

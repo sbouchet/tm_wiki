@@ -77,7 +77,7 @@ Notes
 
 *   [DSDP/TM/Board Report 2008](./Board_Report_2008 "DSDP/TM/Board Report 2008")
 *   [bug 238574](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238574) Website Revamp? We have a bugzilla "Website" component now
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") available and plan theme, shooting for 1.0 under discussion. EDL approved for the Agent. Community interest growing
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") available and plan theme, shooting for 1.0 under discussion. EDL approved for the Agent. Community interest growing
     *   [bug 238564](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238564) has some very good notes about migrating from TM 2.0 to TM 3.0
     *   Working towards scheduled builds and downloadable artifacts.
 

@@ -80,7 +80,7 @@ Agenda
 *   **Kevin:** \- [bug 208778](https://bugs.eclipse.org/bugs/show_bug.cgi?id=208778) EFS#APPEND
 *   **Xuan:** \- Tar handling; some IBM issues on the side
 *   **Javier:** \- Been on vacation last week; some Symbian stuff right now; cannot promise the bugcount promise
-*   **Martin:** \- Worked on [TCF](./TCF_FAQ "DSDP/TM/TCF FAQ"); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
+*   **Martin:** \- Worked on [TCF](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ"); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
 *   **Uwe:** \- Did some fix to the New Connection Wizard first page (systemType selection)
 *   **Rupen:** \- [bug 210682](https://bugs.eclipse.org/bugs/show_bug.cgi?id=210682) \- Discussion on scope of enhancement? Discussions on which buttons will/should be used in the new renaming dialog. Should the rename button even exist?
     *   DaveM: Rename makes sense for a single file, but not for multiple files (one easily loses track)

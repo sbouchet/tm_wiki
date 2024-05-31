@@ -67,7 +67,7 @@ Notes
 #### Other Stuff
 
 *   [bug 238574](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238574) Website Revamp? We have a bugzilla "Website" component now... still no volunteers
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") available and plan theme, shooting for 1.0 under discussion.
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") available and plan theme, shooting for 1.0 under discussion.
 *   Bugs [still assigned to 3.0](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&target_milestone=3.0+M5&target_milestone=3.0+M6&target_milestone=3.0+M7&target_milestone=3.0+RC1&target_milestone=3.0+RC2&target_milestone=3.0+RC3&target_milestone=3.0+RC4&target_milestone=3.0+RC5&target_milestone=3.0&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \-\- Xuan, DaveD!
 *   Abbot pretty much dead -- looking at SWTBot now
 *   Unittests, Findbugs?

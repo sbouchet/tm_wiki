@@ -69,7 +69,7 @@ Notes
 
 ### TCF and other initiatives Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](./TCF_FAQ "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org. EclipseCon Tutorial and Short Talk available from [TM Homepage](https://www.eclipse.org/dsdp/tm)
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") available and approved by EMO. Now working on SVN Repository at Eclipse.org. EclipseCon Tutorial and Short Talk available from [TM Homepage](https://www.eclipse.org/dsdp/tm)
 *   EPL / EDL dual licensing approved by Eclipse Board for the TCF Agent. Creating new CQ and changing the Copyright / about files now.
 *   Picked up TM 3.0 and DD-DSF 1.0 so it's compatible with Ganymede now
 *   [bug 238564](https://bugs.eclipse.org/bugs/show_bug.cgi?id=238564) has some very good notes about migrating from TM 2.0 to TM 3.0

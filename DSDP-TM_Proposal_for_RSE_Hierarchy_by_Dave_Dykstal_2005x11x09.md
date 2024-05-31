@@ -41,7 +41,7 @@ Device X (this could be a core, DSP, or whatever - a "targettable entity")
            Standard Commands
 Device Y
 
-**Note:** [Uwe Stieber](https://wiki.eclipse.org/User:Uwe.stieber.windriver.com) added some important thoughts to the [discussion tab](./Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09") of this page
+**Note:** Uwe Stieber added some important thoughts to the [discussion tab](./Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:DSDP-TM Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09") of this page
 
 
 (Migrated from [https://wiki.eclipse.org/DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09](https://wiki.eclipse.org/DSDP-TM_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09))

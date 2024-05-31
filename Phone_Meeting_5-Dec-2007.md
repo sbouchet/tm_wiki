@@ -33,7 +33,7 @@ Notes
 
 ### Update on RSE Status
 
-*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF_FAQ "DSDP/TM/TCF FAQ") available
+*   **Target Communication Framework** \- [DSDP/TM/TCF FAQ](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ") available
 *   **Project Plan Status** \- still on the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page only
     *   Bugzilla plan items as well as an "official" project plan will be done
     *   Focus on TCF; RSE bug-fixes and quality; UI/Non-UI splitting; Import/Export of Profiles
