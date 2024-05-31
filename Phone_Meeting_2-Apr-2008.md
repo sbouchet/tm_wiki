@@ -42,7 +42,7 @@ Action Items to Review
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Phone Meeting 7-May-2008](./Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") (5 weeks after)
+*   Next DSDP/TM/Phone Meeting 7-May-2008 (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-Apr-2008](https://wiki.eclipse.org//DSDP/TM/Phone_Meeting_2-Apr-2008))

@@ -3,11 +3,11 @@
 DSDP/TM/Committer Phone Meeting 5-Jun-2008
 ==========================================
 
-< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 | Meeting Title: | **TM Committer Phone Meeting** |
 | --- | --- |
-| Date & Time: | Thursday [June 5, 2008](./index.php?title=June_5,_2008&action=edit&redlink=1 "June 5, 2008 (page does not exist)") at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
+| Date & Time: | Thursday June 5, 2008 at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=5&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) |
 | Dial-in: | Martin to call everybody by Skype |
 
 Backup dial-in: International **+44 (0)1452 567588** / Freephone **+1 (866) 6161738** / UK **08712460713** / Passcode: **0587322148 #**
@@ -41,12 +41,12 @@ Regrets:
 Notes
 -----
 
-*   Last meeting: [DSDP/TM/Committer Phone Meeting 28-May-2008](./DSDP/TM/Committer_Phone_Meeting_28-May-2008 "DSDP/TM/Committer Phone Meeting 28-May-2008")
+*   Last meeting: [DSDP/TM/Committer Phone Meeting 28-May-2008](./Committer_Phone_Meeting_28-May-2008 "DSDP/TM/Committer Phone Meeting 28-May-2008")
 *   **Skype Call Quality** \- Very good today, some Echo for Xuan occasionally
 
 ### **New Stuff**
 
-*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./DSDP/TM/3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
+*   [DSDP/TM/3.0 Ramp down Plan for Ganymede](./3.0_Ramp_down_Plan_for_Ganymede "DSDP/TM/3.0 Ramp down Plan for Ganymede")
     *   We have RC3, so from now on EVERY checkin must get a **+1 by two reviewers BEFORE** (except emergencies, documentation-only or unittest-only things). Also applies to "incubation". Rules do not apply to TCF
     *   Please do NOT only ask me for reviewing, it doesn't scale
 
@@ -106,10 +106,10 @@ Vacation, away
 Action Items
 ------------
 
-*   [Last Meeting](./DSDP/TM/Committer_Phone_Meeting_28-May-2008#Action_Items "DSDP/TM/Committer Phone Meeting 28-May-2008") Action Items
+*   [Last Meeting](./Committer_Phone_Meeting_28-May-2008#Action_Items "DSDP/TM/Committer Phone Meeting 28-May-2008") Action Items
 *   **Everyone**:
     *   Triage 3.0 and earlier assigned bugs and move to 3.0.1 / 3.1 what we can
-    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](./DSDP/TM/Code_Ownership "DSDP/TM/Code Ownership") table;
+    *   **Add @noextend etc** according to [DSDP/TM/Code Ownership](./Code_Ownership "DSDP/TM/Code Ownership") table;
     *   Update the New&Noteworthy (Martin will send a separate E-Mail)
     *   Bug fixes, cleanup, unittests
 *   **DaveD**: Test initial install of RC2 from Ganymede (CDT, EMF dependencies!); Test JEE package (when available as RC3); Prioritize [bug 235221](https://bugs.eclipse.org/bugs/show_bug.cgi?id=235221); Commit [bug 234215](https://bugs.eclipse.org/bugs/show_bug.cgi?id=234215); Prepare EFS Userdocs along the lines of [TM and RSE FAQ#Why is the Outline View empty when editing a remote PHP or C file?](./TM_and_RSE_FAQ#Why_is_the_Outline_View_empty_when_editing_a_remote_PHP_or_C_file.3F "TM and RSE FAQ")
@@ -128,8 +128,8 @@ Action Items
 Next Meeting
 ------------
 
-*   [DSDP/TM/Committer Phone Meeting 9-Jun-2008](./DSDP/TM/Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008") (4 days) at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=9&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
-*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](./DSDP/TM/Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
+*   [DSDP/TM/Committer Phone Meeting 9-Jun-2008](./Committer_Phone_Meeting_9-Jun-2008 "DSDP/TM/Committer Phone Meeting 9-Jun-2008") (4 days) at [1600 UTC / 0900 SFO / 1100 Rochester / 1200 Toronto / 1800 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=6&day=9&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
+*   Monthly [DSDP/TM/Phone Meeting 2-Jul-2008](./Phone_Meeting_2-Jul-2008 "DSDP/TM/Phone Meeting 2-Jul-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=7&day=2&year=2008&hour=16&min=00&sec=0&p1=0)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_5-Jun-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_5-Jun-2008))
