@@ -63,7 +63,7 @@ The monthly phone meetings are open for everyone to attend (and we actually enco
 *   [TM/Meetings/2-Feb-2011](./2-Feb-2011 "TM/Meetings/2-Feb-2011")
 *   [TM/Meetings/12-Jan-2011](./12-Jan-2011 "TM/Meetings/12-Jan-2011")
 *   [TM/Meetings/1-Dec-2010](./1-Dec-2010 "TM/Meetings/1-Dec-2010")
-*   [DSDP/TM/Meetings/3-Nov-2010](/3-Nov-2010 "DSDP/TM/Meetings/3-Nov-2010")
+*   [DSDP/TM/Meetings/3-Nov-2010](./3-Nov-2010 "DSDP/TM/Meetings/3-Nov-2010")
 *   [DSDP/TM/Meetings/6-Oct-2010](./6-Oct-2010 "DSDP/TM/Meetings/6-Oct-2010")
 *   [DSDP/TM/Meetings/8-Sep-2010](./8-Sep-2010 "DSDP/TM/Meetings/8-Sep-2010")
 *   [DSDP/TM/Meetings/11-Aug-2010](./11-Aug-2010 "DSDP/TM/Meetings/11-Aug-2010")

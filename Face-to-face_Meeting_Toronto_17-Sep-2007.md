@@ -3,7 +3,7 @@
 DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007
 ================================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](./DSDP "DSDP")‎ | [TM](./DSDP/TM "DSDP/TM")
 
 The meeting is primarily planned as a hands-on coding camp for contributors, with in-depth discussions about current and future TM/RSE architecture and hard problems, also involving looking right at the code.
 
@@ -15,7 +15,7 @@ Location and Dates
 *   Location:
     *   IBM Toronto Development Labs, Warden Ave between Highway 407 and Highway 7, Markham
     *   Suggested Hotel: [Hilton Suites Hotel & Conference Centre Toronto/Markham](http://www.hilton.com/en/hi/hotels/index.jhtml;jsessionid=4KXATC2AU1HHJJ31AOQMISQ?ctyhocn=YYZAPHF), Phone 905 470-8500
-    *   For more hotel options, directions and other details, see the [DD 22-Feb-2006 meeting Logistics](/DSDP-DD_Face-to-face_Toronto_22-Feb-2006#Logistics "DSDP-DD Face-to-face Toronto 22-Feb-2006")
+    *   For more hotel options, directions and other details, see the [DD 22-Feb-2006 meeting Logistics](./DSDP-DD_Face-to-face_Toronto_22-Feb-2006#Logistics "DSDP-DD Face-to-face Toronto 22-Feb-2006")
     *   **The meeting is in Toronto Sep 17/18 and NOT in Chicago with the [Eclipse Members Meeting](http://dev.eclipse.org/mhonarc/lists/eclipse.org-committers/msg00377.html) as previously announced!**
 *   Exact time and Agenda are tentative, details will follow late July:
     *   Mon Sep/17: 0900-1700, **Planning**
@@ -52,7 +52,7 @@ Please add yourself to this list if you plan to attend.
 Agenda
 ------
 
-For each of the topics mentioned below, one presenter will be asked to prepare and look for possible architecture for the future of RSE. During the meeting, we will explore these prosals right with the code. Naturally, the topics are related to the [TM Future Planning](/TM_Future_Planning "TM Future Planning") page. Attendees can request to add topics to the agenda until Friday Sep-7th.
+For each of the topics mentioned below, one presenter will be asked to prepare and look for possible architecture for the future of RSE. During the meeting, we will explore these prosals right with the code. Naturally, the topics are related to the [TM Future Planning](./TM_Future_Planning "TM Future Planning") page. Attendees can request to add topics to the agenda until Friday Sep-7th.
 
 *   Come up with a consistent story around EFS vs. RSync vs. RSE (MartinO) - may be related to RemoteSystemsTempFiles
 *   How to improve the RemoteTempFiles cache (DaveM): Put it outside the workspace ([158770](https://bugs.eclipse.org/bugs/show_bug.cgi?id=158770)), do not share between connections ([193858](https://bugs.eclipse.org/bugs/show_bug.cgi?id=193858)), allow characters only valid on the remote ([160103](https://bugs.eclipse.org/bugs/show_bug.cgi?id=160103)), support remote names differing only in case also on Windows ([160100](https://bugs.eclipse.org/bugs/show_bug.cgi?id=160100))

@@ -3,9 +3,7 @@
 TM Manual Test Plan
 ===================
 
-(Redirected from [RSE Manual Test Plan](/index.php?title=RSE_Manual_Test_Plan&redirect=no "RSE Manual Test Plan"))
-
-Nav: [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | TM Manual Test Plan
+Nav: [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | TM Manual Test Plan
 
 This is the RSE Manual Test Plan. Tasks are outlined very briefly only. Feel free to do some exploratory testing around the suggested items.  
 **PLEASE also edit this page yourself** to add test cases you find out by working on RSE.
@@ -61,7 +59,7 @@ Standard usability tests
 ### Basic Sanity Test
 
 *   File Subsystem, dirlist, simple filters, upload/download/edit, Tableview
-*   See also [RSE 1.0 Test Instructions#Step 5: Basic Sanity Check](/RSE_1.0_Test_Instructions#Step_5:_Basic_Sanity_Check "RSE 1.0 Test Instructions")
+*   See also [RSE 1.0 Test Instructions#Step 5: Basic Sanity Check](./RSE_1.0_Test_Instructions#Step_5:_Basic_Sanity_Check "RSE 1.0 Test Instructions")
 
 ### Update Site
 
@@ -372,17 +370,17 @@ Experimental Add-Ons
 
 *   The only available and selected protocol and transport are DNS-SD and UDP. Those should be selected by default. A timeout of 500 ms is also set by default, increase it if necessary, but it should be engouh. As address, specify the mDNS multicast address **224.0.0.251** or the target IP address or server name (that will be resolved) if preferred.
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-Discovery.png)
+![](./images/300px-Discovery.png)
 
-[](/File:Discovery.png "Enlarge")
+[Enlarge](./images/Discovery.png)
 
 Service Discovery form
 
 *   Press next and the discovered services should appear in an expandable tree, showing the service names and attributes grouped by host and service type. The remote service attributes will be shown in a table when selected. The discovered attributes can be overwritten in the table. Initially, only supported servers will appear, if you want to show also the non-supported ones (if any available), select the "Show all services" check box. Only supported services will be created in RSE.
 
-![](https://raw.githubusercontent.com/wiki/eclipse-datatools/.github/images/300px-List.png)
+![](./images/300px-List.png)
 
-[](/File:List.png "Enlarge")
+[Enlarge](./images/List.png)
 
 Discovered Services
 

@@ -3,7 +3,7 @@
 TM 3.0 M3 Testing
 =================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [DSDP/TM/Testing](/DSDP/TM/Testing "DSDP/TM/Testing") | [TM 3.0 Testing](/TM_3.0_Testing "TM 3.0 Testing") | TM 3.0 M3 Testing | [TM 2.0 Test Instructions](/TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](/TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](/TM_Manual_Test_Plan "TM Manual Test Plan")
+Nav: [DSDP/TM](./DSDP/TM "DSDP/TM") | [DSDP/TM/Testing](./DSDP/TM/Testing "DSDP/TM/Testing") | [TM 3.0 Testing](./TM_3.0_Testing "TM 3.0 Testing") | TM 3.0 M3 Testing | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 2.0 Known Issues and Workarounds](./TM_2.0_Known_Issues_and_Workarounds "TM 2.0 Known Issues and Workarounds") | [TM Manual Test Plan](./TM_Manual_Test_Plan "TM Manual Test Plan")
 
 * * *
 
@@ -36,7 +36,7 @@ The main focus in this round of testing is a good round of **Sanity Test** with 
 
 *   [Bugs fixed for 3.0 M3 but not yet verified](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=RESOLVED&resolution=FIXED&resolution=WORKSFORME&chfieldfrom=2007-09-29&chfieldto=2007-11-13&chfield=resolution&chfieldvalue=&cmdtype=doit)
 
-Most of you took part in an earlier round of testing already, so you'll not need to read all of the [TM 2.0 Test Instructions](/TM_2.0_Test_Instructions "TM 2.0 Test Instructions"). Here is some important information for this round of testing:
+Most of you took part in an earlier round of testing already, so you'll not need to read all of the [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions"). Here is some important information for this round of testing:
 
 *   Please use a customized bug entry template again. If you already have one from an earlier round of testing, change "2.0.1 Testing" into "3.0M3 Testing" and save it as your new bookmark for this round of testing. Otherwise, use [this link to show, modify and save a sample bug entry template](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Target%20Management&version=3.0&component=RSE&comment=%0D%0A-----------Enter%20bugs%20above%20this%20line-----------%0D%0ATM%203.0M3%20Testing%0D%0Ainstallation%20%3A%20eclipse-SDK-3.4M3-win32%2C%20cdt-5.0.0M3%2C%20emf-sdo-xsd-2.4.0M3%0D%0A%20%20%20%20%20Download%20RSE-I20071108-0100%3A%20RSE-SDK%2Ctests%2Cdiscovery%2Cterminal%2Cremotecdt%0D%0Ajava.runtime%20%3A%20Sun%201.5.0_11-b03%2C%20mixed%20mode%0D%0Aos.name%3A%20%20%20%20%20%3A%20Windows%20XP%205.1%2C%20Service%20Pack%201%0D%0A------------------------------------------------%0D%0Asystemtype%20%20%20%3A%20Linux-local%20%2F%20Windows-dstore%20%28Daemon%29%20%2F%20Unix-dstore%20%28RExec%29%0D%0Atargetos1%20%20%20%20%3A%20Linux%20RHEL4%2C%20Sun%201.5.0_11%0D%0Atargetos2%20%20%20%20%3A%20Windows%20XP%20SP1%2C%20Sun%201.5.0_11%0D%0Atargetos3%20%20%20%20%3A%20Solaris-sparc%205.9%2C%20Sun%201.4.2_05%0D%0Atargetuname%20%20%3A%20SunOS%20szg-anar%205.9%20Generic_118558-06%20sun4u%20sparc%20SUNW%2CSun-Blade-1500%0D%0A------------------------------------------------%0D%0A&form_name=enter_bug).
 *   If possible, please use the JDK versions as signed up in the table below. These are chosen to comply with our [Reference Platforms and JDK versions](https://www.eclipse.org/dsdp/tm/development/plan.php#OperatingEnvironments). Edit the table below if you need to use a different JDK version.
@@ -45,12 +45,12 @@ Most of you took part in an earlier round of testing already, so you'll not need
     *   Some scripts that make the job of downloading RSE easier have been [published on the mailing list](http://dev.eclipse.org/mhonarc/lists/dsdp-tm-dev/msg01065.html).
 *   Updates Site to test is at [http://download.eclipse.org/dsdp/tm/testUpdates](http://download.eclipse.org/dsdp/tm/testUpdates)
     *   Ganymede Integration Staging Site is at [http://download.eclipse.org/releases/ganymede/staging](http://download.eclipse.org/releases/ganymede/staging)
-*   Known issues are at [TM 3.0 Known Issues and Workarounds](/TM_3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds")
+*   Known issues are at [TM 3.0 Known Issues and Workarounds](./TM_3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds")
     *   Currently open [major, critical, blocker](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) issues
     *   Currently open [bugs assigned to 3.0M3](https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=target_milestone&y_axis_field=assigned_to&query_format=report-table&classification=DSDP&product=Target+Management&target_milestone=3.0M3&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&format=table&action=wrap)
     *   Currently open [bugs detected during testing](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&chfieldfrom=2007-11-08&chfieldto=2007-11-15&chfield=%5BBug+creation%5D&cmdtype=doit)
 
-*   **Sanity check instructions:** please use RSE in a "normal" way as you'd usually use it. [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions#Step_5:_Basic_Sanity_Check "RSE 1.0 Test Instructions"). Please test on your assigned host/target combination. Report any bad behavior.
+*   **Sanity check instructions:** please use RSE in a "normal" way as you'd usually use it. [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions#Step_5:_Basic_Sanity_Check "RSE 1.0 Test Instructions"). Please test on your assigned host/target combination. Report any bad behavior.
 
 **Thanks** to everybody who signs up and thus helps making RSE better!
 
@@ -97,44 +97,44 @@ Test Matrix
 
 *   Verifications: [2.0.1 Bugs (by date) fixed but not yet verified](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=RESOLVED&resolution=FIXED&resolution=WORKSFORME&chfieldfrom=2007-06-29&chfieldto=2007-11-08&chfield=resolution&chfieldvalue=&cmdtype=doit)
 
-*   [Basic Sanity Test](/TM_Manual_Test_Plan#Basic_Sanity_Test "TM Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
-*   [File Encodings](/TM_Manual_Test_Plan#File_Encodings "TM Manual Test Plan") (Foreign language files on remote side)
-*   [CDT Remote Launch](/TM_Manual_Test_Plan#CDT_Remote_Launch "TM Manual Test Plan")
-*   [Drag&Drop, Copy&Paste](/TM_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "TM Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
-*   [Discovery](/TM_Manual_Test_Plan#Discovery "TM Manual Test Plan")
-*   [EFS](/TM_Manual_Test_Plan#EFS "TM Manual Test Plan")
+*   [Basic Sanity Test](./TM_Manual_Test_Plan#Basic_Sanity_Test "TM Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
+*   [File Encodings](./TM_Manual_Test_Plan#File_Encodings "TM Manual Test Plan") (Foreign language files on remote side)
+*   [CDT Remote Launch](./TM_Manual_Test_Plan#CDT_Remote_Launch "TM Manual Test Plan")
+*   [Drag&Drop, Copy&Paste](./TM_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "TM Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
+*   [Discovery](./TM_Manual_Test_Plan#Discovery "TM Manual Test Plan")
+*   [EFS](./TM_Manual_Test_Plan#EFS "TM Manual Test Plan")
 
 #### RSE Features to test
 
-*   [Dstore Launch Options](/TM_Manual_Test_Plan#Dstore_Launch_Options "TM Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
-*   [Parallel access](/TM_Manual_Test_Plan#Parallel_access "TM Manual Test Plan") (multiple parallel actions)
-*   [Update Site](/TM_Manual_Test_Plan#Update_Site "TM Manual Test Plan"): Install & Upgrade via Update Site
-*   [Scalability](/TM_Manual_Test_Plan#Scalability "TM Manual Test Plan") (Really large file lists, lots of events)
-*   [Processes Subsystem](/TM_Manual_Test_Plan#Processes_Subsystem "TM Manual Test Plan") (List, Sort, Kill, Remote Monitor)
+*   [Dstore Launch Options](./TM_Manual_Test_Plan#Dstore_Launch_Options "TM Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
+*   [Parallel access](./TM_Manual_Test_Plan#Parallel_access "TM Manual Test Plan") (multiple parallel actions)
+*   [Update Site](./TM_Manual_Test_Plan#Update_Site "TM Manual Test Plan"): Install & Upgrade via Update Site
+*   [Scalability](./TM_Manual_Test_Plan#Scalability "TM Manual Test Plan") (Really large file lists, lots of events)
+*   [Processes Subsystem](./TM_Manual_Test_Plan#Processes_Subsystem "TM Manual Test Plan") (List, Sort, Kill, Remote Monitor)
     *   MV Shell Processes Subsystem
-*   [Verify Extension Points](/TM_Manual_Test_Plan#Verify_Extension_Points "TM Manual Test Plan") (Check docs, use in own code)
-*   [Remote Search](/TM_Manual_Test_Plan#Remote_Search "TM Manual Test Plan") (dstore only)
-*   [Complex Filters](/TM_Manual_Test_Plan#Complex_Filters "TM Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
-*   [Preferences](/TM_Manual_Test_Plan#Preferences "TM Manual Test Plan") (Walk through each of the Preferences and enable/disable)
-*   [Subsystem Properties](/TM_Manual_Test_Plan#Subsystem_Properties "TM Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
-*   [Synchronous operation](/TM_Manual_Test_Plan#Synchronous_operation "TM Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
-*   [Dirty Editors and Merging](/TM_Manual_Test_Plan#Dirty_Editors_and_Merging "TM Manual Test Plan") (Editing a Remote File that also changes remotely)
-*   [File Access Permissions and Timestamps](/TM_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "TM Manual Test Plan") (Read-only files etc.)
-*   [RSE Views](/TM_Manual_Test_Plan#RSE_Views "TM Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
-*   [RSE Widgets & Dialogs](/TM_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "TM Manual Test Plan"): Remote file-browse, Remote move-to
-*   [Connection Problems](/TM_Manual_Test_Plan#Connection_Problems "TM Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
+*   [Verify Extension Points](./TM_Manual_Test_Plan#Verify_Extension_Points "TM Manual Test Plan") (Check docs, use in own code)
+*   [Remote Search](./TM_Manual_Test_Plan#Remote_Search "TM Manual Test Plan") (dstore only)
+*   [Complex Filters](./TM_Manual_Test_Plan#Complex_Filters "TM Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
+*   [Preferences](./TM_Manual_Test_Plan#Preferences "TM Manual Test Plan") (Walk through each of the Preferences and enable/disable)
+*   [Subsystem Properties](./TM_Manual_Test_Plan#Subsystem_Properties "TM Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
+*   [Synchronous operation](./TM_Manual_Test_Plan#Synchronous_operation "TM Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
+*   [Dirty Editors and Merging](./TM_Manual_Test_Plan#Dirty_Editors_and_Merging "TM Manual Test Plan") (Editing a Remote File that also changes remotely)
+*   [File Access Permissions and Timestamps](./TM_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "TM Manual Test Plan") (Read-only files etc.)
+*   [RSE Views](./TM_Manual_Test_Plan#RSE_Views "TM Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
+*   [RSE Widgets & Dialogs](./TM_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "TM Manual Test Plan"): Remote file-browse, Remote move-to
+*   [Connection Problems](./TM_Manual_Test_Plan#Connection_Problems "TM Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
 
 #### Features **not to be tested** this time
 
-*   [Team Support](/TM_Manual_Test_Plan#Team_Support "TM Manual Test Plan") (Share connections, Connection Profiles)
-*   [Verify Copyright and Externalized Strings](/TM_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "TM Manual Test Plan") (Run automated checks, chkpii)
-*   [Verify Legal](/TM_Manual_Test_Plan#Verify_Legal "TM Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
-*   [Verify User Docs](/TM_Manual_Test_Plan#Verify_User_Docs "TM Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
-*   [Verify ISV Tutorial](/TM_Manual_Test_Plan#Verify_ISV_Tutorial "TM Manual Test Plan") (Walk through ISV tutorial)
-*   [Verify ISV Docs](/TM_Manual_Test_Plan#Verify_ISV_Docs "TM Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
-*   [Shell Content Assist-Linux](/TM_Manual_Test_Plan#Shell_Content_Assist-Linux "TM Manual Test Plan") (local,ssh,dstore)
-*   [Shell Content Assist-Windows](/TM_Manual_Test_Plan#Shell_Content_Assist-Windows "TM Manual Test Plan") (local,dstore)
-*   [Shell Pattern Matching](/TM_Manual_Test_Plan#Shell_Pattern_Matching "TM Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
+*   [Team Support](./TM_Manual_Test_Plan#Team_Support "TM Manual Test Plan") (Share connections, Connection Profiles)
+*   [Verify Copyright and Externalized Strings](./TM_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "TM Manual Test Plan") (Run automated checks, chkpii)
+*   [Verify Legal](./TM_Manual_Test_Plan#Verify_Legal "TM Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
+*   [Verify User Docs](./TM_Manual_Test_Plan#Verify_User_Docs "TM Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
+*   [Verify ISV Tutorial](./TM_Manual_Test_Plan#Verify_ISV_Tutorial "TM Manual Test Plan") (Walk through ISV tutorial)
+*   [Verify ISV Docs](./TM_Manual_Test_Plan#Verify_ISV_Docs "TM Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
+*   [Shell Content Assist-Linux](./TM_Manual_Test_Plan#Shell_Content_Assist-Linux "TM Manual Test Plan") (local,ssh,dstore)
+*   [Shell Content Assist-Windows](./TM_Manual_Test_Plan#Shell_Content_Assist-Windows "TM Manual Test Plan") (local,dstore)
+*   [Shell Pattern Matching](./TM_Manual_Test_Plan#Shell_Pattern_Matching "TM Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
 
   
 

@@ -3,7 +3,7 @@
 RSE 1.0.1 Testing
 =================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0.1 Testing | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | [RSE 1.0 Known Issues and Workarounds](/RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [RSE Manual Test Plan](/RSE_Manual_Test_Plan "RSE Manual Test Plan")
+Nav: [DSDP/TM](./DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0.1 Testing | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | [RSE 1.0 Known Issues and Workarounds](./RSE_1.0_Known_Issues_and_Workarounds "RSE 1.0 Known Issues and Workarounds") | [RSE Manual Test Plan](./RSE_Manual_Test_Plan "RSE Manual Test Plan")
 
 * * *
 
@@ -33,7 +33,7 @@ Organization and Signup
 
 The main focus in this round of testing is to find final **obvious showstoppers**, and to **verify** 1.0.1 bug fixes.
 
-Most of you took part in an earlier round of testing already, so you'll not need to read all of the [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"). Here is some important information for this round of testing:
+Most of you took part in an earlier round of testing already, so you'll not need to read all of the [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"). Here is some important information for this round of testing:
 
 *   Please use a customized bug entry template again. If you already have one from an earlier round of testing, change "1.0 Testing round 2" into "1.0.1 Testing" and save it as your new bookmark for this round of testing. Otherwise, use [this link to show, modify and save a sample bug entry template](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Target%20Management&version=1.0&component=RSE&rep_platform=PC&op_sys=Windows%20XP&priority=P3&bug_severity=normal&bug_status=NEW&assigned_to=dsdp.tm.rse-inbox%40eclipse.org&qa_contact=martin.oberhuber%40windriver.com&cc=&bug_file_loc=http%3A%2F%2F&short_desc=&comment=%0D%0A-----------Enter%20bugs%20above%20this%20line-----------%0D%0ARSE%201.0.1%20Testing%0D%0Ainstallation%20%3A%20eclipse-platform-3.2.1%20%28M20060921-0945%29%2C%20cdt-3.1.1%2C%20emf-2.1.1%0D%0ARSE%20install%20%20%3A%20update-site%20RSE-runtime-all%20%2B%20discovery%20%2B%20efs%0D%0Ajava.runtime%20%3A%20Sun%201.5.0_08-b03%0D%0Aos.name%3A%20%20%20%20%20%3A%20Windows%20XP%205.1%2C%20Service%20Pack%202%0D%0A------------------------------------------------%0D%0Asystemtype%20%20%20%3A%20Unix-ssh%20%28dstore-processes%29%0D%0Atargetos%20%20%20%20%20%3A%20SUSE%20LINUX%2010.1%20%28i586%29%0D%0Atargetuname%20%20%3A%20Linux%20osgiliath%202.6.16.21-0.21-default%20%231%20Tue%20Aug%2029%2016%3A42%3A05%20UTC%202006%20i686%20athlon%20i386%20GNU%2FLinux%0D%0Atargetvm%20%20%20%20%20%3A%20Sun%20Java%20HotSpot%28TM%29%20Client%20VM%20%28build%201.5.0_07-b03%2C%20mixed%20mode%2C%20sharing%29%0D%0A------------------------------------------------%0D%0A&commentprivacy=0&keywords=&dependson=&blocked=&maketemplate=Remember%20values%20as%20bookmarkable%20template&form_name=enter_bug).
 *   If possible, please use the JDK versions as signed up in the table below. These are chosen to comply with our [Reference Platforms and JDK versions](https://www.eclipse.org/dsdp/tm/development/plan.php#OperatingEnvironments). Edit the table below if you need to use a different JDK version.
@@ -64,40 +64,40 @@ Test Matrix
 
 #### RSE Features to test
 
-*   [Basic Sanity Test](/RSE_Manual_Test_Plan#Basic_Sanity_Test "RSE Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
-*   [Team Support](/RSE_Manual_Test_Plan#Team_Support "RSE Manual Test Plan") (Share connections, Connection Profiles)
-*   [CDT Remote Launch](/RSE_Manual_Test_Plan#CDT_Remote_Launch "RSE Manual Test Plan")
-*   [Dstore Launch Options](/RSE_Manual_Test_Plan#Dstore_Launch_Options "RSE Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
-*   [Shell Content Assist-Linux](/RSE_Manual_Test_Plan#Shell_Content_Assist-Linux "RSE Manual Test Plan") (local,ssh,dstore)
-*   [Shell Content Assist-Windows](/RSE_Manual_Test_Plan#Shell_Content_Assist-Windows "RSE Manual Test Plan") (local,dstore)
-*   [Parallel access](/RSE_Manual_Test_Plan#Parallel_access "RSE Manual Test Plan") (multiple parallel actions)
-*   [Drag&Drop, Copy&Paste](/RSE_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "RSE Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
-*   [Update Site](/RSE_Manual_Test_Plan#Update_Site "RSE Manual Test Plan"): Install & Upgrade via Update Site
-*   [Scalability](/RSE_Manual_Test_Plan#Scalability "RSE Manual Test Plan") (Really large file lists, lots of events)
-*   [Shell Pattern Matching](/RSE_Manual_Test_Plan#Shell_Pattern_Matching "RSE Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
-*   [Processes Subsystem](/RSE_Manual_Test_Plan#Processes_Subsystem "RSE Manual Test Plan") (List, Sort, Kill, Remote Monitor)
-*   [Verify Extension Points](/RSE_Manual_Test_Plan#Verify_Extension_Points "RSE Manual Test Plan") (Check docs, use in own code)
-*   [Remote Search](/RSE_Manual_Test_Plan#Remote_Search "RSE Manual Test Plan") (dstore only)
-*   [Complex Filters](/RSE_Manual_Test_Plan#Complex_Filters "RSE Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
-*   [Preferences](/RSE_Manual_Test_Plan#Preferences "RSE Manual Test Plan") (Walk through each of the Preferences and enable/disable)
-*   [Subsystem Properties](/RSE_Manual_Test_Plan#Subsystem_Properties "RSE Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
-*   [Synchronous operation](/RSE_Manual_Test_Plan#Synchronous_operation "RSE Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
-*   [Dirty Editors and Merging](/RSE_Manual_Test_Plan#Dirty_Editors_and_Merging "RSE Manual Test Plan") (Editing a Remote File that also changes remotely)
-*   [File Access Permissions and Timestamps](/RSE_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "RSE Manual Test Plan") (Read-only files etc.)
-*   [RSE Views](/RSE_Manual_Test_Plan#RSE_Views "RSE Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
-*   [RSE Widgets & Dialogs](/RSE_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "RSE Manual Test Plan"): Remote file-browse, Remote move-to
-*   [Connection Problems](/RSE_Manual_Test_Plan#Connection_Problems "RSE Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
-*   [Discovery](/RSE_Manual_Test_Plan#Discovery "RSE Manual Test Plan")
+*   [Basic Sanity Test](./RSE_Manual_Test_Plan#Basic_Sanity_Test "RSE Manual Test Plan") (File Subsystem, dirlist, simple filters, upload/download/edit, Tableview)
+*   [Team Support](./RSE_Manual_Test_Plan#Team_Support "RSE Manual Test Plan") (Share connections, Connection Profiles)
+*   [CDT Remote Launch](./RSE_Manual_Test_Plan#CDT_Remote_Launch "RSE Manual Test Plan")
+*   [Dstore Launch Options](./RSE_Manual_Test_Plan#Dstore_Launch_Options "RSE Manual Test Plan") (Rlogin, Already-Running, Port Ranges, SSL Connection)
+*   [Shell Content Assist-Linux](./RSE_Manual_Test_Plan#Shell_Content_Assist-Linux "RSE Manual Test Plan") (local,ssh,dstore)
+*   [Shell Content Assist-Windows](./RSE_Manual_Test_Plan#Shell_Content_Assist-Windows "RSE Manual Test Plan") (local,dstore)
+*   [Parallel access](./RSE_Manual_Test_Plan#Parallel_access "RSE Manual Test Plan") (multiple parallel actions)
+*   [Drag&Drop, Copy&Paste](./RSE_Manual_Test_Plan#Drag.26Drop.2C_Copy.26Paste "RSE Manual Test Plan") (RSE <-> RSE, Eclipse Navigator, Windows Explorer, Overwrite vs. Rename)
+*   [Update Site](./RSE_Manual_Test_Plan#Update_Site "RSE Manual Test Plan"): Install & Upgrade via Update Site
+*   [Scalability](./RSE_Manual_Test_Plan#Scalability "RSE Manual Test Plan") (Really large file lists, lots of events)
+*   [Shell Pattern Matching](./RSE_Manual_Test_Plan#Shell_Pattern_Matching "RSE Manual Test Plan") (Compiler Error Navigation, Directory and File Navigation)
+*   [Processes Subsystem](./RSE_Manual_Test_Plan#Processes_Subsystem "RSE Manual Test Plan") (List, Sort, Kill, Remote Monitor)
+*   [Verify Extension Points](./RSE_Manual_Test_Plan#Verify_Extension_Points "RSE Manual Test Plan") (Check docs, use in own code)
+*   [Remote Search](./RSE_Manual_Test_Plan#Remote_Search "RSE Manual Test Plan") (dstore only)
+*   [Complex Filters](./RSE_Manual_Test_Plan#Complex_Filters "RSE Manual Test Plan") (Multiple filter strings, Filter by filetype, Filter Persistence...)
+*   [Preferences](./RSE_Manual_Test_Plan#Preferences "RSE Manual Test Plan") (Walk through each of the Preferences and enable/disable)
+*   [Subsystem Properties](./RSE_Manual_Test_Plan#Subsystem_Properties "RSE Manual Test Plan") (Changing Properties of Systems/Subsystems in the RSE Tree)
+*   [Synchronous operation](./RSE_Manual_Test_Plan#Synchronous_operation "RSE Manual Test Plan") (Do a sanity check with "Deferred Queries" switched off in Preferences)
+*   [Dirty Editors and Merging](./RSE_Manual_Test_Plan#Dirty_Editors_and_Merging "RSE Manual Test Plan") (Editing a Remote File that also changes remotely)
+*   [File Access Permissions and Timestamps](./RSE_Manual_Test_Plan#File_Access_Permissions_and_Timestamps "RSE Manual Test Plan") (Read-only files etc.)
+*   [RSE Views](./RSE_Manual_Test_Plan#RSE_Views "RSE Manual Test Plan"): Treeview, Tableview, Monitor, Properties, Scratchpad, Editor, Compare (Check for consistency)
+*   [RSE Widgets & Dialogs](./RSE_Manual_Test_Plan#RSE_Widgets_.26_Dialogs "RSE Manual Test Plan"): Remote file-browse, Remote move-to
+*   [Connection Problems](./RSE_Manual_Test_Plan#Connection_Problems "RSE Manual Test Plan") (Very slow connections, unavailable/unreliable hosts, timeouts, breaking connections)
+*   [Discovery](./RSE_Manual_Test_Plan#Discovery "RSE Manual Test Plan")
 
 #### Features **not to be tested** this time
 
-*   [Verify Copyright and Externalized Strings](/RSE_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "RSE Manual Test Plan") (Run automated checks, chkpii)
-*   [Verify Legal](/RSE_Manual_Test_Plan#Verify_Legal "RSE Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
-*   [Verify User Docs](/RSE_Manual_Test_Plan#Verify_User_Docs "RSE Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
-*   [Verify ISV Tutorial](/RSE_Manual_Test_Plan#Verify_ISV_Tutorial "RSE Manual Test Plan") (Walk through ISV tutorial)
-*   [Verify ISV Docs](/RSE_Manual_Test_Plan#Verify_ISV_Docs "RSE Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
-*   [File Encodings](/RSE_Manual_Test_Plan#File_Encodings "RSE Manual Test Plan") (Foreign language files on remote side)
-*   [EFS](/RSE_Manual_Test_Plan#EFS "RSE Manual Test Plan")
+*   [Verify Copyright and Externalized Strings](./RSE_Manual_Test_Plan#Verify_Copyright_and_Externalized_Strings "RSE Manual Test Plan") (Run automated checks, chkpii)
+*   [Verify Legal](./RSE_Manual_Test_Plan#Verify_Legal "RSE Manual Test Plan") (Feature Descriptions, Licenses in all source features, Overall license)
+*   [Verify User Docs](./RSE_Manual_Test_Plan#Verify_User_Docs "RSE Manual Test Plan") (Walk through tutorial, Context Help, Check Links, Search feature)
+*   [Verify ISV Tutorial](./RSE_Manual_Test_Plan#Verify_ISV_Tutorial "RSE Manual Test Plan") (Walk through ISV tutorial)
+*   [Verify ISV Docs](./RSE_Manual_Test_Plan#Verify_ISV_Docs "RSE Manual Test Plan") (Broken Links, Semantic correctness, Searchable docs, Useful Javadoc)
+*   [File Encodings](./RSE_Manual_Test_Plan#File_Encodings "RSE Manual Test Plan") (Foreign language files on remote side)
+*   [EFS](./RSE_Manual_Test_Plan#EFS "RSE Manual Test Plan")
 
   
 

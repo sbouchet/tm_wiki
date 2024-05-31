@@ -3,7 +3,7 @@
 RSE 1.0 Known Issues and Workarounds
 ====================================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Known Issues and Workarounds
+Nav: [DSDP/TM](./DSDP/TM "DSDP/TM") | [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | RSE 1.0 Known Issues and Workarounds
 
 * * *
 
@@ -19,7 +19,7 @@ This page lists the **most obvious known issues** with [RSE 1.0](http://download
 | [160293](https://bugs.eclipse.org/bugs/show_bug.cgi?id=160293) | RSE perspective doesn't start if only Core is installed | Install at least a service plugin (SSH, FTP...) |
 | [149122](https://bugs.eclipse.org/bugs/show_bug.cgi?id=149122), [164202](https://bugs.eclipse.org/bugs/show_bug.cgi?id=164202), [161308](https://bugs.eclipse.org/bugs/show_bug.cgi?id=161308) | Exception in Properties; Refactoring History Page in weird places | The Refactoring History Property Page can pop up in weird places, and may lead to exceptions. This is a known Platform issue with Eclipse 3.2.1 ([bug 154735](https://bugs.eclipse.org/bugs/show_bug.cgi?id=154735)). Workaround: When you see the Refactoring History page, close the properties dialog and open it again -- it will be gone, and RSE works as expected. This bug has been fixed for Eclipse 3.3M4. |
 
-(Back to [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
+(Back to [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_1.0_Known_Issues_and_Workarounds](https://wiki.eclipse.org/RSE_1.0_Known_Issues_and_Workarounds))
