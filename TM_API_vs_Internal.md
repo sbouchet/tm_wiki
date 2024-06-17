@@ -8,7 +8,7 @@ The TM Project tries to keep its public API as small as possible, and move all n
 What does it mean if a class is internal:
 -----------------------------------------
 
-Note that a class being in an "internal" package doesn't mean that nobody can ever use it. As per [Export-Package](/Export-Package "Export-Package") also "internal" packages are exported, they are just tagged as discouraged access by an "x-internal:=true" specifier in the Manifest. The PDE Tools "Cleanup Manifest" wizard can do that automatically. So, if an interface is "internal", this just means that
+Note that a class being in an "internal" package doesn't mean that nobody can ever use it. As per [Export-Package](https://github.com/eclipse-platform/eclipse.platform/blob/master/docs/Export-Package.md "Export-Package") also "internal" packages are exported, they are just tagged as discouraged access by an "x-internal:=true" specifier in the Manifest. The PDE Tools "Cleanup Manifest" wizard can do that automatically. So, if an interface is "internal", this just means that
 
 *   We do not have to write documentation beyond the Javadoc
 *   We do not have to guarantee binary compatibility over releases
