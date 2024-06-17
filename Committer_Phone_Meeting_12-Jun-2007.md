@@ -60,7 +60,7 @@ Notes
 
 ### Ramp Down Plan
 
-*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](./Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
+*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](https://wiki.eclipse.org/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
     *   RC3 -- Thu Jun 14 (thursday)
     *   RC4 -- Thu Jun 21 (5 work days)
     *   EUROPA -- Jun 29
