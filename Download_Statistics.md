@@ -3,18 +3,18 @@
 TM/Download Statistics
 ======================
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 Download Statistics for the [Eclipse Target Management Project](https://www.eclipse.org/dsdp/tm/)
 
 Collected Download Statistics
 -----------------------------
 
-*   [17-Apr-2007](/DSDP/TM/Download_Stats_17-Apr-2007 "DSDP/TM/Download Stats 17-Apr-2007")
-*   [7-Feb-2007](/DSDP/TM/Phone_Meeting_7-Feb-2007#Recent_Download_Statistics "DSDP/TM/Phone Meeting 7-Feb-2007")
-*   [16-Jan-2007](/DSDP/TM/Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007")
-*   [19-Dec-2006](/DSDP/TM/Committer_Phone_Meeting_19-Dec-2006 "DSDP/TM/Committer Phone Meeting 19-Dec-2006")
-*   [8-Nov-2006](/DSDP/TM/Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
+*   [17-Apr-2007](./Download_Stats_17-Apr-2007 "DSDP/TM/Download Stats 17-Apr-2007")
+*   [7-Feb-2007](./Phone_Meeting_7-Feb-2007#Recent_Download_Statistics "DSDP/TM/Phone Meeting 7-Feb-2007")
+*   [16-Jan-2007](./Committer_Phone_Meeting_16-Jan-2007 "DSDP/TM/Committer Phone Meeting 16-Jan-2007")
+*   [19-Dec-2006](./Committer_Phone_Meeting_19-Dec-2006 "DSDP/TM/Committer Phone Meeting 19-Dec-2006")
+*   [8-Nov-2006](./Phone_Meeting_8-Nov-2006 "DSDP/TM/Phone Meeting 8-Nov-2006")
 
 How Download Statistics are Collected
 -------------------------------------
