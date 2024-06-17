@@ -80,7 +80,7 @@ Beginning of next week, the Europa Release Review slides are due. I'd like to ha
 
 ### Ramp Down Plan
 
-*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](./Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
+*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](https://wiki.eclipse.org/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
     *   RC1 -- Fri May 25 (5 work days) -- May 30: Release Review Slide Decks due
     *   RC2 -- Tue Jun 5 (6 work days)
     *   RC3 -- Thu Jun 14 (7 work days; Martin vacation 12-Jun til 21-Jun!)

@@ -50,7 +50,7 @@ Agenda
     *   [bug 198395](https://bugs.eclipse.org/bugs/show_bug.cgi?id=198395) \- Connect dstore with expired password - Dave will look at it (IBM only thing)
     *   [bug 197036](https://bugs.eclipse.org/bugs/show_bug.cgi?id=197036) \- Avoid plugin activation, dont create all filterpools on startup - will be looking at this week, might be possible without API change
 *   **DaveM:** [bug 196662](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196662) \- Refresh queries on dispatch thread - is it all fixed now?
-    *   [bug 200557](https://bugs.eclipse.org/bugs/show_bug.cgi?id=200557) \- Review dnd from Project Explorer ([bug 192704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=192704)
+    *   [bug 200557](https://bugs.eclipse.org/bugs/show_bug.cgi?id=200557) \- Review dnd from Project Explorer [bug 192704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=192704)
     *   [bug 199565](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199565), [bug 199566](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199566), [bug 199568](https://bugs.eclipse.org/bugs/show_bug.cgi?id=199568) \- Deadlock issues due to synchronized methods calling out
 *   **Kevin:** [bug 168219](https://bugs.eclipse.org/bugs/show_bug.cgi?id=168219) \- how to treat recursive delete of a tree where some elements are read-only
     *   Users will want recursive-delete including deleting read-only files. What's the best UI to give it to them?
@@ -62,7 +62,7 @@ Agenda
     *   **Uwe:** No news
     *   **Xuan:** Investigation on IBM RSE shows that Cmd processing uses a lot of memory (Hashmap, Array of output Strings) - will look at with DaveM
     *   **Rupen:** No news
-*   [BugDayAugust2007](./BugDayAugust2007 "BugDayAugust2007") \-\- August 31 -- TM taking part: committers sign up if they can hang out on [IRC](./IRC "IRC") (channel #eclipse-bugs), add "bugday" keyword to applicable bugs
+*   [BugDayAugust2007](https://wiki.eclipse.org/BugDayAugust2007 "BugDayAugust2007") \-\- August 31 -- TM taking part: committers sign up if they can hang out on [IRC](https://wiki.eclipse.org/IRC "IRC") (channel #eclipse-bugs), add "bugday" keyword to applicable bugs
 *   **Questions**
     *   Nothing except what's mentioned above
 

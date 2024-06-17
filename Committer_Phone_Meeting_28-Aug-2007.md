@@ -55,7 +55,7 @@ Agenda
 *   **Kevin:** -
 *   **Uwe:** -
 *   **Rupen:** [bug 198728](https://bugs.eclipse.org/bugs/show_bug.cgi?id=198728) \- assign it to myself if Xuan does not mind. (working on same bug for artemis)
-*   [BugDayAugust2007](https://wiki.eclipse.org/Bug_Day_August_2007 "BugDayAugust2007") \-\- August 31 -- TM taking part: committers sign up if they can hang out on [IRC](./IRC "IRC") (channel #eclipse-bugs), add "bugday" keyword to applicable bugs
+*   [BugDayAugust2007](https://wiki.eclipse.org/Bug_Day_August_2007 "BugDayAugust2007") \-\- August 31 -- TM taking part: committers sign up if they can hang out on [IRC](https://wiki.eclipse.org/IRC "IRC") (channel #eclipse-bugs), add "bugday" keyword to applicable bugs
     *   BugDay Bugs: [bug 192906](https://bugs.eclipse.org/bugs/show_bug.cgi?id=192906) Create-Project-shows-no-error: will accept the patch, Kevin to enter an enhancement request for using the wizard to allow users change the name of the created project
     *   Good to hang around in [IRC](https://wiki.eclipse.org/IRC "IRC"); Use [Chatzilla](http://chatzilla.hacksrus.com/) (channel #eclipse-bugs); Here is the [Blog regarding Stalk Words](http://recoskie.blogspot.com/2007/08/staffing-eclipse-irc-channel.html)
 

@@ -36,8 +36,8 @@ Agenda
 
 ### Last Meetings
 
-*   Last [DSDP/TM/Meetings/6-May-2009](./Meetings/6-May-2009 "DSDP/TM/Meetings/6-May-2009")
-*   Last [DSDP/TM/Meetings/15-Apr-2009 Committer](./Meetings/15-Apr-2009_Committer "DSDP/TM/Meetings/15-Apr-2009 Committer")
+*   Last [DSDP/TM/Meetings/6-May-2009](./6-May-2009 "DSDP/TM/Meetings/6-May-2009")
+*   Last [DSDP/TM/Meetings/15-Apr-2009 Committer](./15-Apr-2009_Committer "DSDP/TM/Meetings/15-Apr-2009 Committer")
 
 ### Status round call
 
@@ -80,7 +80,7 @@ Vacations
 Action Items
 ------------
 
-*   Last [DSDP/TM/Meetings/6-May-2009](./Meetings/6-May-2009 "DSDP/TM/Meetings/6-May-2009")
+*   Last [DSDP/TM/Meetings/6-May-2009](./6-May-2009 "DSDP/TM/Meetings/6-May-2009")
 *   **Everyone** Fix target milestone of 3.1m7 assigned bugs.
 *   **Martin** [bug 256581](https://bugs.eclipse.org/bugs/show_bug.cgi?id=256581) SSH performance; **old** review [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) Rado's deferred D&D; [bug 227750](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227750) IRSEInteractionProvider; [bug 240991](https://bugs.eclipse.org/bugs/show_bug.cgi?id=240991), [bug 239230](https://bugs.eclipse.org/bugs/show_bug.cgi?id=239230) Early startup; Run performance tests for [bug 236065](https://bugs.eclipse.org/bugs/show_bug.cgi?id=236065) IFileService improvements; Critical EFS bugs; RXTX 2.2;
 *   **Anna**: Remotecdt; new builder based on CBI tutorial
@@ -91,8 +91,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Meetings/3-Jun-2009](./Meetings/3-Jun-2009 "DSDP/TM/Meetings/3-Jun-2009") (2 weeks after)
-*   Next [DSDP/TM/Meetings/17-Jun-2009 Committer](./Meetings/17-Jun-2009_Committer "DSDP/TM/Meetings/17-Jun-2009 Committer") (4 weeks after)
+*   Next [DSDP/TM/Meetings/3-Jun-2009](./3-Jun-2009 "DSDP/TM/Meetings/3-Jun-2009") (2 weeks after)
+*   Next [DSDP/TM/Meetings/17-Jun-2009 Committer](./17-Jun-2009_Committer "DSDP/TM/Meetings/17-Jun-2009 Committer") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Meetings/20-May-2009_Committer](https://wiki.eclipse.org//DSDP/TM/Meetings/20-May-2009_Committer))
