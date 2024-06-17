@@ -3,9 +3,9 @@
 DSDP/TM/Download Stats 17-Apr-2007
 ==================================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
-See [DSDP/TM/Download Statistics](/DSDP/TM/Download_Statistics "DSDP/TM/Download Statistics") for information how the statistics are collected, and an archive of previous statistics.
+See [DSDP/TM/Download Statistics](./Download_Statistics "DSDP/TM/Download Statistics") for information how the statistics are collected, and an archive of previous statistics.
 
 TM Download statistics as per 17-Apr-2007
 | Component | 1.0 | 1.0.1 | 2.0M4 | 2.0M5 | 2.0M6 | 2.0M6a | Note |

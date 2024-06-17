@@ -20,7 +20,7 @@ Meeting canceled, next meetings:
 --------------------------------
 
 *   Monthly [DSDP/TM/Phone Meeting 5-Nov-2008](./Phone_Meeting_5-Nov-2008 "DSDP/TM/Phone Meeting 5-Nov-2008") (3 weeks) at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=11&day=5&year=2008&hour=17&min=00&sec=0&p1=0) **DST Change!**
-*   [DSDP/TM/Committer Phone Meeting 19-Nov-2008](./Committer_Phone_Meeting_19-Nov-2008 "DSDP/TM/Committer Phone Meeting 19-Nov-2008") (5 weeks) at [1600 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=11&day=19&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) **DST CHANGE!**
+*   [DSDP/TM/Committer Phone Meeting 19-Nov-2008](./Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 19-Nov-2008") (5 weeks) at [1600 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1700 Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=11&day=19&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800) **DST CHANGE!**
 
 
 (Migrated from [https://wiki.eclipse.org/DSDP/TM/Committer_Phone_Meeting_15-Oct-2008](https://wiki.eclipse.org/DSDP/TM/Committer_Phone_Meeting_15-Oct-2008))

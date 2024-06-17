@@ -81,7 +81,7 @@ Notes
     *   Status NEW --> ASSIGNED (if you are confident)
     *   Assign Target Milestones: 1.0.1 or 2.0 to indicate committed fixes; --- for yet unknown
         *   Better be conservative assigning target milestones -- it should be a firm commitment
-        *   The [GMF Project Plan#Plan\_Item\_Queries](./GMF_Project_Plan#Plan_Item_Queries "GMF Project Plan") has some queries that explain how they use target milestone and bug status
+        *   The [GMF Project Plan#Plan\_Item\_Queries](https://wiki.eclipse.org/GMF_Project_Plan#Plan_Item_Queries "GMF Project Plan") has some queries that explain how they use target milestone and bug status
     *   Bugzilla: When fixing a bug, please add a short note where it was fixed, e.g. "Fixed in DStoreRemoteFile". This helps tremendously to find and understand the fix, in case it should be needed again later
         *   Kushal, DaveM: How to get notified when a new bug is reported?
         *   On [Bugzilla Email Prefs](https://bugs.eclipse.org/bugs/userprefs.cgi?tab=email) page, enter "Users to Watch": dsdp.tm.core-inbox@eclipse.org,dsdp.tm.rse-inbox@eclipse.org,dsdp.general-inbox@eclipse.org
@@ -96,7 +96,7 @@ Notes
     *   **RSE 1.0.1 -- December 15, 2006** (4 weeks from now!)
     *   **RSE 2.0M4 (with Europa M4) -- January 4, 2007** (3 weeks later)
         *   Build system needs to be switched from 3.2.1 based build to Europa build after Dec.15 -- Ted
-    *   For more Europa dates, see the [Europa Simultaneous Release](./Europa_Simultaneous_Release "Europa Simultaneous Release") page
+    *   For more Europa dates, see the [Europa Simultaneous Release](https://wiki.eclipse.org/Europa_Simultaneous_Release "Europa Simultaneous Release") page
 *   API changes: we'll not introduce any api changes between 1.0 and 1.0.1; instead, DOCUMENT the APIs, along the way we'll see what needs to be improved. Prepare for API changes soon after 1.0.1
 *   Change Requests
     *   Meet 1hr later next week -- ok
