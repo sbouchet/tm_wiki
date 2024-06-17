@@ -47,7 +47,7 @@ Documents
 ---------
 
 *   [TM and RSE FAQ](./TM_and_RSE_FAQ)
-*   [Target Communication Framework (TCF) FAQ](./TCF)
+*   [Target Communication Framework (TCF) FAQ](https://wiki.eclipse.org/TCF)
 *   [TM/Code Streams](./Code_Streams)
 *   [TM/4.2 New & Noteworthy](./4.2_New_%26_Noteworthy)
 *   [TM/4.1 New & Noteworthy](./4.1_New_%26_Noteworthy)
