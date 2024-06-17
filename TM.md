@@ -41,7 +41,7 @@ Ongoing Discussions
 *   [TM/Download Statistics](./Download_Statistics)
 *   [TM Future Planning](./TM_Future_Planning)
 *   [RSE API Discussion](./RSE_API_Discussion)
-*   [TM/Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09](./Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09) | [Discussion](./Talk:TM/Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:TM/Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09")
+*   [TM/Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09](./Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09) | [Discussion](./Talk_Proposal_for_RSE_Hierarchy_by_Dave_Dykstal_2005x11x09 "Talk:TM/Proposal for RSE Hierarchy by Dave Dykstal 2005x11x09")
 
 Documents
 ---------
@@ -49,8 +49,8 @@ Documents
 *   [TM and RSE FAQ](./TM_and_RSE_FAQ)
 *   [Target Communication Framework (TCF) FAQ](https://wiki.eclipse.org/TCF)
 *   [TM/Code Streams](./Code_Streams)
-*   [TM/4.2 New & Noteworthy](./4.2_New_%26_Noteworthy)
-*   [TM/4.1 New & Noteworthy](./4.1_New_%26_Noteworthy)
+*   [TM/4.2 New & Noteworthy](./4.2_New_&_Noteworthy)
+*   [TM/4.1 New & Noteworthy](./4.1_New_&_Noteworthy)
 *   [TM/4.0 Ramp down Plan](./4.0_Ramp_down_Plan)
 *   [TM/3.6 Ramp down Plan](./3.6_Ramp_down_Plan)
 *   [TM/3.5 Ramp down Plan](./3.5_Ramp_down_Plan)
@@ -67,7 +67,7 @@ Documents
 *   [TM API vs Internal](./TM_API_vs_Internal)
 *   [DSDP-TM Draft API Proposal by Pierre-Alexandre 2005x11x21](./DSDP-TM_Draft_API_Proposal_by_Pierre-Alexandre_2005x11x21 )
 *   DSDP-TM Boardfile Descriptions at Wind River 2005x12x19
-*   [DSDP-TM Hardware Descriptions at ATI/Mentor 2006x02x17](./DSDP-TM_Hardware_Descriptions_at_ATI/Mentor_2006x02x17)
+*   [DSDP-TM Hardware Descriptions at ATI/Mentor 2006x02x17](./Mentor_2006x02x17)
 *   [DSDP-TM JUnit Tests Framework Documentation 2007x01x02](./JUnittests_Framework_Documentation)
 
 See the [TM Website](https://www.eclipse.org/tm/doc/) for other documents, slides and meeting notes.
