@@ -80,7 +80,7 @@ Notes
     *   Fix compiler warnings (Kushal) - prepare for running FindBugs
         *   There is also the TPTP StaticAnalysis thing
     *   Add ISV Javadoc where it is still missing or incorrect; review, and improve all docs
-    *   1.0.1 non-breaking API changes: See [Evolving Java-based APIs](./Evolving_Java-based_APIs "Evolving Java-based APIs")
+    *   1.0.1 non-breaking API changes: See [Evolving Java-based APIs](https://wiki.eclipse.org/Evolving_Java-based_APIs "Evolving Java-based APIs")
 *   Work towards RSE 2.0
     *   [RSE 2.0 Planning](./RSE_2.0_Planning "RSE 2.0 Planning") \- Finalize the 2.0 Project Plan
 

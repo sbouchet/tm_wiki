@@ -74,7 +74,7 @@ Services API
 
 ### Files API
 
-*   [Eclipse File Service APIs Compared](/Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared")
+*   [Eclipse File Service APIs Compared](./Eclipse_File_Service_APIs_Compared "Eclipse File Service APIs Compared")
 *   org.eclipse.rse.services.files: IHostFile, IFileService
 *   Check IClassifierConstants (from clientserver)
 

@@ -51,7 +51,7 @@ Agenda
 
 *   TmL / Motorola Status: Started integrating code with TM/RSE, pending approvals and contributions
     *   Using RSE as framework as UI for TmL: Some screenshots on the TmL Wiki, asking for feedback
-    *   Project Wiki: [DSDP/TML](https://wiki.eclipse.org/TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](https://wiki.eclipse.org/TML/TmLusingTM "DSDP/TML/TmLusingTM")
+    *   Project Wiki: [DSDP/TML](https://wiki.eclipse.org/DSDP/TML "DSDP/TML") TmL over TM info and screenshots: [DSDP/TML/TmLusingTM](https://wiki.eclipse.org/DSDP/TML/TmLusingTM "DSDP/TML/TmLusingTM")
 *   No Questions
 
 ### Technology sub-groups

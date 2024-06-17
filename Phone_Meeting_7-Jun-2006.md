@@ -73,7 +73,7 @@ Notes
     *   Shall serve as the input for planning 2.0
     *   Want to have a face-to-face meeting (september?) for planning 2.0
 *   Wiki notifications
-    *   You can turn on "watch" for a Wiki page. The Wiki will collect changes to watched pages on the [my watchlist](./Special:Watchlist "Special:Watchlist") page.
+    *   You can turn on "watch" for a Wiki page. The Wiki will collect changes to watched pages on the "my watchlist" page.
 *   [TM Development Homepage](https://www.eclipse.org/dsdp/tm/development/index.php) \- a nice collection of links and tools
     *   Reachable from the [TM Homepage](https://www.eclipse.org/dsdp/tm), Navigation bar, last item "Development Tools"
     *   Includes CVS information like *.psf Project Sets and the link to the [CVS Changelog](http://download.eclipse.org/dsdp/tm/downloads/drops/N-changelog/index.html)
@@ -98,7 +98,7 @@ Notes
     *   CDT Launching -- Ewa did not show up
     *   [Autodetect](./Autodetect "DSDP/TM/Autodetect") \-\- Javier dropped off early
     *   [Connectors](./Flexible_Target_Connection_Adaptors "DSDP/TM/Flexible Target Connection Adaptors") \-\- Peter L did not show up
-*   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+*   Update on [SPIRIT](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
     *   Lots of discussions held on DD mailinglist (partly embedded in other subjects)
     *   Debug specific needs been added to the SPIRIT roadmap, but lots of action items are still open
     *   What do people perceive as the ways they want to use the information? C++ debugger back-ends?
