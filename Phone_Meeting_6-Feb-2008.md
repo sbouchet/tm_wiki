@@ -52,7 +52,7 @@ Notes
 
 *   Xuan: Discussed how the rse useractions can go into Open Source
 
-*   **Subsystem Families** ([bug 217894](https://bugs.eclipse.org/bugs/show_bug.cgi?id=217894):
+*   **Subsystem Families** [bug 217894](https://bugs.eclipse.org/bugs/show_bug.cgi?id=217894):
     *   Want to contribute user actions to subsystem families
     *   Martin would tie "family" to the connectorservice. Then it's orthogonal to the subsystem category. Add a "connectorserviceid" to SubsytemConfiguration plugin.xml
     *   SystemType is also some kind of grouping. What's the definition of a Family compared to SystemType?

@@ -84,7 +84,7 @@ Agenda
     *   Collaborations with other projects (Platform/Team, PTP, CDT, TPTP, WTP, ECF, Aperi, g-Eclipse)
 *   Technology sub-groups
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   Update on [SPIRIT](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
     *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
 *   Next Meeting
     *   Suggest 25-Oct or 8-Nov instead of 1-Nov because this is a public holiday in Europe
