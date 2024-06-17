@@ -60,7 +60,7 @@ Notes
 
 ### Ramp Down Plan
 
-*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](./Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
+*   [TM 2.0 Ramp down Plan for Europa](./TM_2.0_Ramp_down_Plan_for_Europa "TM 2.0 Ramp down Plan for Europa"), based on [Europa Simultaneous Release#Milestones and Release Candidates](https://wiki.eclipse.org/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release")
     *   RC2 -- Tue Jun 5 (today)
     *   RC3 -- Thu Jun 14 (7 work days; Martin vacation 12-Jun til 21-Jun!)
     *   RC4 -- Thu Jun 21 (5 work days)
@@ -113,7 +113,7 @@ Action Items
 Next Meeting
 ------------
 
-*   [Europa Simultaneous Release](./Europa_Simultaneous_Release "Europa Simultaneous Release") Release Review on [6-Jun-2007 at 7am PST / 1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=7&min=0&sec=0&p1=221)
+*   [Europa Simultaneous Release](https://wiki.eclipse.org/Europa_Simultaneous_Release "Europa Simultaneous Release") Release Review on [6-Jun-2007 at 7am PST / 1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=7&min=0&sec=0&p1=221)
 *   Monthly [DSDP/TM/Phone Meeting 6-Jun-2007](./Phone_Meeting_6-Jun-2007 "DSDP/TM/Phone Meeting 6-Jun-2007") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=6&day=6&year=2007&hour=16&min=00&sec=0&p1=0)
 *   [DSDP/TM/Committer Phone Meeting 12-Jun-2007](./Committer_Phone_Meeting_12-Jun-2007 "DSDP/TM/Committer Phone Meeting 12-Jun-2007") at [1500 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2007&month=6&day=12&hour=15&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 

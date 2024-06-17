@@ -76,7 +76,7 @@ Meeting Notes
         *   Greg (PTP) has some loose connection, the focus is quite different; EFS
 *   **Technology sub-groups**
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Anthony)
+    *   Update on [SPIRIT](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") (Anthony)
         *   [Spirit DWG Kick-off Meeting](http://dev.eclipse.org/mhonarc/lists/dsdp-dd-dev/msg00395.html) \- [Sept 13, 4-6pm UK, 11-1pm EDT](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2006&month=9&day=13&hour=15&min=0&sec=0&p1=224&p2=43&p3=223&p4=136)
         *   Anthony is doing some work on an Eclipse-based SPIRIT editor that they intend to open source. Both are experimental and not ready for contribution.
     *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
