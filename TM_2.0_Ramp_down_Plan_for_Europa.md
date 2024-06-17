@@ -3,7 +3,7 @@
 TM 2.0 Ramp down Plan for Europa
 ================================
 
-For reference, see the [Europa Simultaneous Release](/Europa_Simultaneous_Release "Europa Simultaneous Release"), in particular the [Milestones and Release Candidates](/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release").
+For reference, see the [Europa Simultaneous Release](https://wiki.eclipse.org/Europa_Simultaneous_Release "Europa Simultaneous Release"), in particular the [Milestones and Release Candidates](https://wiki.eclipse.org/Europa_Simultaneous_Release#Milestones_and_Release_Candidates "Europa Simultaneous Release").
 
 Contents
 --------
@@ -73,7 +73,7 @@ The last few weeks before the TM 2.0.1 release are reserved for testing and rais
 
 *   Aug 30th, RC1 produced
 
-After Aug 30th, we'll have an intensive [TM 2.0.1 Testing](/TM_2.0.1_Testing "TM 2.0.1 Testing") pass and fork off a mainenance branch for 2.0.1. For futher fixes, besides the normal component team review, at least 1 additional committer **should** also review and vote +1 on bugzilla after reviewing the bug for appropriateness and risk. **Every fix after RC1 needs to be verified.**
+After Aug 30th, we'll have an intensive [TM 2.0.1 Testing](./TM_2.0.1_Testing "TM 2.0.1 Testing") pass and fork off a mainenance branch for 2.0.1. For futher fixes, besides the normal component team review, at least 1 additional committer **should** also review and vote +1 on bugzilla after reviewing the bug for appropriateness and risk. **Every fix after RC1 needs to be verified.**
 
 *   Sep 6th, RC2 produced
 
@@ -81,12 +81,12 @@ After Sep 6th, besides the normal component team review, at least 1 additional c
 
 *   Sep 13th, RC3 produced
 
-After Sep 13th, we do not really want to put any more bug fixes into 2.0.1 unless an emergency turns up. Time is reserved for our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](/DSDP/TM/Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"), and release preparations. After Sep 13th, besides the normal component team review, at least 1 PMC member and 1 additional committer must also review and vote +1 after reviewing the bug for appropriateness and risk.
+After Sep 13th, we do not really want to put any more bug fixes into 2.0.1 unless an emergency turns up. Time is reserved for our [DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007"), and release preparations. After Sep 13th, besides the normal component team review, at least 1 PMC member and 1 additional committer must also review and vote +1 after reviewing the bug for appropriateness and risk.
 
 Ramp down for Europa SR2 (29-Feb-2007)
 --------------------------------------
 
-*   Feb 25th, Release bits ready for Europa (according to [Europa\_Simultaneous\_Release#Proposal 1: Schedule Change](/Europa_Simultaneous_Release#Proposal_1:_Schedule_Change "Europa Simultaneous Release"))
+*   Feb 25th, Release bits ready for Europa (according to [Europa\_Simultaneous\_Release#Proposal 1: Schedule Change](https://wiki.eclipse.org/Europa_Simultaneous_Release#Proposal_1:_Schedule_Change "Europa Simultaneous Release"))
 *   The TM release to be shipped with Europa SR2 will likely be TM 2.0.3
 
 

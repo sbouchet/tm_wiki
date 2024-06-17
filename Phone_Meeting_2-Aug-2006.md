@@ -55,7 +55,7 @@ Agenda
         *   Want to push into CDT in the future - for now, leave it in TM and make it a feature installable via update site.
         *   Ewa wants feedback on the feature from the community --> Need to give easy access to it (via TM update site).
         *   Refer to the TM repository via softlinks in CDT?
-    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   Update on [SPIRIT](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
         *   Trying to get contributions of SPIRIT parsing code, but not much community feedback so far... parsing lib could be C/C++ as well, need not be restricted to Java (ARM has such libs)
         *   Many consumers but few contributors - nobody has an opinion until they see something
         *   DougS - nobody has a burning need right now? - But more for debugger back-ends than the Eclipse pieces

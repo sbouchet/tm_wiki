@@ -64,7 +64,7 @@ Notes
 
 *   Technology sub-groups
     *   CDT Launching (Ewa)
-    *   Update on [SPIRIT](./DD/Spirit "DSDP/DD/Spirit") (Aaron)
+    *   Update on [SPIRIT](https://wiki.eclipse.org/DSDP/DD/Spirit "DSDP/DD/Spirit") (Aaron)
     *   Update on [Autodetect](./Autodetect "DSDP/TM/Autodetect") (Javier)
 
 Action Items to Review

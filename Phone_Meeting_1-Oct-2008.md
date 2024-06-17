@@ -54,7 +54,7 @@ Agenda
 
 #### Individual Status
 
-*   Martin now working much on [Architecture Council](./Architecture_Council "Architecture Council"), [E4](./E4 "E4") and RXTX - for TM related status see [DSDP/TM/Committer Phone Meeting 20-Aug-2008](./Committer_Phone_Meeting_20-Aug-2008 "DSDP/TM/Committer Phone Meeting 20-Aug-2008")
+*   Martin now working much on [Architecture Council](https://wiki.eclipse.org/Architecture_Council "Architecture Council"), [E4](https://wiki.eclipse.org/E4 "E4") and RXTX - for TM related status see [DSDP/TM/Committer Phone Meeting 20-Aug-2008](./Committer_Phone_Meeting_20-Aug-2008 "DSDP/TM/Committer Phone Meeting 20-Aug-2008")
 *   DaveD hopes to get back to more OpenRSE stuff over time (October)
 *   Xuan, Kevin likely continue working heavily on IBM portion until October at least
 *   DaveM mostly on OpenRSE (at least 60%)
