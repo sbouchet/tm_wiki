@@ -49,9 +49,9 @@ Juno development should be done against **Eclipse 4.2** although our tests shoul
     *   Egit team provider ([Update Site](http://download.eclipse.org/egit/updates)) \- project set support requires Eclipse 4.2 or later
     *   For TM-Terminal-Serial: RXTX ([Update Site](http://rxtx.qbang.org/eclipse/) | [ZIP Download](http://rxtx.qbang.org/eclipse/downloads/))
     *   For TM-Terminal-Local: org.eclipse.cdt.core ([CDT Downloads](http://eclipse.org/cdt/downloads.php))
-    *   For TM-Terminal CDC execution environment: [J9](/J9 "J9") CDC-1.1/Foundation-1.1 environment, registered via its .ee file
+    *   For TM-Terminal CDC execution environment: [J9](https://wiki.eclipse.org/J9 "J9") CDC-1.1/Foundation-1.1 environment, registered via its .ee file
 *   Workspace setup
-    *   Read [TM/Git Workflows](/TM/Git_Workflows "TM/Git Workflows") for setup
+    *   Read [TM/Git Workflows](./Git_Workflows "TM/Git Workflows") for setup
     *   Preferences : Java : Installed JRE's: Add JRE's for J2SE-1.5, J2SE-1.4 (and CDC-1.1/Foundation-1.1 for Terminal)
     *   Preferences : PDE : Download, extract and register [tm\_3.4\_api_baseline.zip](http://archive.eclipse.org/tm/downloads/tm_3.4_api_baseline.zip)
     *   File > Import > Team > Team Project Set: [tm-all-juno.psf](https://www.eclipse.org/tm/development/tm-all-juno.psf)

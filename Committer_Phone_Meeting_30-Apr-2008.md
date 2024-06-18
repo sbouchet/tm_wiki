@@ -79,7 +79,7 @@ Notes
 Vacation, away
 --------------
 
-*   MartinO public holiday Thurs May 1; in Ottawa for [E4/Summit](./E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
+*   MartinO public holiday Thurs May 1; in Ottawa for [E4/Summit](https://wiki.eclipse.org/E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
 *   Rupen May 8-15
 *   MartinO vacation June 11 - 22
 *   DaveM vacation June 16 - 20
@@ -96,7 +96,7 @@ Action Items
 *   **Rupen**: Attach prototype patch for [bug 227213](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227213)
 *   **Xuan**: Upgrade Skype to fix quality issues; Use Kevin's Properties for Unit Tests
 *   **Martin**: New Project Plan; Commons Net Placeholder CQ; UI/Non-UI Splitting; finish new releng; Look at PropertyDescriptor issues; unit tests
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 *   **Uwe**:
 *   **Rado**:
