@@ -95,7 +95,7 @@ Next Meeting
 ------------
 
 *   [DSDP/TM/Committer Phone Meeting 30-Apr-2008](./Committer_Phone_Meeting_30-Apr-2008 "DSDP/TM/Committer Phone Meeting 30-Apr-2008") (2 weeks) at [1500 UTC / 0800 SFO / 1000 Rochester / 1100 Toronto / 1600 London / 1700 Barcelona+Salzburg](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=4&day=30&hour=15&min=0&sec=0&p1=224&p2=159&p3=250&p4=31&p5=223&iv=1800)
-*   Next [BugDay/April_2008](./BugDay/April_2008 "BugDay/April 2008") on Apr 25
+*   Next [BugDay/April_2008](https://wiki.eclipse.org/BugDay/April_2008 "BugDay/April 2008") on Apr 25
 *   Monthly [DSDP/TM/Phone Meeting 7-May-2008](./Phone_Meeting_7-May-2008 "DSDP/TM/Phone Meeting 7-May-2008") at [9am PST / 1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=5&day=7&year=2008&hour=16&min=00&sec=0&p1=0)
 
 

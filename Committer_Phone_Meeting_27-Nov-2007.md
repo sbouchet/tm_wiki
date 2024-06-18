@@ -105,7 +105,7 @@ Action Items
 *   **Xuan**: fixes, unit tests
 *   **Kevin**: fixes, unit tests
 *   **Martin**: Update bugzilla's; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting

@@ -113,7 +113,7 @@ Action Items
 *   Old Action Items from previous meetings:
     *   **DaveD**: Decide whether Mac should be "primary" or "secondary" supported platform.
     *   **Martin**: Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-    *   **Javier**: document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+    *   **Javier**: document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 
 Next Meeting
 ------------

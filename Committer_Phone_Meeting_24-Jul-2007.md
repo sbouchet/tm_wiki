@@ -60,7 +60,7 @@ Notes
 
   
 
-*   [DSDP/TM/Face-to-face Meeting 19-Sep-2007](./Face-to-face_Meeting_19-Sep-2007 "DSDP/TM/Face-to-face Meeting 19-Sep-2007"): Moving to Toronto? Participants? Agenda Items?
+*   [DSDP/TM/Face-to-face Meeting 19-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting 19-Sep-2007"): Moving to Toronto? Participants? Agenda Items?
     *   **AI DaveM** talk to Pete Nicholls for a room in Toronto
     *   **AI DaveD** confirm travel budget with IBM mgmt
 
