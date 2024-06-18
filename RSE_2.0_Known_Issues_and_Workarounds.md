@@ -3,9 +3,7 @@
 TM 2.0 Known Issues and Workarounds
 ===================================
 
-(Redirected from [RSE 2.0 Known Issues and Workarounds](./index.php?title=RSE_2.0_Known_Issues_and_Workarounds&redirect=no "RSE 2.0 Known Issues and Workarounds"))
-
-Nav: [DSDP/TM](./TM "DSDP/TM") | [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") | [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | TM 2.0 Known Issues and Workarounds | [TM 3.0 Known Issues and Workarounds](./TM_3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds")
+Nav: [DSDP/TM](./TM "DSDP/TM") | [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ") | [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | TM 2.0 Known Issues and Workarounds | [TM 3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds")
 
 * * *
 
@@ -40,7 +38,7 @@ Issues fixed in recent milestones
 | ~~[194204](https://bugs.eclipse.org/bugs/show_bug.cgi?id=194204)~~ | [TM 2.0.0.1](http://download.eclipse.org/dsdp/tm/downloads/drops/R-2.0.0.1-200707061039/) / [I20070705-0600](http://download.eclipse.org/dsdp/tm/downloads/) | **RSE FTP: Renaming Files/Folders moves them sometimes** \- this could mean loss of data. A patch is provided with TM 2.0.0.1. See [the TM 2.0.0.1 blog](http://tmober.blogspot.com/2007/07/dsdp-tm-rse-2001-critical-patch-release.html) for details. |
 
   
-(Back to [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 3.0 Known Issues and Workarounds](./TM_3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds"))
+(Back to [TM 2.0 Testing](./TM_2.0_Testing "TM 2.0 Testing") | [TM 2.0 Test Instructions](./TM_2.0_Test_Instructions "TM 2.0 Test Instructions") | [TM 3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "TM 3.0 Known Issues and Workarounds"))
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_2.0_Known_Issues_and_Workarounds](https://wiki.eclipse.org/RSE_2.0_Known_Issues_and_Workarounds))
