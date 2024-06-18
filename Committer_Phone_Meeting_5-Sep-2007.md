@@ -72,7 +72,7 @@ Agenda
 *   **Martin:** \- BugDay activities
 *   **Uwe:** Included RSE JUnittests into our nightly product test suite.
 *   **Rupen:** [bug 198728](https://bugs.eclipse.org/bugs/show_bug.cgi?id=198728) \- assign it to myself if Xuan does not mind. (working on same bug for artemis)
-*   [BugDayAugust2007](./BugDayAugust2007 "BugDayAugust2007") \-\- August 31 -- Results:
+*   [BugDayAugust2007](https://wiki.eclipse.org/BugDayAugust2007 "BugDayAugust2007") \-\- August 31 -- Results:
     *   3 bugs fixed, reviewed by Martin; IRC was really quiet; more communication on bugzilla than IRC
 *   **Questions**
 
