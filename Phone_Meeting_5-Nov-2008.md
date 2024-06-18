@@ -52,7 +52,7 @@ Notes
     *   Remove EFS from the project plan ... **ok for everyone**
     *   [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) \- Deferred drag&drop SWT bug - need to find out how to report progress for the background file transfer, Rado?
 *   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
-*   [Galileo Simultaneous Release#Requirements For Participation](./Galileo_Simultaneous_Release#Requirements_For_Participation "Galileo Simultaneous Release"): Participate in Babel (done)
+*   [Galileo Simultaneous Release#Requirements For Participation](https://wiki.eclipse.org/Galileo_Simultaneous_Release#Requirements_For_Participation "Galileo Simultaneous Release"): Participate in Babel (done)
     *   Get rid of Platform "internal" usage - IBM Product work hopefully winding down next month, schedule some time in Dec/Jan
     *   Build process maturity: repeatable, scriptable, usable by others
     *   Basic Capability / Activity definitions
@@ -111,7 +111,7 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Committer Phone Meeting 19-Nov-2008](./Committer_Phone_Meeting_19-Nov-2008 "DSDP/TM/Committer Phone Meeting 19-Nov-2008") (2 weeks after)
+*   Next [DSDP/TM/Committer Phone Meeting 19-Nov-2008](./Committer_Phone_Meeting_26-Nov-2008 "DSDP/TM/Committer Phone Meeting 19-Nov-2008") (2 weeks after)
 *   Next [DSDP/TM/Phone Meeting 3-Dec-2008](./Phone_Meeting_3-Dec-2008 "DSDP/TM/Phone Meeting 3-Dec-2008") (4 weeks after)
 
 
