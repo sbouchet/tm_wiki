@@ -64,7 +64,7 @@ Notes
 
 ### Current Work
 
-*   **Asterisk:** New Eclipse.org conferencing solution - Need Idefisk 1.37, see [Asterisk Conference Calls](./Asterisk_Conference_Calls "Asterisk Conference Calls")
+*   **Asterisk:** New Eclipse.org conferencing solution - Need Idefisk 1.37, see [Asterisk Conference Calls](https://wiki.eclipse.org/Asterisk_Conference_Calls "Asterisk Conference Calls")
     *   VoIP did not work for Xuan and DaveM (did not hear anything, were not asked for password)
     *   VoIP did not work for Javier (firewall issues: port UDP 4569 blocked)
     *   Javier tried US dialin to hook up with Martin only: heard quite some noise, Martin heard Javier but quite silent, also there seemed to be quite some delay. Martin will tell the Foundation people - keep the current phone number for now.

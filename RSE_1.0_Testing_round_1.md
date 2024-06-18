@@ -150,13 +150,13 @@ Comments from Testers
 ---------------------
 
 *   I think the reminders are great! -- [User:Michael.Scharf.windriver.com](https://wiki.eclipse.org/User:Michael.Scharf.windriver.com "User:Michael.Scharf.windriver.com")
-*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- [User:uwe.stieber.windriver.com](https://wiki.eclipse.org/User:Uwe.stieber.windriver.com)
-*   I thought it was well organized -- better than most. -- [User:ted.williams.windriver.com](https://wiki.eclipse.org/User:Ted.williams.windriver.com)
-*   I thought the coverage was good. Also, the test instructions were good. -- [User:kmunir.ca.ibm.com](https://wiki.eclipse.org/User:Kmunir.ca.ibm.com)
-*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- [User:Javier.MontalvoOrus.symbian.com](https://wiki.eclipse.org/User:Javier.MontalvoOrus.symbian.com)
-*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- [User:norbert.ploett.siemens.com](https://wiki.eclipse.org/User:Norbert.ploett.siemens.com)
-*   The testing was very coordinated. -- [User:Ewa.Matejska.palmsource.com](https://wiki.eclipse.org/User:Ewa.Matejska.palmsource.com)
-*   [User:sumit.sarkar.gmail.com](https://wiki.eclipse.org/User:Sumit.sarkar.gmail.com) writes:
+*   We should have a formal database with test cases to perform. This could be just Wiki pages grouped by feature and/or use case. -- User:uwe.stieber.windriver.com
+*   I thought it was well organized -- better than most. -- User:ted.williams.windriver.com
+*   I thought the coverage was good. Also, the test instructions were good. -- User:kmunir.ca.ibm.com
+*   FTP was just sanity tested since there are quite a lot of standing issues and the engine is going to be replaced. -- User:Javier.MontalvoOrus.symbian.com
+*   Given that all assignment are voluntary it is good that you try to formalize things somewhat. (Haven't seen this in the CDT) -- User:norbert.ploett.siemens.com
+*   The testing was very coordinated. -- User:Ewa.Matejska.palmsource.com
+*   User:sumit.sarkar.gmail.com writes:
     *   A presentation from RSE team could have really helped to ramp up our testing and know the features. I didn't have much time reading the documentation.  :)
     *   I need to file another bug. I saw when a file name in HP-UX had a ":" in it, the files could not be loaded in the RSE/Eclipse editor.
     *   Didn't like the remote console (term) part. Why command line is separate from the console? It was slow. The lines in the console was selectable, but when I right-clicked, "Open With" was disabled. Did not know what to do? And why this feature is there and what it is supposed to do.
@@ -165,7 +165,7 @@ Comments from Testers
 
 in the wiki page. But a reminder could have helped.
 
-*   I thought it went very well. -- [User:david_dykstal.us.ibm.com](https://wiki.eclipse.org/User:David dykstal.us.ibm.com)
+*   I thought it went very well. -- User:david_dykstal.us.ibm.com
 *   Thanks to everybody! -- [Martin Oberhuber](https://wiki.eclipse.org/Martin_Oberhuber "Martin Oberhuber")
 
 
