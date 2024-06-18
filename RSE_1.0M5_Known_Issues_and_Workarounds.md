@@ -3,7 +3,7 @@
 RSE 1.0M5 Known Issues and Workarounds
 ======================================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0M5 Known Issues and Workarounds
+Nav: [DSDP/TM](./TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0M5 Known Issues and Workarounds
 
 * * *
 
@@ -23,7 +23,7 @@ See the [Open P1, P2 bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_forma
 | [142953](https://bugs.eclipse.org/bugs/show_bug.cgi?id=142953) | No prompt on linux-dstore shell | Type several commands e.g. "ls", eventually you will get a prompt |
 | [158319](https://bugs.eclipse.org/bugs/show_bug.cgi?id=158319) | Remote Resources are not shown although they are there | With filtering in the files tree, when multiple filters evaluate to showing the same resource, it can happen that the resource is not shown under some filters. Workaround: disconnect and reconnect the connection. Expand only one filter at a time. |
 
-(Back to [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
+(Back to [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_1.0M5_Known_Issues_and_Workarounds](https://wiki.eclipse.org/RSE_1.0M5_Known_Issues_and_Workarounds))

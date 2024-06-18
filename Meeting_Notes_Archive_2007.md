@@ -26,7 +26,7 @@ Face-to-Face and Special Meetings
 
 The face-to-face meetings are our instrument for getting to know each other, collecting requirements, and planning big steps. The face-to-face meeting minutes hold important information on major decisions we've made.
 
-*   [TCF - ECF Sync-up and Integration Meeting 4-Dec-2007](./TCF_-_ECF_Sync-up_and_Integration_Meeting_4-Dec-2007 "DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007")
+*   [TCF - ECF Sync-up and Integration Meeting 4-Dec-2007](https://wiki.eclipse.org/TCF_-_ECF_Sync-up_and_Integration_Meeting_4-Dec-2007 "DSDP/TM/TCF - ECF Sync-up and Integration Meeting 4-Dec-2007")
 *   [Face-to-face Meeting Toronto 17-Sep-2007](./Face-to-face_Meeting_Toronto_17-Sep-2007 "DSDP/TM/Face-to-face Meeting Toronto 17-Sep-2007")
 
 Monthly Phone Meetings
