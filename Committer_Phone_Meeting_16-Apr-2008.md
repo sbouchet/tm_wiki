@@ -71,7 +71,7 @@ M7 is only 3 weeks (May 7) and it is the **feature freeze**. So we need to get o
 Vacation, away
 --------------
 
-*   MartinO in Ottawa for [E4/Summit](./E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
+*   MartinO in Ottawa for [E4/Summit](https://wiki.eclipse.org/E4/Summit "E4/Summit") May 22-23 .. want to meet in Toronto?
 *   MartinO vacation June 11 - 22
 *   DaveM vacation June 16 - 20
 *   DaveD in July -- **AI Martin** finish and test the new Build scripts on dsdp.eclipse.org till then
@@ -87,7 +87,7 @@ Action Items
 *   **Xuan**: Upgrade Skype to fix quality issues; Use Kevin's Properties for Unit Tests
 *   **Kevin**: Website Updates
 *   **Martin**: New Project Plan; Ganymede Rampdown Plan; Commons Net Placeholder CQ; UI/Non-UI Splitting; finish new releng; Look at PropertyDescriptor issues; unit tests
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 *   **Uwe**: Add @noextend / @noimplement to New Connection Wizard where appropriate
 

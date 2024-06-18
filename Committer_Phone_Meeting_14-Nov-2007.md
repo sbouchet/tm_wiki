@@ -76,7 +76,7 @@ Agenda
         *   Need to have a better understanding what the UI should look like for [bug 209704](https://bugs.eclipse.org/bugs/show_bug.cgi?id=209704) user-contributed conversions for BIDI -- **AI DaveM** ask Violaine about intended UI for this
     *   Javier working on Tests -- using an internal FTP server at Symbian for now -- how to move that into Open Source?
     *   Martin has root access on dsdp.eclipse.org -- install an FTP server that only allows access from "localhost"
-        *   **AI Javier** document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+        *   **AI Javier** document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Martin:** \- Released [TM 2.0.2](http://download.eclipse.org/dsdp/tm/downloads/drops/R-2.0.2-200711131300/index.php) and [TM 3.0M3](http://download.eclipse.org/dsdp/tm/downloads/drops/S-3.0M3-200711141025/index.php); Need to put Project Plan on the Web; Update Releng scripts to automatically run unit tests at night
 *   **Uwe:** \- cleanup of 2 open-source bugs
 *   **Rupen:** \- little bit Open Source bugfixes - not too much time
@@ -102,7 +102,7 @@ Action Items
 *   **Xuan**: fixes, unit tests
 *   **Kevin**: fixes, unit tests
 *   **Martin**: Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Releng Fixes, Newsgroup
-*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: fixes, unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
