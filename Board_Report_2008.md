@@ -3,7 +3,7 @@
 DSDP/TM/Board Report 2008
 =========================
 
-< [DSDP](/DSDP "DSDP")‎ | [TM](/DSDP/TM "DSDP/TM")
+< [DSDP](https://wiki.eclipse.org/DSDP "DSDP")‎ | [TM](./TM "DSDP/TM")
 
 **This is the proposed Report for the [Target Management](https://www.eclipse.org/dsdp/tm) project, to be presented to the Eclipse Board on September 17, 2008.**
 
@@ -41,7 +41,7 @@ As outlined on the [project plan](https://www.eclipse.org/projects/project_summa
 
 At the same time, there is much and very good Community involvement bringing in new ideas, patches and features such as the recent Windows CE integration.
 
-Some new initiative is ongoing with the [Target Communication Framework (TCF)](/DSDP/TM/TCF_FAQ "DSDP/TM/TCF FAQ"). This is centered around the connection and communication protocols for embedded systems specifically, well designed with Community interaction and looks very promising. Collaboration with other Eclipse projects (ECF, DTP, E4) is on the way for improved architectures. Perhaps in the context of [E4/Connection Frameworks](/E4/Connection_Frameworks "E4/Connection Frameworks"), some new and better base architectures are going to evolve together with these other projects.
+Some new initiative is ongoing with the [Target Communication Framework (TCF)](https://wiki.eclipse.org/TCF "DSDP/TM/TCF FAQ"). This is centered around the connection and communication protocols for embedded systems specifically, well designed with Community interaction and looks very promising. Collaboration with other Eclipse projects (ECF, DTP, E4) is on the way for improved architectures. Perhaps in the context of [E4/Connection Frameworks](https://wiki.eclipse.org/E4/Connection_Frameworks "E4/Connection Frameworks"), some new and better base architectures are going to evolve together with these other projects.
 
 We're releasing on the yearly coordinated maintenance trains.
 
@@ -52,11 +52,11 @@ _under the following headings (inspired by the Three Communities section of the 
 
 ### Performance as an Eclipse open source project
 
-Community adoption is great, and we have won new contributors and committers for increased diversity and growth. In terms of Process, the TM project has always been at the forefront of adopting EMO proposed processes (such as the XML [Development Resources/Project Plan](/Development_Resources/Project_Plan "Development Resources/Project Plan") recently).
+Community adoption is great, and we have won new contributors and committers for increased diversity and growth. In terms of Process, the TM project has always been at the forefront of adopting EMO proposed processes (such as the XML [Development Resources/Project Plan](https://wiki.eclipse.org/Development_Resources/Project_Plan "Development Resources/Project Plan") recently).
 
 #### Openness
 
-TM is open to external observers and participants. The large number of [Community Contributors](https://www.eclipse.org/dsdp/tm/development/contributors.php) as well as our open, and inviting [TM and RSE FAQ](/TM_and_RSE_FAQ "TM and RSE FAQ"), documentation and [TM Future Planning](/TM_Future_Planning "TM Future Planning") process show this.
+TM is open to external observers and participants. The large number of [Community Contributors](https://www.eclipse.org/dsdp/tm/development/contributors.php) as well as our open, and inviting [TM and RSE FAQ](./TM_and_RSE_FAQ "TM and RSE FAQ"), documentation and [TM Future Planning](./TM_Future_Planning "TM Future Planning") process show this.
 
 #### Transparency
 
@@ -94,12 +94,12 @@ We are currently very well aligned and have a road map to take the project throu
 Board Assistance
 ----------------
 
-The [DSDP/Package](/DSDP/Package "DSDP/Package") effort, which is loosely related to the project, may probably need some help from an IP / Licensing / Distribution point of view.
+The [DSDP/Package](https://wiki.eclipse.org/DSDP/Package "DSDP/Package") effort, which is loosely related to the project, may probably need some help from an IP / Licensing / Distribution point of view.
 
 Noteworthy
 ----------
 
-The [PTP Remote Development Tools](/PTP/designs/remote "PTP/designs/remote") effort has expressed interest in taking over the RSE component from TM, or extract RSE as a component separate from TM with a different name. The RDT folks are using parts of the technology, but there is surprisingly little to no communication between them and the TM project team.
+The [PTP Remote Development Tools](https://wiki.eclipse.org/PTP/designs/remote "PTP/designs/remote") effort has expressed interest in taking over the RSE component from TM, or extract RSE as a component separate from TM with a different name. The RDT folks are using parts of the technology, but there is surprisingly little to no communication between them and the TM project team.
 
 
 (Migrated from [https://wiki.eclipse.org/DSDP/TM/Board_Report_2008](https://wiki.eclipse.org/DSDP/TM/Board_Report_2008))
