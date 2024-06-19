@@ -21,21 +21,21 @@ Contents
 Build Schedule
 ==============
 
-\# I-builds (TM 3.4 Juno) weekdays at 1:30 and 9:00
-30 1 * * 1-5    /shared/tools/tm/ws2/doit_irsbuild.sh I
-00 9 * * 1-5    /shared/tools/tm/ws2/doit_irsbuild.sh I
+    # I-builds (TM 3.4 Juno) weekdays at 1:30 and 9:00
+    30 1 * * 1-5    /shared/tools/tm/ws2/doit_irsbuild.sh I
+    00 9 * * 1-5    /shared/tools/tm/ws2/doit_irsbuild.sh I
 
-\# H-builds (TM 3.3.x Indigo) weekdays at 10:00
-00 10 * * 1-5   /shared/tools/tm/ws\_33x/doit\_irsbuild.sh H
+    # H-builds (TM 3.3.x Indigo) weekdays at 10:00
+    00 10 * * 1-5   /shared/tools/tm/ws\_33x/doit\_irsbuild.sh H
 
-\# M-builds (TM 3.2.x Helios) weekdays at 11:00
-00 11 * * 1-5   /shared/tools/tm/ws\_32x/doit\_irsbuild.sh M
+    # M-builds (TM 3.2.x Helios) weekdays at 11:00
+    00 11 * * 1-5   /shared/tools/tm/ws\_32x/doit\_irsbuild.sh M
 
-\# J-builds (TM 3.1.x Galileo) weekdays at 12:00
-00 12 * * 1-5   /shared/tools/tm/ws\_31x/doit\_irsbuild.sh J
+    # J-builds (TM 3.1.x Galileo) weekdays at 12:00
+    00 12 * * 1-5   /shared/tools/tm/ws\_31x/doit\_irsbuild.sh J
 
-\# L-builds (TM 3.0.x Ganymede) weekdays at 13:00
-00 13 * * 1-5   /shared/tools/tm/ws\_30x/doit\_irsbuild.sh L
+    # L-builds (TM 3.0.x Ganymede) weekdays at 13:00
+    00 13 * * 1-5   /shared/tools/tm/ws\_30x/doit\_irsbuild.sh L
 
 Streams
 =======
