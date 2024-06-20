@@ -3,7 +3,7 @@
 Platform/Team Synchronization on top of RSE
 ===========================================
 
-< [Platform](/Platform "Platform")
+< [Platform](https://wiki.eclipse.org/Platform "Platform")
 
 Contents
 --------
@@ -63,9 +63,9 @@ Development
 Current Status
 --------------
 
-As per [6-Feb-2009](/index.php?title=6-Feb-2009&action=edit&redlink=1 "6-Feb-2009 (page does not exist)"), the initial Summer of Code contribution has been merged into RSE HEAD: As per RSE 3.1m5, it is part of the org.eclipse.rse.importexport plugin (which now depends on Java 1.5 due to the contribution). Original [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) is now closed, but can still be used for comments and suggestions.
+As per 6-Feb-2009, the initial Summer of Code contribution has been merged into RSE HEAD: As per RSE 3.1m5, it is part of the org.eclipse.rse.importexport plugin (which now depends on Java 1.5 due to the contribution). Original [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) is now closed, but can still be used for comments and suggestions.
 
-At its current state, the contribution still has many Open Issues (bugs) and is not yet ready for end user consumption. **See [RSESync/Status and Ideas](/RSESync/Status_and_Ideas "RSESync/Status and Ideas") for what currently works or needs to be done.**
+At its current state, the contribution still has many Open Issues (bugs) and is not yet ready for end user consumption. **See [RSESync/Status and Ideas](./Status_and_Ideas "RSESync/Status and Ideas") for what currently works or needs to be done.**
 
 Development of the plugin continues - everybody is welcome to contribute, by means of testing, patches, ideas or actually committing some code. Please get in touch with us on the [dsdp-tm-dev](https://dev.eclipse.org/mailman/listinfo/dsdp-tm-dev) mailing list if you are interested.
 
