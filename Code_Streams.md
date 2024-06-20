@@ -3,7 +3,7 @@
 TM/Code Streams
 ===============
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 This page lists the open code streams in the [RSE / Target Management Project](https://www.eclipse.org/tm), and how to work with them.
 

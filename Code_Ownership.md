@@ -3,7 +3,7 @@
 TM/Code Ownership
 =================
 
-< [TM](/TM "TM")
+< [TM](./TM "TM")
 
 What do we want to achieve by explicit code ownership?
 

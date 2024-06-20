@@ -27,9 +27,9 @@ Contents
 Status of RSE Synchronization Plugin
 ------------------------------------
 
-As per [6-Feb-2009](/index.php?title=6-Feb-2009&action=edit&redlink=1 "6-Feb-2009 (page does not exist)")
+As per 6-Feb-2009
 
-The initial Summer of Code [Platform/Team Synchronization on top of RSE](/Platform/Team_Synchronization_on_top_of_RSE "Platform/Team Synchronization on top of RSE") contribution has been merged into RSE HEAD: **As per RSE 3.1m5**, it is part of the org.eclipse.rse.importexport plugin (which now depends on Java 1.5 due to the contribution). Original [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) is now closed, but can still be used for comments and suggestions.
+The initial Summer of Code [Platform/Team Synchronization on top of RSE](./Team_Synchronization_on_top_of_RSE "Platform/Team Synchronization on top of RSE") contribution has been merged into RSE HEAD: **As per RSE 3.1m5**, it is part of the org.eclipse.rse.importexport plugin (which now depends on Java 1.5 due to the contribution). Original [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) is now closed, but can still be used for comments and suggestions.
 
 At its current state, the contribution still has many [#Open Issues (bugs)](#Open-Issues-.28bugs.29) and is not yet ready for end user consumption. Community help for resolving the remaining issues is would be much appreciated! In most cases, you should find out what's going wrong if you compare the code against the old FTP plugin. [Bug 185925 comment 11](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925#c11) has instructions for how to get that into your workspace.
 
