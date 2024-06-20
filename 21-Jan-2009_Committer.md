@@ -52,13 +52,13 @@ Agenda
 #### TM 3.0.3 status
 
 *   Builds ongoing; final 3.0.3 is due on Wednesday Feb 18 (RC1: Feb 4, RC2: Feb 11)
-    *   **AI Martin** contribute update site for [Ganymede](./Ganymede "Ganymede")
+    *   **AI Martin** contribute update site for [Ganymede](https://wiki.eclipse.org/Ganymede "Ganymede")
 
 #### TM 3.1 status
 
 *   **Big Rocks** see [DSDP/TM/Committer Phone Meeting 17-Dec-2008](./Committer_Phone_Meeting_17-Dec-2008 "DSDP/TM/Committer Phone Meeting 17-Dec-2008")
 *   [3.1M4 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.0&target_milestone=3.0.1&target_milestone=3.0.2&target_milestone=3.1+M2&target_milestone=3.1+M3&target_milestone=3.1+M4&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- **AI Everyone** reassign target milestone as appropriate
-*   [3.1M5 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.1+M5&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- [Galileo](./Galileo "Galileo") M5 is on Friday Feb 6
+*   [3.1M5 Assigned Open bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&product=Target+Management&target_milestone=3.1+M5&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit) \- [Galileo](https://wiki.eclipse.org/Galileo "Galileo") M5 is on Friday Feb 6
     *   This will likely go on the Eclipsecon stick: Want a one-day test pass? - Last checkins on Friday Jan 30
     *   **AI Martin** to create I-build on the weekend after the 30th, announce a 1-day testpass on Tuesday by E-Mail
 *   [Severity Major](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&cmdtype=doit) open bugs, [High Priority](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&cmdtype=doit&field0-0-0=priority&type0-0-0=regexp&value0-0-0=P%5B12%5D&field0-0-1=bug_severity&type0-0-1=regexp&value0-0-1=blocker%7Ccritical%7Cmajor) open bugs, [DSDP/TM/3.0 Known Issues and Workarounds](./3.0_Known_Issues_and_Workarounds "DSDP/TM/3.0 Known Issues and Workarounds")
@@ -122,7 +122,7 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Meetings/4-Feb-2009](./Meetings/4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009") (2 weeks after)
+*   Next [DSDP/TM/Meetings/4-Feb-2009](./4-Feb-2009 "DSDP/TM/Meetings/4-Feb-2009") (2 weeks after)
 *   Next DSDP/TM/Committer Phone Meeting 18-Feb-2009 (4 weeks after)
 
 

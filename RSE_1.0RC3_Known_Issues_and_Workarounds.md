@@ -3,7 +3,7 @@
 RSE 1.0RC3 Known Issues and Workarounds
 =======================================
 
-Nav: [DSDP/TM](/DSDP/TM "DSDP/TM") | [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0RC3 Known Issues and Workarounds
+Nav: [DSDP/TM](./TM "DSDP/TM") | [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions") | RSE 1.0RC3 Known Issues and Workarounds
 
 * * *
 
@@ -25,10 +25,10 @@ See the [Open P1, P2 bugs](https://bugs.eclipse.org/bugs/buglist.cgi?query_forma
 
 Older Known Issues:
 
-*   [RSE 1.0RC1 Known Issues and Workarounds](/RSE_1.0RC1_Known_Issues_and_Workarounds "RSE 1.0RC1 Known Issues and Workarounds")
-*   [RSE 1.0M5 Known Issues and Workarounds](/RSE_1.0M5_Known_Issues_and_Workarounds "RSE 1.0M5 Known Issues and Workarounds")
+*   [RSE 1.0RC1 Known Issues and Workarounds](./RSE_1.0RC1_Known_Issues_and_Workarounds "RSE 1.0RC1 Known Issues and Workarounds")
+*   [RSE 1.0M5 Known Issues and Workarounds](./RSE_1.0M5_Known_Issues_and_Workarounds "RSE 1.0M5 Known Issues and Workarounds")
 
-(Back to [RSE 1.0 Testing](/RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](/RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
+(Back to [RSE 1.0 Testing](./RSE_1.0_Testing "RSE 1.0 Testing") | [RSE 1.0 Test Instructions](./RSE_1.0_Test_Instructions "RSE 1.0 Test Instructions"))
 
 
 (Migrated from [https://wiki.eclipse.org/RSE_1.0RC3_Known_Issues_and_Workarounds](https://wiki.eclipse.org/RSE_1.0RC3_Known_Issues_and_Workarounds))

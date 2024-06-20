@@ -114,7 +114,7 @@ Action Items
 *   **Xuan**: Add Useractions to PII Mapfile; Use Properties for Unit Tests
 *   **Kevin**: Website Updates
 *   **Martin**: EclipseCon; [bug 190231](https://bugs.eclipse.org/bugs/show_bug.cgi?id=190231) Subsytem UI->Core; finish new releng; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Newsgroup
-*   **Javier**: [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: [bug 212382](https://bugs.eclipse.org/bugs/show_bug.cgi?id=212382) ftp initCommands; add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
