@@ -75,7 +75,7 @@ Notes
 
 *   **New and Noteworthy**
     *   I'll need a list of new features for a New&Noteworthy, and for the Release Review. Release Review material is due next week.
-    *   See [CDT/User/NewIn50](./CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
+    *   See [CDT/User/NewIn50](https://wiki.eclipse.org/CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
     *   For the N&N, please make screenshots and work on "your" new features, e.g.
         *   Useractions
 
@@ -124,7 +124,7 @@ Vacation, away
 --------------
 
 *   Martin public holiday Thursday May 22
-*   Martin NOT in Ottawa for [E4/Summit](./E4/Summit "E4/Summit") May 22-23
+*   Martin NOT in Ottawa for [E4/Summit](https://wiki.eclipse.org/E4/Summit "E4/Summit") May 22-23
 *   DaveD Monday May 26 public holiday in US
 *   Martin vacation June 11 - 22 -- **AI Martin** finish and test the new Build scripts on dsdp.eclipse.org till then
 *   DaveM vacation June 16 - 20

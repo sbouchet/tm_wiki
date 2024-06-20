@@ -117,13 +117,13 @@ Action Items
 *   **Xuan**: Use Properties for Unit Tests
 *   **Kevin**: Use Properties for Unit Tests; Website Updates
 *   **Martin**: Add UserActions to build/downloads; finish new releng; Write-up TM 3.0 Plan; Look at PropertyDescriptor issues; unit tests; Newsgroup
-*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](./CVS_Development#Testing "CVS Development")
+*   **Javier**: add unit tests; document the Symbian internal test setup similar to [CVS](https://bugs.eclipse.org/bugs/show_bug.cgi?id=204138#c20) \-\- see also [CVS_Development#Testing](https://wiki.eclipse.org/CVS_Development#Testing "CVS Development")
 *   **Michael**: Terminal improvements
 
 Next Meeting
 ------------
 
-*   Next [BugDay/February_2008](./BugDay/February_2008 "BugDay/February 2008") on Feb 29
+*   Next [BugDay/February_2008](https://wiki.eclipse.org/BugDay/February_2008 "BugDay/February 2008") on Feb 29
 *   EclipseCon March 17-20: Martin, Michael - no other committers
 *   [DSDP/TM/Committer Phone Meeting 5-Mar-2008](./Committer_Phone_Meeting_5-Mar-2008 "DSDP/TM/Committer Phone Meeting 5-Mar-2008") (2 weeks) at [1600 UTC](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2008&month=3&day=5&hour=16&min=00&sec=0&p1=224&p2=159&p3=250&p4=136&p5=223&iv=1800)
 *   Monthly [DSDP/TM/Phone Meeting 5-Mar-2008](./Phone_Meeting_5-Mar-2008 "DSDP/TM/Phone Meeting 5-Mar-2008") at [9am PST / 1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=5&year=2008&hour=16&min=00&sec=0&p1=0)
