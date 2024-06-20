@@ -122,7 +122,7 @@ Next Meeting
 ------------
 
 *   Next [DSDP/TM/Meetings/1-Apr-2009](./1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009") (2 weeks after)
-*   Next [DSDP/TM/Meetings/15-Apr-2009 Committer](./15-Apr-2009_Committer "DSDP/TM/Meetings/15-Apr-2009 Committer") (4 weeks after)
+*   Next [DSDP/TM/Meetings/15-Apr-2009 Committer](./16-Apr-2009_Committer "DSDP/TM/Meetings/15-Apr-2009 Committer") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Meetings/18-Mar-2009_Committer](https://wiki.eclipse.org//DSDP/TM/Meetings/18-Mar-2009_Committer))
