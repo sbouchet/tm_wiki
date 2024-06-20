@@ -56,7 +56,7 @@ Notes
     *   Full [Ganymede Slides](https://www.eclipse.org/projects/slides/Ganymede_04June2008.zip) \- We are #22ff on the Overview deck, alphabetically pretty soon
     *   For our project: Community looks very healthy; Code and API additions look very good, healthy in terms of size; Bug backlog is a problem; Multiple APIs, disconnect of "Remote Development Tools" initiative
 
-*   **Project Plan**: [Development Resources/Project Plan](./Development_Resources/Project_Plan "Development Resources/Project Plan") Status
+*   **Project Plan**: [Development Resources/Project Plan](https://wiki.eclipse.org/Development_Resources/Project_Plan "Development Resources/Project Plan") Status
     *   Ours is XML now, on [https://www.eclipse.org/dsdp/tm/development/tm\_plan\_3_0.xml](https://www.eclipse.org/dsdp/tm/development/tm_plan_3_0.xml) \-\- also in your www-tm-development project
     *   Bjorn's tooling [renders it to PHP](https://www.eclipse.org/projects/project-plan.php?projectid=dsdp.tm) \- bottom has a [link for raw XML](https://www.eclipse.org/projects/project-plan.php?projectid=dsdp.tm&raw=1)
     *   Everybody can edit the plan at any time to fix typos etc
@@ -72,7 +72,7 @@ Notes
         *   Creating Connections, Filters, Drag&Drop, ...
         *   Useractions: Should work for users
     *   Listing New&Noteworthy for ZX
-    *   [BugDay/May 2008](./BugDay/May_2008 "BugDay/May 2008") on May 30, who will be on IRC?
+    *   [BugDay/May 2008](https://wiki.eclipse.org/BugDay/May_2008 "BugDay/May 2008") on May 30, who will be on IRC?
 
 *   Late API Changes / Additions
     *   Must decide how we want to handle Apidoc bugs
@@ -119,7 +119,7 @@ Notes
 
 *   **New and Noteworthy**
     *   I'll need a list of new features for a New&Noteworthy, and for the Release Review. Release Review material is due next week.
-    *   See [CDT/User/NewIn50](./CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
+    *   See [CDT/User/NewIn50](https://wiki.eclipse.org/CDT/User/NewIn50 "CDT/User/NewIn50") for example; for TM, I put most news into our Build Notes already, so it should be possible to compile the N&N out of the build notes
     *   For the N&N, please make screenshots and work on "your" new features, e.g.
         *   Useractions
 

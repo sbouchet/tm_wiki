@@ -39,15 +39,15 @@ Agenda
 
 ### Last Meetings
 
-*   Last [DSDP/TM/Meetings/1-Apr-2009](./Meetings/1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
-*   Last [DSDP/TM/Meetings/18-Mar-2009 Committer](./Meetings/18-Mar-2009_Committer "DSDP/TM/Meetings/18-Mar-2009 Committer")
+*   Last [DSDP/TM/Meetings/1-Apr-2009](./1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
+*   Last [DSDP/TM/Meetings/18-Mar-2009 Committer](./18-Mar-2009_Committer "DSDP/TM/Meetings/18-Mar-2009 Committer")
 
 ### Status round call
 
 *   DaveM - Import / Export / Synchronize
     *   Current code is very broken: UI not persisted properly; inconsistencies; not exported to the right place; comparison fails
     *   After DaveM's fixes, at least the UI handling works; started on a different path (timestamp comparison)
-    *   [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) SOC bug, and [RSESync/Status and Ideas](./RSESync/Status_and_Ideas "RSESync/Status and Ideas") Wiki - DaveM to commit what he has today, and then decide how to proceed (perhaps ask for Community patches).
+    *   [bug 185925](https://bugs.eclipse.org/bugs/show_bug.cgi?id=185925) SOC bug, and [RSESync/Status and Ideas](./Status_and_Ideas "RSESync/Status and Ideas") Wiki - DaveM to commit what he has today, and then decide how to proceed (perhaps ask for Community patches).
 *   Xuan - [bug 270618](https://bugs.eclipse.org/bugs/show_bug.cgi?id=270618) Terminal Accessibility
     *   Preference for disabling some keys to be sent to the remote?
     *   Injecting a keyboard handler into the Terminal widget? - Provisional API
@@ -80,7 +80,7 @@ Vacations
 Action Items
 ------------
 
-*   Last [DSDP/TM/Meetings/1-Apr-2009](./Meetings/1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
+*   Last [DSDP/TM/Meetings/1-Apr-2009](./1-Apr-2009 "DSDP/TM/Meetings/1-Apr-2009")
 *   **Everyone** Fix target milestone of 3.1m6 assigned bugs.
 *   **Martin** [bug 256581](https://bugs.eclipse.org/bugs/show_bug.cgi?id=256581) SSH performance; **old** review [bug 196176](https://bugs.eclipse.org/bugs/show_bug.cgi?id=196176) Rado's deferred D&D; [bug 227750](https://bugs.eclipse.org/bugs/show_bug.cgi?id=227750) IRSEInteractionProvider; [bug 240991](https://bugs.eclipse.org/bugs/show_bug.cgi?id=240991), [bug 239230](https://bugs.eclipse.org/bugs/show_bug.cgi?id=239230) Early startup; Run performance tests for [bug 236065](https://bugs.eclipse.org/bugs/show_bug.cgi?id=236065) IFileService improvements; Critical EFS bugs; RXTX 2.2;
 *   **Anna**: Remotecdt; new builder based on CBI tutorial
@@ -91,8 +91,8 @@ Action Items
 Next Meeting
 ------------
 
-*   Next [DSDP/TM/Meetings/6-May-2009](./Meetings/6-May-2009 "DSDP/TM/Meetings/6-May-2009") (3 weeks after)
-*   Next [DSDP/TM/Meetings/20-May-2009 Committer](./Meetings/20-May-2009_Committer "DSDP/TM/Meetings/20-May-2009 Committer") (5 weeks after)
+*   Next [DSDP/TM/Meetings/6-May-2009](./6-May-2009 "DSDP/TM/Meetings/6-May-2009") (3 weeks after)
+*   Next [DSDP/TM/Meetings/20-May-2009 Committer](./20-May-2009_Committer "DSDP/TM/Meetings/20-May-2009 Committer") (5 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Meetings/16-Apr-2009_Committer](https://wiki.eclipse.org//DSDP/TM/Meetings/16-Apr-2009_Committer))

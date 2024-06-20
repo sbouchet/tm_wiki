@@ -148,7 +148,7 @@ Next Meeting
 ------------
 
 *   Next [DSDP/TM/Phone Meeting 7-Jan-2009](./Phone_Meeting_7-Jan-2009 "DSDP/TM/Phone Meeting 7-Jan-2009") (2 weeks after)
-*   Next [DSDP/TM/Meetings/21-Jan-2009 Committer](./Meetings/21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer") (4 weeks after)
+*   Next [DSDP/TM/Meetings/21-Jan-2009 Committer](./21-Jan-2009_Committer "DSDP/TM/Meetings/21-Jan-2009 Committer") (4 weeks after)
 
 
 (Migrated from [https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Dec-2008](https://wiki.eclipse.org//DSDP/TM/Committer_Phone_Meeting_17-Dec-2008))

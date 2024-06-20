@@ -199,7 +199,5 @@ Test Reports and Bugs Found
     *   [Bugs fixed for 2.0M7 by date](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&resolution=FIXED&resolution=WONTFIX&resolution=INVALID&resolution=WORKSFORME&chfieldfrom=2007-04-09&chfieldto=2007-05-20&chfield=resolution&cmdtype=doit) including verified and closed
     *   [Bugs fixed for 2.0M7 by target milestone](https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&classification=DSDP&product=Target+Management&target_milestone=2.0+M7&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&resolution=FIXED&resolution=INVALID&resolution=WONTFIX&resolution=WORKSFORME&cmdtype=doit)
 
-[Media:Example.ogg](./index.php?title=Special:Upload&wpDestFile=Example.ogg "Example.ogg")
-
 
 (Migrated from [https://wiki.eclipse.org/TM_2.0_M7_Testing](https://wiki.eclipse.org/TM_2.0_M7_Testing))
